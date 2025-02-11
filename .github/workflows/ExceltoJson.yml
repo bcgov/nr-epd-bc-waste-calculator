@@ -1,0 +1,47 @@
+name: Convert Excel to JSON
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main  # Trigger on push to the main branch
+    paths:
+      - "folder/test.xlsx"  # Specify the path to your Excel file
+  pull_request:
+    branches:
+      - main
+jobs:
+  convert:
+    runs-on: ubuntu-latest  # You can also choose windows-latest or macos-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'  # You can adjust the version ifneeded
+
+     # Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install wheel
+          pip install pandas openpyxl
+
+           # Run the script to convert Excel to JSON
+      - name: Convert Excel to JSON
+        run: |
+          python test.py folder/test.xlsx folder/output.json
+
+      # Optionally, you can commit the output JSON file back to the repository
+      - name: Commit and push JSON output
+        run: |
+          git config --global user.name 'AmanBhathal'
+          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git add folder/output.json
+          git commit -m "Update JSON file"
+          git push
