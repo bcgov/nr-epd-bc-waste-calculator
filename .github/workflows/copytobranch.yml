@@ -1,7 +1,8 @@
 name: Copy folder to other branch
 
-on: [push]
-
+on:
+  workflow_dispatch:
+  push:
 jobs:
   copy:
     name: Copy my folder
