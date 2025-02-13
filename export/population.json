@@ -1,0 +1,639 @@
+[
+    {
+        "SGC": "23000",
+        "Name": "Alberni-Clayoquot",
+        "Area Type": "RD",
+        "2023 ": "35,891 ",
+        "": ""
+    },
+    {
+        "SGC": "23008",
+        "Name": "     Port Alberni",
+        "Area Type": "CY",
+        "2023 ": "19,496 ",
+        "": ""
+    },
+    {
+        "SGC": "23025",
+        "Name": "     Tofino",
+        "Area Type": "DM",
+        "2023 ": "2,649 ",
+        "": ""
+    },
+    {
+        "SGC": "23019",
+        "Name": "     Ucluelet",
+        "Area Type": "DM",
+        "2023 ": "2,338 ",
+        "": ""
+    },
+    {
+        "SGC": "23999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "11,408 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "51000",
+        "Name": "Bulkley-Nechako",
+        "Area Type": "RD",
+        "2023 ": "39,370 ",
+        "": ""
+    },
+    {
+        "SGC": "51022",
+        "Name": "     Burns Lake",
+        "Area Type": "VL",
+        "2023 ": "2,005 ",
+        "": ""
+    },
+    {
+        "SGC": "51013",
+        "Name": "     Fort St. James",
+        "Area Type": "DM",
+        "2023 ": "1,455 ",
+        "": ""
+    },
+    {
+        "SGC": "51009",
+        "Name": "     Fraser Lake",
+        "Area Type": "VL",
+        "2023 ": "946 ",
+        "": ""
+    },
+    {
+        "SGC": "51032",
+        "Name": "     Granisle",
+        "Area Type": "VL",
+        "2023 ": "337 ",
+        "": ""
+    },
+    {
+        "SGC": "51034",
+        "Name": "     Houston",
+        "Area Type": "DM",
+        "2023 ": "3,182 ",
+        "": ""
+    },
+    {
+        "SGC": "51043",
+        "Name": "     Smithers",
+        "Area Type": "T",
+        "2023 ": "5,622 ",
+        "": ""
+    },
+    {
+        "SGC": "51038",
+        "Name": "     Telkwa",
+        "Area Type": "VL",
+        "2023 ": "1,545 ",
+        "": ""
+    },
+    {
+        "SGC": "51007",
+        "Name": "     Vanderhoof",
+        "Area Type": "DM",
+        "2023 ": "4,543 ",
+        "": ""
+    },
+    {
+        "SGC": "51999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "19,735 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "17000",
+        "Name": "Capital",
+        "Area Type": "RD",
+        "2023 ": "453,425 ",
+        "": ""
+    },
+    {
+        "SGC": "17015",
+        "Name": "     Central Saanich",
+        "Area Type": "DM",
+        "2023 ": "18,369 ",
+        "": ""
+    },
+    {
+        "SGC": "17041",
+        "Name": "     Colwood",
+        "Area Type": "CY",
+        "2023 ": "21,403 ",
+        "": ""
+    },
+    {
+        "SGC": "17040",
+        "Name": "     Esquimalt",
+        "Area Type": "DM",
+        "2023 ": "19,017 ",
+        "": ""
+    },
+    {
+        "SGC": "17049",
+        "Name": "     Highlands",
+        "Area Type": "DM",
+        "2023 ": "2,894 ",
+        "": ""
+    },
+    {
+        "SGC": "17044",
+        "Name": "     Langford",
+        "Area Type": "CY",
+        "2023 ": "55,069 ",
+        "": ""
+    },
+    {
+        "SGC": "17042",
+        "Name": "     Metchosin",
+        "Area Type": "DM",
+        "2023 ": "5,295 ",
+        "": ""
+    },
+    {
+        "SGC": "17005",
+        "Name": "     North Saanich",
+        "Area Type": "DM",
+        "2023 ": "13,228 ",
+        "": ""
+    },
+    {
+        "SGC": "17030",
+        "Name": "     Oak Bay",
+        "Area Type": "DM",
+        "2023 ": "18,888 ",
+        "": ""
+    },
+    {
+        "SGC": "17021",
+        "Name": "     Saanich",
+        "Area Type": "DM",
+        "2023 ": "125,380 ",
+        "": ""
+    },
+    {
+        "SGC": "17010",
+        "Name": "     Sidney",
+        "Area Type": "T",
+        "2023 ": "13,151 ",
+        "": ""
+    },
+    {
+        "SGC": "17052",
+        "Name": "     Sooke",
+        "Area Type": "DM",
+        "2023 ": "16,795 ",
+        "": ""
+    },
+    {
+        "SGC": "17034",
+        "Name": "     Victoria",
+        "Area Type": "CY",
+        "2023 ": "100,505 ",
+        "": ""
+    },
+    {
+        "SGC": "17047",
+        "Name": "     View Royal",
+        "Area Type": "T",
+        "2023 ": "12,584 ",
+        "": ""
+    },
+    {
+        "SGC": "17999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "30,847 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "41000",
+        "Name": "Cariboo",
+        "Area Type": "RD",
+        "2023 ": "66,291 ",
+        "": ""
+    },
+    {
+        "SGC": "41005",
+        "Name": "     One Hundred Mile House",
+        "Area Type": "DM",
+        "2023 ": "2,009 ",
+        "": ""
+    },
+    {
+        "SGC": "41013",
+        "Name": "     Quesnel",
+        "Area Type": "CY",
+        "2023 ": "10,070 ",
+        "": ""
+    },
+    {
+        "SGC": "41025",
+        "Name": "     Wells",
+        "Area Type": "DM",
+        "2023 ": "229 ",
+        "": ""
+    },
+    {
+        "SGC": "41009",
+        "Name": "     Williams Lake",
+        "Area Type": "CY",
+        "2023 ": "11,422 ",
+        "": ""
+    },
+    {
+        "SGC": "41999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "42,561 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "45000",
+        "Name": "Central Coast",
+        "Area Type": "RD",
+        "2023 ": "3,850 ",
+        "": ""
+    },
+    {
+        "SGC": "45999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "3,850 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "3000",
+        "Name": "Central Kootenay",
+        "Area Type": "RD",
+        "2023 ": "67,129 ",
+        "": ""
+    },
+    {
+        "SGC": "3045",
+        "Name": "     Castlegar",
+        "Area Type": "CY",
+        "2023 ": "9,084 ",
+        "": ""
+    },
+    {
+        "SGC": "3004",
+        "Name": "     Creston",
+        "Area Type": "T",
+        "2023 ": "6,002 ",
+        "": ""
+    },
+    {
+        "SGC": "3023",
+        "Name": "     Kaslo",
+        "Area Type": "VL",
+        "2023 ": "1,122 ",
+        "": ""
+    },
+    {
+        "SGC": "3050",
+        "Name": "     Nakusp",
+        "Area Type": "VL",
+        "2023 ": "1,708 ",
+        "": ""
+    },
+    {
+        "SGC": "3015",
+        "Name": "     Nelson",
+        "Area Type": "CY",
+        "2023 ": "11,931 ",
+        "": ""
+    },
+    {
+        "SGC": "3032",
+        "Name": "     New Denver",
+        "Area Type": "VL",
+        "2023 ": "516 ",
+        "": ""
+    },
+    {
+        "SGC": "3011",
+        "Name": "     Salmo",
+        "Area Type": "VL",
+        "2023 ": "1,305 ",
+        "": ""
+    },
+    {
+        "SGC": "3027",
+        "Name": "     Silverton",
+        "Area Type": "VL",
+        "2023 ": "192 ",
+        "": ""
+    },
+    {
+        "SGC": "3019",
+        "Name": "     Slocan",
+        "Area Type": "VL",
+        "2023 ": "407 ",
+        "": ""
+    },
+    {
+        "SGC": "3999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "34,862 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "35000",
+        "Name": "Central Okanagan",
+        "Area Type": "RD",
+        "2023 ": "246,789 ",
+        "": ""
+    },
+    {
+        "SGC": "35010",
+        "Name": "     Kelowna",
+        "Area Type": "CY",
+        "2023 ": "161,166 ",
+        "": ""
+    },
+    {
+        "SGC": "35016",
+        "Name": "     Lake Country",
+        "Area Type": "DM",
+        "2023 ": "17,539 ",
+        "": ""
+    },
+    {
+        "SGC": "35018",
+        "Name": "     Peachland",
+        "Area Type": "DM",
+        "2023 ": "6,139 ",
+        "": ""
+    },
+    {
+        "SGC": "35029",
+        "Name": "     West Kelowna",
+        "Area Type": "CY",
+        "2023 ": "39,853 ",
+        "": ""
+    },
+    {
+        "SGC": "35999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "22,092 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "39000",
+        "Name": "Columbia-Shuswap",
+        "Area Type": "RD",
+        "2023 ": "61,505 ",
+        "": ""
+    },
+    {
+        "SGC": "39007",
+        "Name": "     Golden",
+        "Area Type": "T",
+        "2023 ": "4,363 ",
+        "": ""
+    },
+    {
+        "SGC": "39019",
+        "Name": "     Revelstoke",
+        "Area Type": "CY",
+        "2023 ": "9,032 ",
+        "": ""
+    },
+    {
+        "SGC": "39032",
+        "Name": "     Salmon Arm",
+        "Area Type": "CY",
+        "2023 ": "20,583 ",
+        "": ""
+    },
+    {
+        "SGC": "39045",
+        "Name": "     Sicamous",
+        "Area Type": "DM",
+        "2023 ": "2,809 ",
+        "": ""
+    },
+    {
+        "SGC": "39999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "24,718 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "26000",
+        "Name": "Comox Valley",
+        "Area Type": "RD",
+        "2023 ": "77,706 ",
+        "": ""
+    },
+    {
+        "SGC": "26005",
+        "Name": "     Comox",
+        "Area Type": "T",
+        "2023 ": "15,607 ",
+        "": ""
+    },
+    {
+        "SGC": "26010",
+        "Name": "     Courtenay",
+        "Area Type": "CY",
+        "2023 ": "31,042 ",
+        "": ""
+    },
+    {
+        "SGC": "26014",
+        "Name": "     Cumberland",
+        "Area Type": "VL",
+        "2023 ": "4,805 ",
+        "": ""
+    },
+    {
+        "SGC": "26999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "26,252 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "19000",
+        "Name": "Cowichan Valley",
+        "Area Type": "RD",
+        "2023 ": "94,941 ",
+        "": ""
+    },
+    {
+        "SGC": "19012",
+        "Name": "     Duncan",
+        "Area Type": "CY",
+        "2023 ": "5,475 ",
+        "": ""
+    },
+    {
+        "SGC": "19021",
+        "Name": "     Ladysmith",
+        "Area Type": "T",
+        "2023 ": "9,662 ",
+        "": ""
+    },
+    {
+        "SGC": "19016",
+        "Name": "     Lake Cowichan",
+        "Area Type": "T",
+        "2023 ": "3,689 ",
+        "": ""
+    },
+    {
+        "SGC": "19008",
+        "Name": "     North Cowichan",
+        "Area Type": "DM",
+        "2023 ": "33,873 ",
+        "": ""
+    },
+    {
+        "SGC": "19999",
+        "Name": "     Unincorporated Areas",
+        "Area Type": "RDR",
+        "2023 ": "42,242 ",
+        "": ""
+    },
+    {
+        "SGC": null,
+        "Name": null,
+        "Area Type": null,
+        "2023 ": " ",
+        "": ""
+    },
+    {
+        "SGC": "1000",
+        "Name": "East Kootenay",
+        "Area Type": "RD",
+        "2023 ": "70,741 ",
+        "": ""
+    },
+    {
+        "SGC": "1043",
+        "Name": "     Canal Flats",
+        "Area Type": "VL",
+        "2023 ": "860 ",
+        "": ""
+    },
+    {
+        "SGC": "1022",
+        "Name": "     Cranbrook",
+        "Area Type": "CY",
+        "2023 ": "22,053 ",
+        "": ""
+    },
+    {
+        "SGC": "1003",
+        "Name": "     Elkford",
+        "Area Type": "DM",
+        "2023 ": "2,942 ",
+        "": ""
+    },
+    {
+        "SGC": "1012",
+        "Name": "     Fernie",
+        "Area Type": "CY",
+        "2023 ": "6,780 ",
+        "": ""
+    },
+    {
+        "SGC": "1039",
+        "Name": "     Invermere",
+        "Area Type": "DM",
+        "2023 ": "4,159 ",
+        "": ""
+    },
+    {
+        "SGC": "1028",
+        "Name": "     Kimberley",
+        "Area Type": "CY",
+        "2023 ": "8,804 ",
+        "": ""
+    },
+    {
+        "SGC": "1040",
+        "Name": "     Radium Hot Springs",
+        "Area Type": "VL",
+        "2023 ": "1,443 ",
+        "": ""
+    },
+    {
+        "SGC": "1006",
+        "Name": "     Sparwood",
+        "Area Type": "DM",
+        "2023 ": "4,450 ",
+        "": ""
+    }
+]
