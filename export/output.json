@@ -1,16 +1,832 @@
 {
-    "Sheet1": [
+    "msw_in_region_disposal": [
         {
-            "id ": 1,
-            "name": "abc"
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Member",
+            "Unnamed: 1": "Response ID",
+            "Unnamed: 2": "In-Region - Name of Disposal Facility:",
+            "Unnamed: 3": "Owner",
+            "Unnamed: 4": "Authorization Number",
+            "Unnamed: 5": "In-Region - Scale:",
+            "Unnamed: 6": "In-Region - Quantity (Tonnes):"
         },
         {
-            "id ": 2,
-            "name": "pqr"
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Alberni-Clayoquot Regional District",
+            "Unnamed: 1": 2100871,
+            "Unnamed: 2": "Alberni Valley Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 524,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 15256
         },
         {
-            "id ": 3,
-            "name": "rst"
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Alberni-Clayoquot Regional District",
+            "Unnamed: 1": 2100871,
+            "Unnamed: 2": "West Coast Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5634,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7267.5
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Capital Regional District",
+            "Unnamed: 1": 2100877,
+            "Unnamed: 2": "Hartland Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 12659,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 180004
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Quesnel Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 3132,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 17595
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Likely Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4533,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 325
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Cochin Lanfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4535,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 50
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Puntzi Lake Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4536,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 85
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "South Cariboo Landfill (100 Mile House landfill)",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4994,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7968
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Interlakes Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5776,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 1200
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Kleena Kleene Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 6313,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 20
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Big Lake Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 6510,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 350
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Nemaiah Valley Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 6922,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 25
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Tatla Lake Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 7200,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 80
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Mahood Lake Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 7644,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 90
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Nazko Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 10953,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 115
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Watch Lake Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 11071,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 225
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Gibraltar Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 16556,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 10693
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "West Chilcotin Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17920,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 495
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Cariboo Regional District",
+            "Unnamed: 1": 2100881,
+            "Unnamed: 2": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 103019,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 2658
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Central Coast Regional District",
+            "Unnamed: 1": 2100891,
+            "Unnamed: 2": "Thorsen Creek Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4223,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 1576
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Central Coast Regional District",
+            "Unnamed: 1": 2100891,
+            "Unnamed: 2": "Ocean Falls Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 10611,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Central Coast Regional District",
+            "Unnamed: 1": 2100891,
+            "Unnamed: 2": "Denny Island Landfill",
+            "Unnamed: 3": "Private Firm",
+            "Unnamed: 4": 18186,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Central Coast Regional District",
+            "Unnamed: 1": 2100891,
+            "Unnamed: 2": "Wuikinuxv Landfill",
+            "Unnamed: 3": "Private Firm",
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Columbia Shuswap Regional District",
+            "Unnamed: 1": 2100899,
+            "Unnamed: 2": "Sicamous Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 514,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 3218
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Columbia Shuswap Regional District",
+            "Unnamed: 1": 2100899,
+            "Unnamed: 2": "Salmon Arm Landfil",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5479,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 31232
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Columbia Shuswap Regional District",
+            "Unnamed: 1": 2100899,
+            "Unnamed: 2": "Revelstoke Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15821,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7414
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Columbia Shuswap Regional District",
+            "Unnamed: 1": 2100899,
+            "Unnamed: 2": "Golden Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17006,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 5331
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Comox Valley Regional District (Strathcona)",
+            "Unnamed: 1": 2100901,
+            "Unnamed: 2": "Campbell River Waste Management Centre",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 2401,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 2201
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Comox Valley Regional District (Strathcona)",
+            "Unnamed: 1": 2100901,
+            "Unnamed: 2": "Gold River Inert Waste Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 3825,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Comox Valley Regional District (Strathcona)",
+            "Unnamed: 1": 2100901,
+            "Unnamed: 2": "Tahsis Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4278,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 650
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Comox Valley Regional District (Strathcona)",
+            "Unnamed: 1": 2100901,
+            "Unnamed: 2": "Comox Valley Waste Management Centre",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5050,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 61944
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Comox Valley Regional District (Strathcona)",
+            "Unnamed: 1": 2100901,
+            "Unnamed: 2": "Zeballos Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 7496,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 493
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Fort George Regional District",
+            "Unnamed: 1": 2100927,
+            "Unnamed: 2": "Foothills",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 1697,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 74416.7
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Fort George Regional District",
+            "Unnamed: 1": 2100927,
+            "Unnamed: 2": "Legrand",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 6424,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Fort George Regional District",
+            "Unnamed: 1": 2100927,
+            "Unnamed: 2": "Mackenzie",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 100206,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 539
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Fort George Regional District",
+            "Unnamed: 1": 2100927,
+            "Unnamed: 2": "aggregate",
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Valley Regional District",
+            "Unnamed: 1": 2100935,
+            "Unnamed: 2": "Bailey Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 101798,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 86882.58
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Valley Regional District",
+            "Unnamed: 1": 2100935,
+            "Unnamed: 2": "Chaumox Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 101804,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 383.44
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Valley Regional District",
+            "Unnamed: 1": 2100935,
+            "Unnamed: 2": "Mission Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 105058,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 13875.49
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Fraser Valley Regional District",
+            "Unnamed: 1": 2100935,
+            "Unnamed: 2": "Metro Vancouver Waste Import correction",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": -82000
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Metro Vancouver",
+            "Unnamed: 1": 2100945,
+            "Unnamed: 2": "Vancouver Landfill (VLF)",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 1611,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 683496
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Metro Vancouver",
+            "Unnamed: 1": 2100945,
+            "Unnamed: 2": "Waste-to-Energy (WTE) Facility",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 107051,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 233052
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Metro Vancouver",
+            "Unnamed: 1": 2100945,
+            "Unnamed: 2": "Private landfills (C&D)",
+            "Unnamed: 3": "Private Firm",
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 185143.01
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "North Coast Regional District",
+            "Unnamed: 1": 2101029,
+            "Unnamed: 2": "Island solid Waste Management",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 7150,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 1860
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "North Coast Regional District",
+            "Unnamed: 1": 2101029,
+            "Unnamed: 2": "Prince Rupert landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 7988,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 11797
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Northern Rockies Regional Municipality",
+            "Unnamed: 1": 2101035,
+            "Unnamed: 2": "Northern Rockies Regional Municipality Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 16960,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 1845.48
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Peace River Regional District",
+            "Unnamed: 1": 2101047,
+            "Unnamed: 2": "Chetwynd Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 2896,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 5406.9
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Peace River Regional District",
+            "Unnamed: 1": 2101047,
+            "Unnamed: 2": "Bessborough Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17529,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 14613.69
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Peace River Regional District",
+            "Unnamed: 1": 2101047,
+            "Unnamed: 2": "North Peace Regional (formerly Fort St John) Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 106160,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 31862.27
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Iskut Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4612,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 490
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Rosswood Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5511,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 226
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Meziadin Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15681,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 5095
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Hazelton Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17226,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 4956
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Forceman Ridge Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17227,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 21287
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Kitimat Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 3608,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "Dease Lake landfill",
+            "Unnamed: 3": "Private Firm",
+            "Unnamed: 4": 5425,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kitimat Stikine",
+            "Unnamed: 1": 2101077,
+            "Unnamed: 2": "New Aiyansh Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 11936,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": NaN
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kootenay Boundary",
+            "Unnamed: 1": 2101081,
+            "Unnamed: 2": "McKelvey Creek Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 1917,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 10602
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kootenay Boundary",
+            "Unnamed: 1": 2101081,
+            "Unnamed: 2": "Grand Forks Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15290,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 6866.19
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Kootenay Boundary",
+            "Unnamed: 1": 2101081,
+            "Unnamed: 2": "West Boundary Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15294,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 1062.18
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Bulkley-Nechako",
+            "Unnamed: 1": 2101099,
+            "Unnamed: 2": "Manson Creek Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 7912,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 20
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Bulkley-Nechako",
+            "Unnamed: 1": 2101099,
+            "Unnamed: 2": "Knockholt Sub-Regional Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 8856,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 15052
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Bulkley-Nechako",
+            "Unnamed: 1": 2101099,
+            "Unnamed: 2": "Clearview Sub-Regional Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17686,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 11163
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Central Kootenay",
+            "Unnamed: 1": 2101101,
+            "Unnamed: 2": "Nakusp Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 16521,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 1677.6
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Central Kootenay",
+            "Unnamed: 1": 2101101,
+            "Unnamed: 2": "Creston Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 16913,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7079.3
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Central Kootenay",
+            "Unnamed: 1": 2101101,
+            "Unnamed: 2": "Ootischenia Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 17126,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 21163.2
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Central Okanagan",
+            "Unnamed: 1": 2101105,
+            "Unnamed: 2": "Glenmore Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 12218,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 146833
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of East Kootenay",
+            "Unnamed: 1": 2101119,
+            "Unnamed: 2": "Central Subregion Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15962,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 35267.75
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of East Kootenay",
+            "Unnamed: 1": 2101119,
+            "Unnamed: 2": "Columbia Valley Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 100134,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 13363.72
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of East Kootenay",
+            "Unnamed: 1": 2101119,
+            "Unnamed: 2": "Sparwood Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 107745,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 1394.36
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Mount Waddington",
+            "Unnamed: 1": 2101123,
+            "Unnamed: 2": "7 Mile Landfill and Recycling Center",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 8490,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7762
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of Nanaimo",
+            "Unnamed: 1": 2101127,
+            "Unnamed: 2": "Regional Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 1714,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 75553
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of North Okanagan",
+            "Unnamed: 1": 2101139,
+            "Unnamed: 2": "Lumby DDF",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15282,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 2364
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of North Okanagan",
+            "Unnamed: 1": 2101139,
+            "Unnamed: 2": "Armstrong/Spallumcheen DDF",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15284,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 14189
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District of North Okanagan",
+            "Unnamed: 1": 2101139,
+            "Unnamed: 2": "Greater Vernon DDF",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15286,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 29595
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Osoyoos Landfill",
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": 15273,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": 4045
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Campbell Mountain Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15274,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 27061
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Summerland Landfill",
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": 15275,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": 5581
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Princeton Landfill",
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": 15276,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": 4271
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Okanagan Falls",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15279,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 3987
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Regional District Okanagan-Similkameen",
+            "Unnamed: 1": 2101141,
+            "Unnamed: 2": "Oliver Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 15280,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 7982
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Squamish-Lillooet Regional District",
+            "Unnamed: 1": 2101145,
+            "Unnamed: 2": "Lillooet Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 5042,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 2893
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Squamish-Lillooet Regional District",
+            "Unnamed: 1": 2101145,
+            "Unnamed: 2": "Squamish Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 106063,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 11940
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Sunshine Coast Regional District",
+            "Unnamed: 1": 2101147,
+            "Unnamed: 2": "Sechelt Landfill",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 106060,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 12239
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Mission Flats Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 3328,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 61762
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Heffley Creek",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 3447,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 6661
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Lower Nicola",
+            "Unnamed: 3": "Regional District",
+            "Unnamed: 4": 4465,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 13245
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Barnhartvale Landfill",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 4778,
+            "Unnamed: 5": "No",
+            "Unnamed: 6": 2800
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Kamloops Resource Recovery Center (Owl Road)",
+            "Unnamed: 3": "Municipality",
+            "Unnamed: 4": 5910,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 10703
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": "Thompson Nicola Regional District",
+            "Unnamed: 1": 2101149,
+            "Unnamed: 2": "Campbell Hill Landfill",
+            "Unnamed: 3": "Private Firm",
+            "Unnamed: 4": 107189,
+            "Unnamed: 5": "Yes",
+            "Unnamed: 6": 2884
+        },
+        {
+            "\"MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022\"": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN,
+            "Unnamed: 4": NaN,
+            "Unnamed: 5": NaN,
+            "Unnamed: 6": 2232849.36
         }
     ]
 }
