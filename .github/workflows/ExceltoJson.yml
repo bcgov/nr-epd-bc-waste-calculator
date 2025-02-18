@@ -6,7 +6,7 @@ on:
     branches:
       - main  # Trigger on push to the main branch
     paths:
-      - "import/test.xlsx"  # Specify the path to your Excel file
+      - "import/msw_in_region_disposal.xlsx"  # Specify the path to your Excel file
   pull_request:
     branches:
       - main
@@ -35,7 +35,7 @@ jobs:
            # Run the script to convert Excel to JSON
       - name: Convert Excel to JSON
         run: |
-          python script/convert.py import/test.xlsx export/output.json
+          python script/convert.py import/msw_in_region_disposal.xlsx export/output.json
 
       # Optionally, you can commit the output JSON file back to the repository
       - name: Commit and push JSON output
