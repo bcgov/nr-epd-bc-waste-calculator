@@ -5,7 +5,19 @@ from collections import defaultdict
 
 def excel_to_json(excel_file, json_file):
     # Read the Excel file
-    df = pd.read_excel(excel_file, sheet_name=None)  # sheet_name=None to load all sheets
+    # df = pd.read_excel(excel_file, sheet_name=None)  # sheet_name=None to load all sheets
+
+ # Load the Excel file properly
+    try:
+        df = pd.read_excel(excel_file, engine="openpyxl")  # Ensure using the correct engine
+    except Exception as e:
+        print(f"Error loading Excel file: {e}")
+        exit(1)
+
+# Ensure we have a valid DataFrame
+    if not isinstance(df, pd.DataFrame):
+        raise TypeError("Loaded data is not a DataFrame. Please check the input file.")
+
     
     # Ensure column names are correct
     print("Column Names:", df.columns.tolist())  # Helps verify headers
