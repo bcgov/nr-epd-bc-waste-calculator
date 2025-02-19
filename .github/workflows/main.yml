@@ -1,0 +1,35 @@
+name: Convert Excel to JSON 2
+
+on:
+  workflow_dispatch:
+
+env:
+  EXCEL_FILE: import/pop_municipal_subprov_areas.xlsx 
+  JSON_OUTPUT: export/output2.json
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install pandas openpyxl
+      
+      - name: Convert Excel to JSON
+        run: python convertmun.py "$EXCEL_FILE" "$JSON_OUTPUT"
+      
+     # Optionally, you can commit the output JSON file back to the repository
+      - name: Commit and push JSON output
+        run: |
+          git config --global user.name 'AmanBhathal'
+          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git add export/output2.json
+          git commit -m "Update JSON file"
+          git push
