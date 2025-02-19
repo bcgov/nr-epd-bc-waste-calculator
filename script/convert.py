@@ -22,6 +22,9 @@ def excel_to_json(excel_file, json_file):
     # Ensure column names are correct
     print("Column Names:", df.columns.tolist())  # Helps verify headers
 
+    # Replace NaN values with empty strings
+    df = df.replace({np.nan: ""})
+
     # Group data by "Member" (Region)
     grouped_data = {"Regions": []}
     #grouped_data = defaultdict(list)
