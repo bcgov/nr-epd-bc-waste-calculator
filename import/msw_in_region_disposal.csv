@@ -1,0 +1,93 @@
+"""MSW In-Region Disposal: Jan 1, 2022 - Dec 31, 2022""",,,,,,
+Member,Response ID,In-Region - Name of Disposal Facility:,Owner,Authorization Number,In-Region - Scale:,In-Region - Quantity (Tonnes):
+Alberni-Clayoquot Regional District,2100871,Alberni Valley Landfill,Regional District,524,Yes,15256
+Alberni-Clayoquot Regional District,2100871,West Coast Landfill,Regional District,5634,Yes,7267.5
+Capital Regional District,2100877,Hartland Landfill,Regional District,12659,Yes,180004
+Cariboo Regional District,2100881,Quesnel Landfill,Municipality,3132,Yes,17595
+Cariboo Regional District,2100881,Likely Landfill,Regional District,4533,No,325
+Cariboo Regional District,2100881,Cochin Lanfill,Regional District,4535,No,50
+Cariboo Regional District,2100881,Puntzi Lake Landfill,Regional District,4536,No,85
+Cariboo Regional District,2100881,South Cariboo Landfill (100 Mile House landfill),Regional District,4994,Yes,7968
+Cariboo Regional District,2100881,Interlakes Landfill,Regional District,5776,No,1200
+Cariboo Regional District,2100881,Kleena Kleene Landfill,Regional District,6313,No,20
+Cariboo Regional District,2100881,Big Lake Landfill,Regional District,6510,No,350
+Cariboo Regional District,2100881,Nemaiah Valley Landfill,Regional District,6922,No,25
+Cariboo Regional District,2100881,Tatla Lake Landfill,Regional District,7200,No,80
+Cariboo Regional District,2100881,Mahood Lake Landfill,Regional District,7644,No,90
+Cariboo Regional District,2100881,Nazko Landfill,Regional District,10953,No,115
+Cariboo Regional District,2100881,Watch Lake Landfill,Regional District,11071,No,225
+Cariboo Regional District,2100881,Gibraltar Landfill,Regional District,16556,Yes,10693
+Cariboo Regional District,2100881,West Chilcotin Landfill,Regional District,17920,No,495
+Cariboo Regional District,2100881,Central Cariboo Transfer Station - DLC landfill (Williams Lake),Regional District,103019,Yes,2658
+Central Coast Regional District,2100891,Thorsen Creek Landfill,Regional District,4223,No,1576
+Central Coast Regional District,2100891,Ocean Falls Landfill,Municipality,10611,No,
+Central Coast Regional District,2100891,Denny Island Landfill,Private Firm,18186,No,
+Central Coast Regional District,2100891,Wuikinuxv Landfill,Private Firm,,No,
+Columbia Shuswap Regional District,2100899,Sicamous Landfill,Regional District,514,Yes,3218
+Columbia Shuswap Regional District,2100899,Salmon Arm Landfil,Regional District,5479,Yes,31232
+Columbia Shuswap Regional District,2100899,Revelstoke Landfill,Regional District,15821,Yes,7414
+Columbia Shuswap Regional District,2100899,Golden Landfill,Regional District,17006,Yes,5331
+Comox Valley Regional District (Strathcona),2100901,Campbell River Waste Management Centre,Regional District,2401,Yes,2201
+Comox Valley Regional District (Strathcona),2100901,Gold River Inert Waste Landfill,Regional District,3825,No,
+Comox Valley Regional District (Strathcona),2100901,Tahsis Landfill,Regional District,4278,No,650
+Comox Valley Regional District (Strathcona),2100901,Comox Valley Waste Management Centre,Regional District,5050,Yes,61944
+Comox Valley Regional District (Strathcona),2100901,Zeballos Landfill,Regional District,7496,No,493
+Fraser Fort George Regional District,2100927,Foothills,Regional District,1697,Yes,74416.7
+Fraser Fort George Regional District,2100927,Legrand,Regional District,6424,No,
+Fraser Fort George Regional District,2100927,Mackenzie,Regional District,100206,Yes,539
+Fraser Fort George Regional District,2100927,aggregate,,,,
+Fraser Valley Regional District,2100935,Bailey Landfill,Municipality,101798,Yes,86882.58
+Fraser Valley Regional District,2100935,Chaumox Landfill,Regional District,101804,Yes,383.44
+Fraser Valley Regional District,2100935,Mission Landfill,Municipality,105058,Yes,13875.49
+Fraser Valley Regional District,2100935,Metro Vancouver Waste Import correction,Regional District,,Yes,-82000
+Metro Vancouver,2100945,Vancouver Landfill (VLF),Municipality,1611,Yes,683496
+Metro Vancouver,2100945,Waste-to-Energy (WTE) Facility,Regional District,107051,Yes,233052
+Metro Vancouver,2100945,Private landfills (C&D),Private Firm,,Yes,185143.01
+North Coast Regional District,2101029,Island solid Waste Management,Regional District,7150,No,1860
+North Coast Regional District,2101029,Prince Rupert landfill,Municipality,7988,Yes,11797
+Northern Rockies Regional Municipality,2101035,Northern Rockies Regional Municipality Landfill,Municipality,16960,Yes,1845.48
+Peace River Regional District,2101047,Chetwynd Landfill,Regional District,2896,Yes,5406.9
+Peace River Regional District,2101047,Bessborough Landfill,Regional District,17529,Yes,14613.69
+Peace River Regional District,2101047,North Peace Regional (formerly Fort St John) Landfill,Regional District,106160,Yes,31862.27
+Regional District Kitimat Stikine,2101077,Iskut Landfill,Regional District,4612,No,490
+Regional District Kitimat Stikine,2101077,Rosswood Landfill,Regional District,5511,No,226
+Regional District Kitimat Stikine,2101077,Meziadin Landfill,Regional District,15681,No,5095
+Regional District Kitimat Stikine,2101077,Hazelton Landfill,Regional District,17226,No,4956
+Regional District Kitimat Stikine,2101077,Forceman Ridge Landfill,Regional District,17227,Yes,21287
+Regional District Kitimat Stikine,2101077,Kitimat Landfill,Municipality,3608,No,
+Regional District Kitimat Stikine,2101077,Dease Lake landfill,Private Firm,5425,No,
+Regional District Kitimat Stikine,2101077,New Aiyansh Landfill,Municipality,11936,No,
+Regional District Kootenay Boundary,2101081,McKelvey Creek Landfill,Regional District,1917,Yes,10602
+Regional District Kootenay Boundary,2101081,Grand Forks Landfill,Regional District,15290,Yes,6866.19
+Regional District Kootenay Boundary,2101081,West Boundary Landfill,Regional District,15294,Yes,1062.18
+Regional District of Bulkley-Nechako,2101099,Manson Creek Landfill,Regional District,7912,No,20
+Regional District of Bulkley-Nechako,2101099,Knockholt Sub-Regional Landfill,Regional District,8856,Yes,15052
+Regional District of Bulkley-Nechako,2101099,Clearview Sub-Regional Landfill,Regional District,17686,Yes,11163
+Regional District of Central Kootenay,2101101,Nakusp Landfill,Regional District,16521,Yes,1677.6
+Regional District of Central Kootenay,2101101,Creston Landfill,Regional District,16913,Yes,7079.3
+Regional District of Central Kootenay,2101101,Ootischenia Landfill,Regional District,17126,Yes,21163.2
+Regional District of Central Okanagan,2101105,Glenmore Landfill,Municipality,12218,Yes,146833
+Regional District of East Kootenay,2101119,Central Subregion Landfill,Regional District,15962,Yes,35267.75
+Regional District of East Kootenay,2101119,Columbia Valley Landfill,Regional District,100134,Yes,13363.72
+Regional District of East Kootenay,2101119,Sparwood Landfill,Regional District,107745,Yes,1394.36
+Regional District of Mount Waddington,2101123,7 Mile Landfill and Recycling Center,Regional District,8490,Yes,7762
+Regional District of Nanaimo,2101127,Regional Landfill,Regional District,1714,Yes,75553
+Regional District of North Okanagan,2101139,Lumby DDF,Regional District,15282,Yes,2364
+Regional District of North Okanagan,2101139,Armstrong/Spallumcheen DDF,Regional District,15284,Yes,14189
+Regional District of North Okanagan,2101139,Greater Vernon DDF,Regional District,15286,Yes,29595
+Regional District Okanagan-Similkameen,2101141,Osoyoos Landfill,,15273,,4045
+Regional District Okanagan-Similkameen,2101141,Campbell Mountain Landfill,Regional District,15274,Yes,27061
+Regional District Okanagan-Similkameen,2101141,Summerland Landfill,,15275,,5581
+Regional District Okanagan-Similkameen,2101141,Princeton Landfill,,15276,,4271
+Regional District Okanagan-Similkameen,2101141,Okanagan Falls,Regional District,15279,Yes,3987
+Regional District Okanagan-Similkameen,2101141,Oliver Landfill,Regional District,15280,Yes,7982
+Squamish-Lillooet Regional District,2101145,Lillooet Landfill,Regional District,5042,Yes,2893
+Squamish-Lillooet Regional District,2101145,Squamish Landfill,Municipality,106063,Yes,11940
+Sunshine Coast Regional District,2101147,Sechelt Landfill,Regional District,106060,Yes,12239
+Thompson Nicola Regional District,2101149,Mission Flats Landfill,Municipality,3328,Yes,61762
+Thompson Nicola Regional District,2101149,Heffley Creek,Regional District,3447,Yes,6661
+Thompson Nicola Regional District,2101149,Lower Nicola,Regional District,4465,Yes,13245
+Thompson Nicola Regional District,2101149,Barnhartvale Landfill,Municipality,4778,No,2800
+Thompson Nicola Regional District,2101149,Kamloops Resource Recovery Center (Owl Road),Municipality,5910,Yes,10703
+Thompson Nicola Regional District,2101149,Campbell Hill Landfill,Private Firm,107189,Yes,2884
+,,,,,,2232849.36
