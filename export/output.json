@@ -5,19 +5,19 @@
       "Facilities": [
         {
           "Response ID": 2100871.0,
-          "In-Region - Name of Disposal Facility:": "Alberni Valley Landfill",
+          "InRegionDisposalFacility": "Alberni Valley Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 524.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 15256.0
+          "AuthorizationNumber": 524.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 15256.0
         },
         {
           "Response ID": 2100871.0,
-          "In-Region - Name of Disposal Facility:": "West Coast Landfill",
+          "InRegionDisposalFacility": "West Coast Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 5634.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7267.5
+          "AuthorizationNumber": 5634.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7267.5
         }
       ]
     },
@@ -26,11 +26,11 @@
       "Facilities": [
         {
           "Response ID": 2100877.0,
-          "In-Region - Name of Disposal Facility:": "Hartland Landfill",
+          "InRegionDisposalFacility": "Hartland Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 12659.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 180004.0
+          "AuthorizationNumber": 12659.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 180004.0
         }
       ]
     },
@@ -39,131 +39,131 @@
       "Facilities": [
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Quesnel Landfill",
+          "InRegionDisposalFacility": "Quesnel Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 3132.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 17595.0
+          "AuthorizationNumber": 3132.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 17595.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Likely Landfill",
+          "InRegionDisposalFacility": "Likely Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 4533.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 325.0
+          "AuthorizationNumber": 4533.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 325.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Cochin Lanfill",
+          "InRegionDisposalFacility": "Cochin Lanfill",
           "Owner": "Regional District",
-          "Authorization Number": 4535.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 50.0
+          "AuthorizationNumber": 4535.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 50.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Puntzi Lake Landfill",
+          "InRegionDisposalFacility": "Puntzi Lake Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 4536.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 85.0
+          "AuthorizationNumber": 4536.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 85.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "South Cariboo Landfill (100 Mile House landfill)",
+          "InRegionDisposalFacility": "South Cariboo Landfill (100 Mile House landfill)",
           "Owner": "Regional District",
-          "Authorization Number": 4994.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7968.0
+          "AuthorizationNumber": 4994.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7968.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Interlakes Landfill",
+          "InRegionDisposalFacility": "Interlakes Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 5776.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 1200.0
+          "AuthorizationNumber": 5776.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1200.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Kleena Kleene Landfill",
+          "InRegionDisposalFacility": "Kleena Kleene Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 6313.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 20.0
+          "AuthorizationNumber": 6313.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 20.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Big Lake Landfill",
+          "InRegionDisposalFacility": "Big Lake Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 6510.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 350.0
+          "AuthorizationNumber": 6510.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 350.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Nemaiah Valley Landfill",
+          "InRegionDisposalFacility": "Nemaiah Valley Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 6922.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 25.0
+          "AuthorizationNumber": 6922.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 25.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Tatla Lake Landfill",
+          "InRegionDisposalFacility": "Tatla Lake Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 7200.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 80.0
+          "AuthorizationNumber": 7200.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 80.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Mahood Lake Landfill",
+          "InRegionDisposalFacility": "Mahood Lake Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 7644.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 90.0
+          "AuthorizationNumber": 7644.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 90.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Nazko Landfill",
+          "InRegionDisposalFacility": "Nazko Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 10953.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 115.0
+          "AuthorizationNumber": 10953.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 115.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Watch Lake Landfill",
+          "InRegionDisposalFacility": "Watch Lake Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 11071.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 225.0
+          "AuthorizationNumber": 11071.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 225.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Gibraltar Landfill",
+          "InRegionDisposalFacility": "Gibraltar Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 16556.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 10693.0
+          "AuthorizationNumber": 16556.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10693.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "West Chilcotin Landfill",
+          "InRegionDisposalFacility": "West Chilcotin Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17920.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 495.0
+          "AuthorizationNumber": 17920.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 495.0
         },
         {
           "Response ID": 2100881.0,
-          "In-Region - Name of Disposal Facility:": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
+          "InRegionDisposalFacility": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
           "Owner": "Regional District",
-          "Authorization Number": 103019.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 2658.0
+          "AuthorizationNumber": 103019.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2658.0
         }
       ]
     },
@@ -172,35 +172,35 @@
       "Facilities": [
         {
           "Response ID": 2100891.0,
-          "In-Region - Name of Disposal Facility:": "Thorsen Creek Landfill",
+          "InRegionDisposalFacility": "Thorsen Creek Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 4223.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 1576.0
+          "AuthorizationNumber": 4223.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1576.0
         },
         {
           "Response ID": 2100891.0,
-          "In-Region - Name of Disposal Facility:": "Ocean Falls Landfill",
+          "InRegionDisposalFacility": "Ocean Falls Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 10611.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 10611.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2100891.0,
-          "In-Region - Name of Disposal Facility:": "Denny Island Landfill",
+          "InRegionDisposalFacility": "Denny Island Landfill",
           "Owner": "Private Firm",
-          "Authorization Number": 18186.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 18186.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2100891.0,
-          "In-Region - Name of Disposal Facility:": "Wuikinuxv Landfill",
+          "InRegionDisposalFacility": "Wuikinuxv Landfill",
           "Owner": "Private Firm",
-          "Authorization Number": NaN,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         }
       ]
     },
@@ -209,35 +209,35 @@
       "Facilities": [
         {
           "Response ID": 2100899.0,
-          "In-Region - Name of Disposal Facility:": "Sicamous Landfill",
+          "InRegionDisposalFacility": "Sicamous Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 514.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 3218.0
+          "AuthorizationNumber": 514.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 3218.0
         },
         {
           "Response ID": 2100899.0,
-          "In-Region - Name of Disposal Facility:": "Salmon Arm Landfil",
+          "InRegionDisposalFacility": "Salmon Arm Landfil",
           "Owner": "Regional District",
-          "Authorization Number": 5479.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 31232.0
+          "AuthorizationNumber": 5479.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 31232.0
         },
         {
           "Response ID": 2100899.0,
-          "In-Region - Name of Disposal Facility:": "Revelstoke Landfill",
+          "InRegionDisposalFacility": "Revelstoke Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15821.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7414.0
+          "AuthorizationNumber": 15821.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7414.0
         },
         {
           "Response ID": 2100899.0,
-          "In-Region - Name of Disposal Facility:": "Golden Landfill",
+          "InRegionDisposalFacility": "Golden Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17006.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 5331.0
+          "AuthorizationNumber": 17006.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 5331.0
         }
       ]
     },
@@ -246,43 +246,43 @@
       "Facilities": [
         {
           "Response ID": 2100901.0,
-          "In-Region - Name of Disposal Facility:": "Campbell River Waste Management Centre",
+          "InRegionDisposalFacility": "Campbell River Waste Management Centre",
           "Owner": "Regional District",
-          "Authorization Number": 2401.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 2201.0
+          "AuthorizationNumber": 2401.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2201.0
         },
         {
           "Response ID": 2100901.0,
-          "In-Region - Name of Disposal Facility:": "Gold River Inert Waste Landfill",
+          "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 3825.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 3825.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2100901.0,
-          "In-Region - Name of Disposal Facility:": "Tahsis Landfill",
+          "InRegionDisposalFacility": "Tahsis Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 4278.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 650.0
+          "AuthorizationNumber": 4278.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 650.0
         },
         {
           "Response ID": 2100901.0,
-          "In-Region - Name of Disposal Facility:": "Comox Valley Waste Management Centre",
+          "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
           "Owner": "Regional District",
-          "Authorization Number": 5050.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 61944.0
+          "AuthorizationNumber": 5050.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 61944.0
         },
         {
           "Response ID": 2100901.0,
-          "In-Region - Name of Disposal Facility:": "Zeballos Landfill",
+          "InRegionDisposalFacility": "Zeballos Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 7496.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 493.0
+          "AuthorizationNumber": 7496.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 493.0
         }
       ]
     },
@@ -291,35 +291,35 @@
       "Facilities": [
         {
           "Response ID": 2100927.0,
-          "In-Region - Name of Disposal Facility:": "Foothills",
+          "InRegionDisposalFacility": "Foothills",
           "Owner": "Regional District",
-          "Authorization Number": 1697.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 74416.7
+          "AuthorizationNumber": 1697.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 74416.7
         },
         {
           "Response ID": 2100927.0,
-          "In-Region - Name of Disposal Facility:": "Legrand",
+          "InRegionDisposalFacility": "Legrand",
           "Owner": "Regional District",
-          "Authorization Number": 6424.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 6424.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2100927.0,
-          "In-Region - Name of Disposal Facility:": "Mackenzie",
+          "InRegionDisposalFacility": "Mackenzie",
           "Owner": "Regional District",
-          "Authorization Number": 100206.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 539.0
+          "AuthorizationNumber": 100206.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 539.0
         },
         {
           "Response ID": 2100927.0,
-          "In-Region - Name of Disposal Facility:": "aggregate",
+          "InRegionDisposalFacility": "aggregate",
           "Owner": NaN,
-          "Authorization Number": NaN,
-          "In-Region - Scale:": NaN,
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": NaN
         }
       ]
     },
@@ -328,35 +328,35 @@
       "Facilities": [
         {
           "Response ID": 2100935.0,
-          "In-Region - Name of Disposal Facility:": "Bailey Landfill",
+          "InRegionDisposalFacility": "Bailey Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 101798.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 86882.58
+          "AuthorizationNumber": 101798.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 86882.58
         },
         {
           "Response ID": 2100935.0,
-          "In-Region - Name of Disposal Facility:": "Chaumox Landfill",
+          "InRegionDisposalFacility": "Chaumox Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 101804.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 383.44
+          "AuthorizationNumber": 101804.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 383.44
         },
         {
           "Response ID": 2100935.0,
-          "In-Region - Name of Disposal Facility:": "Mission Landfill",
+          "InRegionDisposalFacility": "Mission Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 105058.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 13875.49
+          "AuthorizationNumber": 105058.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13875.49
         },
         {
           "Response ID": 2100935.0,
-          "In-Region - Name of Disposal Facility:": "Metro Vancouver Waste Import correction",
+          "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
           "Owner": "Regional District",
-          "Authorization Number": NaN,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": -82000.0
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": -82000.0
         }
       ]
     },
@@ -365,27 +365,27 @@
       "Facilities": [
         {
           "Response ID": 2100945.0,
-          "In-Region - Name of Disposal Facility:": "Vancouver Landfill (VLF)",
+          "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
           "Owner": "Municipality",
-          "Authorization Number": 1611.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 683496.0
+          "AuthorizationNumber": 1611.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 683496.0
         },
         {
           "Response ID": 2100945.0,
-          "In-Region - Name of Disposal Facility:": "Waste-to-Energy (WTE) Facility",
+          "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
           "Owner": "Regional District",
-          "Authorization Number": 107051.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 233052.0
+          "AuthorizationNumber": 107051.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 233052.0
         },
         {
           "Response ID": 2100945.0,
-          "In-Region - Name of Disposal Facility:": "Private landfills (C&D)",
+          "InRegionDisposalFacility": "Private landfills (C&D)",
           "Owner": "Private Firm",
-          "Authorization Number": NaN,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 185143.01
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 185143.01
         }
       ]
     },
@@ -394,19 +394,19 @@
       "Facilities": [
         {
           "Response ID": 2101029.0,
-          "In-Region - Name of Disposal Facility:": "Island solid Waste Management",
+          "InRegionDisposalFacility": "Island solid Waste Management",
           "Owner": "Regional District",
-          "Authorization Number": 7150.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 1860.0
+          "AuthorizationNumber": 7150.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1860.0
         },
         {
           "Response ID": 2101029.0,
-          "In-Region - Name of Disposal Facility:": "Prince Rupert landfill",
+          "InRegionDisposalFacility": "Prince Rupert landfill",
           "Owner": "Municipality",
-          "Authorization Number": 7988.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 11797.0
+          "AuthorizationNumber": 7988.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11797.0
         }
       ]
     },
@@ -415,11 +415,11 @@
       "Facilities": [
         {
           "Response ID": 2101035.0,
-          "In-Region - Name of Disposal Facility:": "Northern Rockies Regional Municipality Landfill",
+          "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 16960.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 1845.48
+          "AuthorizationNumber": 16960.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1845.48
         }
       ]
     },
@@ -428,27 +428,27 @@
       "Facilities": [
         {
           "Response ID": 2101047.0,
-          "In-Region - Name of Disposal Facility:": "Chetwynd Landfill",
+          "InRegionDisposalFacility": "Chetwynd Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 2896.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 5406.9
+          "AuthorizationNumber": 2896.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 5406.9
         },
         {
           "Response ID": 2101047.0,
-          "In-Region - Name of Disposal Facility:": "Bessborough Landfill",
+          "InRegionDisposalFacility": "Bessborough Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17529.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 14613.69
+          "AuthorizationNumber": 17529.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 14613.69
         },
         {
           "Response ID": 2101047.0,
-          "In-Region - Name of Disposal Facility:": "North Peace Regional (formerly Fort St John) Landfill",
+          "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 106160.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 31862.27
+          "AuthorizationNumber": 106160.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 31862.27
         }
       ]
     },
@@ -457,67 +457,67 @@
       "Facilities": [
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Iskut Landfill",
+          "InRegionDisposalFacility": "Iskut Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 4612.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 490.0
+          "AuthorizationNumber": 4612.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 490.0
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Rosswood Landfill",
+          "InRegionDisposalFacility": "Rosswood Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 5511.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 226.0
+          "AuthorizationNumber": 5511.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 226.0
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Meziadin Landfill",
+          "InRegionDisposalFacility": "Meziadin Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15681.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 5095.0
+          "AuthorizationNumber": 15681.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 5095.0
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Hazelton Landfill",
+          "InRegionDisposalFacility": "Hazelton Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17226.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 4956.0
+          "AuthorizationNumber": 17226.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 4956.0
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Forceman Ridge Landfill",
+          "InRegionDisposalFacility": "Forceman Ridge Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17227.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 21287.0
+          "AuthorizationNumber": 17227.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 21287.0
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Kitimat Landfill",
+          "InRegionDisposalFacility": "Kitimat Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 3608.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 3608.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "Dease Lake landfill",
+          "InRegionDisposalFacility": "Dease Lake landfill",
           "Owner": "Private Firm",
-          "Authorization Number": 5425.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 5425.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         },
         {
           "Response ID": 2101077.0,
-          "In-Region - Name of Disposal Facility:": "New Aiyansh Landfill",
+          "InRegionDisposalFacility": "New Aiyansh Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 11936.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": NaN
+          "AuthorizationNumber": 11936.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
         }
       ]
     },
@@ -526,27 +526,27 @@
       "Facilities": [
         {
           "Response ID": 2101081.0,
-          "In-Region - Name of Disposal Facility:": "McKelvey Creek Landfill",
+          "InRegionDisposalFacility": "McKelvey Creek Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 1917.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 10602.0
+          "AuthorizationNumber": 1917.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10602.0
         },
         {
           "Response ID": 2101081.0,
-          "In-Region - Name of Disposal Facility:": "Grand Forks Landfill",
+          "InRegionDisposalFacility": "Grand Forks Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15290.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 6866.19
+          "AuthorizationNumber": 15290.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 6866.19
         },
         {
           "Response ID": 2101081.0,
-          "In-Region - Name of Disposal Facility:": "West Boundary Landfill",
+          "InRegionDisposalFacility": "West Boundary Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15294.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 1062.18
+          "AuthorizationNumber": 15294.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1062.18
         }
       ]
     },
@@ -555,51 +555,51 @@
       "Facilities": [
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Osoyoos Landfill",
+          "InRegionDisposalFacility": "Osoyoos Landfill",
           "Owner": NaN,
-          "Authorization Number": 15273.0,
-          "In-Region - Scale:": NaN,
-          "In-Region - Quantity (Tonnes):": 4045.0
+          "AuthorizationNumber": 15273.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 4045.0
         },
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Campbell Mountain Landfill",
+          "InRegionDisposalFacility": "Campbell Mountain Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15274.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 27061.0
+          "AuthorizationNumber": 15274.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 27061.0
         },
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Summerland Landfill",
+          "InRegionDisposalFacility": "Summerland Landfill",
           "Owner": NaN,
-          "Authorization Number": 15275.0,
-          "In-Region - Scale:": NaN,
-          "In-Region - Quantity (Tonnes):": 5581.0
+          "AuthorizationNumber": 15275.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 5581.0
         },
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Princeton Landfill",
+          "InRegionDisposalFacility": "Princeton Landfill",
           "Owner": NaN,
-          "Authorization Number": 15276.0,
-          "In-Region - Scale:": NaN,
-          "In-Region - Quantity (Tonnes):": 4271.0
+          "AuthorizationNumber": 15276.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 4271.0
         },
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Okanagan Falls",
+          "InRegionDisposalFacility": "Okanagan Falls",
           "Owner": "Regional District",
-          "Authorization Number": 15279.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 3987.0
+          "AuthorizationNumber": 15279.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 3987.0
         },
         {
           "Response ID": 2101141.0,
-          "In-Region - Name of Disposal Facility:": "Oliver Landfill",
+          "InRegionDisposalFacility": "Oliver Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15280.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7982.0
+          "AuthorizationNumber": 15280.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7982.0
         }
       ]
     },
@@ -608,27 +608,27 @@
       "Facilities": [
         {
           "Response ID": 2101099.0,
-          "In-Region - Name of Disposal Facility:": "Manson Creek Landfill",
+          "InRegionDisposalFacility": "Manson Creek Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 7912.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 20.0
+          "AuthorizationNumber": 7912.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 20.0
         },
         {
           "Response ID": 2101099.0,
-          "In-Region - Name of Disposal Facility:": "Knockholt Sub-Regional Landfill",
+          "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 8856.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 15052.0
+          "AuthorizationNumber": 8856.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 15052.0
         },
         {
           "Response ID": 2101099.0,
-          "In-Region - Name of Disposal Facility:": "Clearview Sub-Regional Landfill",
+          "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17686.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 11163.0
+          "AuthorizationNumber": 17686.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11163.0
         }
       ]
     },
@@ -637,27 +637,27 @@
       "Facilities": [
         {
           "Response ID": 2101101.0,
-          "In-Region - Name of Disposal Facility:": "Nakusp Landfill",
+          "InRegionDisposalFacility": "Nakusp Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 16521.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 1677.6
+          "AuthorizationNumber": 16521.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1677.6
         },
         {
           "Response ID": 2101101.0,
-          "In-Region - Name of Disposal Facility:": "Creston Landfill",
+          "InRegionDisposalFacility": "Creston Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 16913.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7079.3
+          "AuthorizationNumber": 16913.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7079.3
         },
         {
           "Response ID": 2101101.0,
-          "In-Region - Name of Disposal Facility:": "Ootischenia Landfill",
+          "InRegionDisposalFacility": "Ootischenia Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 17126.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 21163.2
+          "AuthorizationNumber": 17126.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 21163.2
         }
       ]
     },
@@ -666,11 +666,11 @@
       "Facilities": [
         {
           "Response ID": 2101105.0,
-          "In-Region - Name of Disposal Facility:": "Glenmore Landfill",
+          "InRegionDisposalFacility": "Glenmore Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 12218.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 146833.0
+          "AuthorizationNumber": 12218.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 146833.0
         }
       ]
     },
@@ -679,27 +679,27 @@
       "Facilities": [
         {
           "Response ID": 2101119.0,
-          "In-Region - Name of Disposal Facility:": "Central Subregion Landfill",
+          "InRegionDisposalFacility": "Central Subregion Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 15962.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 35267.75
+          "AuthorizationNumber": 15962.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 35267.75
         },
         {
           "Response ID": 2101119.0,
-          "In-Region - Name of Disposal Facility:": "Columbia Valley Landfill",
+          "InRegionDisposalFacility": "Columbia Valley Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 100134.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 13363.72
+          "AuthorizationNumber": 100134.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13363.72
         },
         {
           "Response ID": 2101119.0,
-          "In-Region - Name of Disposal Facility:": "Sparwood Landfill",
+          "InRegionDisposalFacility": "Sparwood Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 107745.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 1394.36
+          "AuthorizationNumber": 107745.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1394.36
         }
       ]
     },
@@ -708,11 +708,11 @@
       "Facilities": [
         {
           "Response ID": 2101123.0,
-          "In-Region - Name of Disposal Facility:": "7 Mile Landfill and Recycling Center",
+          "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
           "Owner": "Regional District",
-          "Authorization Number": 8490.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 7762.0
+          "AuthorizationNumber": 8490.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7762.0
         }
       ]
     },
@@ -721,11 +721,11 @@
       "Facilities": [
         {
           "Response ID": 2101127.0,
-          "In-Region - Name of Disposal Facility:": "Regional Landfill",
+          "InRegionDisposalFacility": "Regional Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 1714.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 75553.0
+          "AuthorizationNumber": 1714.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 75553.0
         }
       ]
     },
@@ -734,27 +734,27 @@
       "Facilities": [
         {
           "Response ID": 2101139.0,
-          "In-Region - Name of Disposal Facility:": "Lumby DDF",
+          "InRegionDisposalFacility": "Lumby DDF",
           "Owner": "Regional District",
-          "Authorization Number": 15282.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 2364.0
+          "AuthorizationNumber": 15282.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2364.0
         },
         {
           "Response ID": 2101139.0,
-          "In-Region - Name of Disposal Facility:": "Armstrong/Spallumcheen DDF",
+          "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
           "Owner": "Regional District",
-          "Authorization Number": 15284.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 14189.0
+          "AuthorizationNumber": 15284.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 14189.0
         },
         {
           "Response ID": 2101139.0,
-          "In-Region - Name of Disposal Facility:": "Greater Vernon DDF",
+          "InRegionDisposalFacility": "Greater Vernon DDF",
           "Owner": "Regional District",
-          "Authorization Number": 15286.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 29595.0
+          "AuthorizationNumber": 15286.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 29595.0
         }
       ]
     },
@@ -763,19 +763,19 @@
       "Facilities": [
         {
           "Response ID": 2101145.0,
-          "In-Region - Name of Disposal Facility:": "Lillooet Landfill",
+          "InRegionDisposalFacility": "Lillooet Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 5042.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 2893.0
+          "AuthorizationNumber": 5042.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2893.0
         },
         {
           "Response ID": 2101145.0,
-          "In-Region - Name of Disposal Facility:": "Squamish Landfill",
+          "InRegionDisposalFacility": "Squamish Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 106063.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 11940.0
+          "AuthorizationNumber": 106063.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11940.0
         }
       ]
     },
@@ -784,11 +784,11 @@
       "Facilities": [
         {
           "Response ID": 2101147.0,
-          "In-Region - Name of Disposal Facility:": "Sechelt Landfill",
+          "InRegionDisposalFacility": "Sechelt Landfill",
           "Owner": "Regional District",
-          "Authorization Number": 106060.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 12239.0
+          "AuthorizationNumber": 106060.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 12239.0
         }
       ]
     },
@@ -797,51 +797,51 @@
       "Facilities": [
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Mission Flats Landfill",
+          "InRegionDisposalFacility": "Mission Flats Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 3328.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 61762.0
+          "AuthorizationNumber": 3328.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 61762.0
         },
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Heffley Creek",
+          "InRegionDisposalFacility": "Heffley Creek",
           "Owner": "Regional District",
-          "Authorization Number": 3447.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 6661.0
+          "AuthorizationNumber": 3447.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 6661.0
         },
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Lower Nicola",
+          "InRegionDisposalFacility": "Lower Nicola",
           "Owner": "Regional District",
-          "Authorization Number": 4465.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 13245.0
+          "AuthorizationNumber": 4465.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13245.0
         },
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Barnhartvale Landfill",
+          "InRegionDisposalFacility": "Barnhartvale Landfill",
           "Owner": "Municipality",
-          "Authorization Number": 4778.0,
-          "In-Region - Scale:": "No",
-          "In-Region - Quantity (Tonnes):": 2800.0
+          "AuthorizationNumber": 4778.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 2800.0
         },
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Kamloops Resource Recovery Center (Owl Road)",
+          "InRegionDisposalFacility": "Kamloops Resource Recovery Center (Owl Road)",
           "Owner": "Municipality",
-          "Authorization Number": 5910.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 10703.0
+          "AuthorizationNumber": 5910.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10703.0
         },
         {
           "Response ID": 2101149.0,
-          "In-Region - Name of Disposal Facility:": "Campbell Hill Landfill",
+          "InRegionDisposalFacility": "Campbell Hill Landfill",
           "Owner": "Private Firm",
-          "Authorization Number": 107189.0,
-          "In-Region - Scale:": "Yes",
-          "In-Region - Quantity (Tonnes):": 2884.0
+          "AuthorizationNumber": 107189.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2884.0
         }
       ]
     }
