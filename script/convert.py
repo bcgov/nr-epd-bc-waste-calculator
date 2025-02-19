@@ -23,12 +23,17 @@ def excel_to_json(excel_file, json_file):
     print("Column Names:", df.columns.tolist())  # Helps verify headers
 
     # Group data by "Member" (Region)
-    grouped_data = defaultdict(list)
-
-    for _, row in df.iterrows():
-        member = str(row["Member"]).strip() if pd.notna(row["Member"]) else "Unknown Region"
-        entry = row.drop("Member").to_dict()
-        grouped_data[member].append(entry)
+    grouped_data = {"Regions": []}
+    #grouped_data = defaultdict(list)
+    
+    for member, group in df.groupby("Member"):
+        facilities = group.drop(columns=["Member"]).to_dict(orient="records")
+        grouped_data["Regions"].append({"Member": member, "Facilities": facilities})
+    
+    #for _, row in df.iterrows():
+        #member = str(row["Member"]).strip() if pd.notna(row["Member"]) else "Unknown Region"
+        #entry = row.drop("Member").to_dict()
+        #grouped_data[member].append(entry)
 
     # Save as JSON
     with open(json_file, "w", encoding="utf-8") as file:
