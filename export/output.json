@@ -1,0 +1,849 @@
+{
+  "Regions": [
+    {
+      "Member": "Alberni-Clayoquot Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100871.0,
+          "InRegionDisposalFacility": "Alberni Valley Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 524.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 15256.0
+        },
+        {
+          "Response ID": 2100871.0,
+          "InRegionDisposalFacility": "West Coast Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5634.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7267.5
+        }
+      ]
+    },
+    {
+      "Member": "Capital Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100877.0,
+          "InRegionDisposalFacility": "Hartland Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 12659.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 180004.0
+        }
+      ]
+    },
+    {
+      "Member": "Cariboo Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Quesnel Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 3132.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 17595.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Likely Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4533.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 325.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Cochin Lanfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4535.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 50.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Puntzi Lake Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4536.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 85.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "South Cariboo Landfill (100 Mile House landfill)",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4994.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7968.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Interlakes Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5776.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1200.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Kleena Kleene Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 6313.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 20.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Big Lake Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 6510.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 350.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Nemaiah Valley Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 6922.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 25.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Tatla Lake Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 7200.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 80.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Mahood Lake Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 7644.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 90.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Nazko Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 10953.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 115.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Watch Lake Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 11071.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 225.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Gibraltar Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 16556.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10693.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "West Chilcotin Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17920.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 495.0
+        },
+        {
+          "Response ID": 2100881.0,
+          "InRegionDisposalFacility": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 103019.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2658.0
+        }
+      ]
+    },
+    {
+      "Member": "Central Coast Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100891.0,
+          "InRegionDisposalFacility": "Thorsen Creek Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4223.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1576.0
+        },
+        {
+          "Response ID": 2100891.0,
+          "InRegionDisposalFacility": "Ocean Falls Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 10611.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2100891.0,
+          "InRegionDisposalFacility": "Denny Island Landfill",
+          "Owner": "Private Firm",
+          "AuthorizationNumber": 18186.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2100891.0,
+          "InRegionDisposalFacility": "Wuikinuxv Landfill",
+          "Owner": "Private Firm",
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        }
+      ]
+    },
+    {
+      "Member": "Columbia Shuswap Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100899.0,
+          "InRegionDisposalFacility": "Sicamous Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 514.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 3218.0
+        },
+        {
+          "Response ID": 2100899.0,
+          "InRegionDisposalFacility": "Salmon Arm Landfil",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5479.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 31232.0
+        },
+        {
+          "Response ID": 2100899.0,
+          "InRegionDisposalFacility": "Revelstoke Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15821.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7414.0
+        },
+        {
+          "Response ID": 2100899.0,
+          "InRegionDisposalFacility": "Golden Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17006.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 5331.0
+        }
+      ]
+    },
+    {
+      "Member": "Comox Valley Regional District (Strathcona)",
+      "Facilities": [
+        {
+          "Response ID": 2100901.0,
+          "InRegionDisposalFacility": "Campbell River Waste Management Centre",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 2401.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2201.0
+        },
+        {
+          "Response ID": 2100901.0,
+          "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 3825.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2100901.0,
+          "InRegionDisposalFacility": "Tahsis Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4278.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 650.0
+        },
+        {
+          "Response ID": 2100901.0,
+          "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5050.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 61944.0
+        },
+        {
+          "Response ID": 2100901.0,
+          "InRegionDisposalFacility": "Zeballos Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 7496.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 493.0
+        }
+      ]
+    },
+    {
+      "Member": "Fraser Fort George Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100927.0,
+          "InRegionDisposalFacility": "Foothills",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 1697.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 74416.7
+        },
+        {
+          "Response ID": 2100927.0,
+          "InRegionDisposalFacility": "Legrand",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 6424.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2100927.0,
+          "InRegionDisposalFacility": "Mackenzie",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 100206.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 539.0
+        },
+        {
+          "Response ID": 2100927.0,
+          "InRegionDisposalFacility": "aggregate",
+          "Owner": NaN,
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": NaN
+        }
+      ]
+    },
+    {
+      "Member": "Fraser Valley Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2100935.0,
+          "InRegionDisposalFacility": "Bailey Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 101798.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 86882.58
+        },
+        {
+          "Response ID": 2100935.0,
+          "InRegionDisposalFacility": "Chaumox Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 101804.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 383.44
+        },
+        {
+          "Response ID": 2100935.0,
+          "InRegionDisposalFacility": "Mission Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 105058.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13875.49
+        },
+        {
+          "Response ID": 2100935.0,
+          "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
+          "Owner": "Regional District",
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": -82000.0
+        }
+      ]
+    },
+    {
+      "Member": "Metro Vancouver",
+      "Facilities": [
+        {
+          "Response ID": 2100945.0,
+          "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 1611.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 683496.0
+        },
+        {
+          "Response ID": 2100945.0,
+          "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 107051.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 233052.0
+        },
+        {
+          "Response ID": 2100945.0,
+          "InRegionDisposalFacility": "Private landfills (C&D)",
+          "Owner": "Private Firm",
+          "AuthorizationNumber": NaN,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 185143.01
+        }
+      ]
+    },
+    {
+      "Member": "North Coast Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2101029.0,
+          "InRegionDisposalFacility": "Island solid Waste Management",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 7150.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 1860.0
+        },
+        {
+          "Response ID": 2101029.0,
+          "InRegionDisposalFacility": "Prince Rupert landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 7988.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11797.0
+        }
+      ]
+    },
+    {
+      "Member": "Northern Rockies Regional Municipality",
+      "Facilities": [
+        {
+          "Response ID": 2101035.0,
+          "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 16960.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1845.48
+        }
+      ]
+    },
+    {
+      "Member": "Peace River Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2101047.0,
+          "InRegionDisposalFacility": "Chetwynd Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 2896.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 5406.9
+        },
+        {
+          "Response ID": 2101047.0,
+          "InRegionDisposalFacility": "Bessborough Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17529.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 14613.69
+        },
+        {
+          "Response ID": 2101047.0,
+          "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 106160.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 31862.27
+        }
+      ]
+    },
+    {
+      "Member": "Regional District Kitimat Stikine",
+      "Facilities": [
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Iskut Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4612.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 490.0
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Rosswood Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5511.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 226.0
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Meziadin Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15681.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 5095.0
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Hazelton Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17226.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 4956.0
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Forceman Ridge Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17227.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 21287.0
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Kitimat Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 3608.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "Dease Lake landfill",
+          "Owner": "Private Firm",
+          "AuthorizationNumber": 5425.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        },
+        {
+          "Response ID": 2101077.0,
+          "InRegionDisposalFacility": "New Aiyansh Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 11936.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": NaN
+        }
+      ]
+    },
+    {
+      "Member": "Regional District Kootenay Boundary",
+      "Facilities": [
+        {
+          "Response ID": 2101081.0,
+          "InRegionDisposalFacility": "McKelvey Creek Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 1917.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10602.0
+        },
+        {
+          "Response ID": 2101081.0,
+          "InRegionDisposalFacility": "Grand Forks Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15290.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 6866.19
+        },
+        {
+          "Response ID": 2101081.0,
+          "InRegionDisposalFacility": "West Boundary Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15294.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1062.18
+        }
+      ]
+    },
+    {
+      "Member": "Regional District Okanagan-Similkameen",
+      "Facilities": [
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Osoyoos Landfill",
+          "Owner": NaN,
+          "AuthorizationNumber": 15273.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 4045.0
+        },
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Campbell Mountain Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15274.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 27061.0
+        },
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Summerland Landfill",
+          "Owner": NaN,
+          "AuthorizationNumber": 15275.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 5581.0
+        },
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Princeton Landfill",
+          "Owner": NaN,
+          "AuthorizationNumber": 15276.0,
+          "InRegionScale:": NaN,
+          "InRegionQuantity": 4271.0
+        },
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Okanagan Falls",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15279.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 3987.0
+        },
+        {
+          "Response ID": 2101141.0,
+          "InRegionDisposalFacility": "Oliver Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15280.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7982.0
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of Bulkley-Nechako",
+      "Facilities": [
+        {
+          "Response ID": 2101099.0,
+          "InRegionDisposalFacility": "Manson Creek Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 7912.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 20.0
+        },
+        {
+          "Response ID": 2101099.0,
+          "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 8856.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 15052.0
+        },
+        {
+          "Response ID": 2101099.0,
+          "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17686.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11163.0
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of Central Kootenay",
+      "Facilities": [
+        {
+          "Response ID": 2101101.0,
+          "InRegionDisposalFacility": "Nakusp Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 16521.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1677.6
+        },
+        {
+          "Response ID": 2101101.0,
+          "InRegionDisposalFacility": "Creston Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 16913.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7079.3
+        },
+        {
+          "Response ID": 2101101.0,
+          "InRegionDisposalFacility": "Ootischenia Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 17126.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 21163.2
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of Central Okanagan",
+      "Facilities": [
+        {
+          "Response ID": 2101105.0,
+          "InRegionDisposalFacility": "Glenmore Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 12218.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 146833.0
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of East Kootenay",
+      "Facilities": [
+        {
+          "Response ID": 2101119.0,
+          "InRegionDisposalFacility": "Central Subregion Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15962.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 35267.75
+        },
+        {
+          "Response ID": 2101119.0,
+          "InRegionDisposalFacility": "Columbia Valley Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 100134.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13363.72
+        },
+        {
+          "Response ID": 2101119.0,
+          "InRegionDisposalFacility": "Sparwood Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 107745.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 1394.36
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of Mount Waddington",
+      "Facilities": [
+        {
+          "Response ID": 2101123.0,
+          "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 8490.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 7762.0
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of Nanaimo",
+      "Facilities": [
+        {
+          "Response ID": 2101127.0,
+          "InRegionDisposalFacility": "Regional Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 1714.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 75553.0
+        }
+      ]
+    },
+    {
+      "Member": "Regional District of North Okanagan",
+      "Facilities": [
+        {
+          "Response ID": 2101139.0,
+          "InRegionDisposalFacility": "Lumby DDF",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15282.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2364.0
+        },
+        {
+          "Response ID": 2101139.0,
+          "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15284.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 14189.0
+        },
+        {
+          "Response ID": 2101139.0,
+          "InRegionDisposalFacility": "Greater Vernon DDF",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 15286.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 29595.0
+        }
+      ]
+    },
+    {
+      "Member": "Squamish-Lillooet Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2101145.0,
+          "InRegionDisposalFacility": "Lillooet Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 5042.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2893.0
+        },
+        {
+          "Response ID": 2101145.0,
+          "InRegionDisposalFacility": "Squamish Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 106063.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 11940.0
+        }
+      ]
+    },
+    {
+      "Member": "Sunshine Coast Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2101147.0,
+          "InRegionDisposalFacility": "Sechelt Landfill",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 106060.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 12239.0
+        }
+      ]
+    },
+    {
+      "Member": "Thompson Nicola Regional District",
+      "Facilities": [
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Mission Flats Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 3328.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 61762.0
+        },
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Heffley Creek",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 3447.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 6661.0
+        },
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Lower Nicola",
+          "Owner": "Regional District",
+          "AuthorizationNumber": 4465.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 13245.0
+        },
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Barnhartvale Landfill",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 4778.0,
+          "InRegionScale:": "No",
+          "InRegionQuantity": 2800.0
+        },
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Kamloops Resource Recovery Center (Owl Road)",
+          "Owner": "Municipality",
+          "AuthorizationNumber": 5910.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 10703.0
+        },
+        {
+          "Response ID": 2101149.0,
+          "InRegionDisposalFacility": "Campbell Hill Landfill",
+          "Owner": "Private Firm",
+          "AuthorizationNumber": 107189.0,
+          "InRegionScale:": "Yes",
+          "InRegionQuantity": 2884.0
+        }
+      ]
+    }
+  ]
+}
