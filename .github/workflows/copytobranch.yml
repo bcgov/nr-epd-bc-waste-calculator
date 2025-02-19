@@ -3,7 +3,7 @@ name: Copy folder to other branch
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Download File from S3 Bucket and Commit to Repo"]
+    workflows: ["Convert Excel to JSON"]
     types:
       - completed
 jobs:
