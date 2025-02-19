@@ -2,14 +2,10 @@ name: Convert Excel to JSON
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main  # Trigger on push to the main branch
-    paths:
-      - "import/msw_in_region_disposal.xlsx"  # Specify the path to your Excel file
-  pull_request:
-    branches:
-      - main
+  workflow_run:
+    workflows: ["Download File from S3 Bucket and Commit to Repo"]
+    types:
+      - completed
 jobs:
   convert:
     runs-on: ubuntu-latest  # You can also choose windows-latest or macos-latest
