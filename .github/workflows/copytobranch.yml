@@ -2,7 +2,10 @@ name: Copy folder to other branch
 
 on:
   workflow_dispatch:
-  push:
+  workflow_run:
+    workflows: ["Download File from S3 Bucket and Commit to Repo"]
+    types:
+      - completed
 jobs:
   copy:
     name: Copy my folder
