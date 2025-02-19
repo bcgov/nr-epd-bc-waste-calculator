@@ -30,10 +30,9 @@ def excel_to_json(excel_file, json_file):
         facilities = group.drop(columns=["Member"]).to_dict(orient="records")
         grouped_data["Regions"].append({"Member": member, "Facilities": facilities})
     
-    #for _, row in df.iterrows():
-        #member = str(row["Member"]).strip() if pd.notna(row["Member"]) else "Unknown Region"
-        #entry = row.drop("Member").to_dict()
-        #grouped_data[member].append(entry)
+    # Remove "Regions" and extract its contents
+    if "Regions" in grouped_data:
+        grouped_data = grouped_data["Regions"]
 
     # Save as JSON
     with open(json_file, "w", encoding="utf-8") as file:
@@ -42,14 +41,6 @@ def excel_to_json(excel_file, json_file):
     print(f"Data successfully grouped and saved ")
 
     
-    # Convert the Excel sheets to JSON
-    #json_data = {}
-    #for sheet_name, data in df.items():
-    #    json_data[sheet_name] = data.to_dict(orient='records')  # Convert each sheet to a list of dictionaries
-
-    # Write the JSON data to a file
-    #with open(json_file, 'w') as f:
-     #   f.write(json.dumps(json_data, indent=4))  # Pretty-print with indent
 
 if __name__ == "__main__":
     # You can pass the file names as arguments
