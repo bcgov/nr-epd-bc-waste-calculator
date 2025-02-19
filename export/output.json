@@ -1,5 +1,18 @@
 [
   {
+    "Member": "",
+    "Facilities": [
+      {
+        "Response ID": "",
+        "InRegionDisposalFacility": "",
+        "Owner": "",
+        "AuthorizationNumber": "",
+        "InRegionScale:": "",
+        "InRegionQuantity": 2232849.36
+      }
+    ]
+  },
+  {
     "Member": "Alberni-Clayoquot Regional District",
     "Facilities": [
       {
@@ -183,7 +196,7 @@
         "Owner": "Municipality",
         "AuthorizationNumber": 10611.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2100891.0,
@@ -191,15 +204,15 @@
         "Owner": "Private Firm",
         "AuthorizationNumber": 18186.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2100891.0,
         "InRegionDisposalFacility": "Wuikinuxv Landfill",
         "Owner": "Private Firm",
-        "AuthorizationNumber": NaN,
+        "AuthorizationNumber": "",
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       }
     ]
   },
@@ -257,7 +270,7 @@
         "Owner": "Regional District",
         "AuthorizationNumber": 3825.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2100901.0,
@@ -302,7 +315,7 @@
         "Owner": "Regional District",
         "AuthorizationNumber": 6424.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2100927.0,
@@ -315,10 +328,10 @@
       {
         "Response ID": 2100927.0,
         "InRegionDisposalFacility": "aggregate",
-        "Owner": NaN,
-        "AuthorizationNumber": NaN,
-        "InRegionScale:": NaN,
-        "InRegionQuantity": NaN
+        "Owner": "",
+        "AuthorizationNumber": "",
+        "InRegionScale:": "",
+        "InRegionQuantity": ""
       }
     ]
   },
@@ -353,7 +366,7 @@
         "Response ID": 2100935.0,
         "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
         "Owner": "Regional District",
-        "AuthorizationNumber": NaN,
+        "AuthorizationNumber": "",
         "InRegionScale:": "Yes",
         "InRegionQuantity": -82000.0
       }
@@ -382,7 +395,7 @@
         "Response ID": 2100945.0,
         "InRegionDisposalFacility": "Private landfills (C&D)",
         "Owner": "Private Firm",
-        "AuthorizationNumber": NaN,
+        "AuthorizationNumber": "",
         "InRegionScale:": "Yes",
         "InRegionQuantity": 185143.01
       }
@@ -500,7 +513,7 @@
         "Owner": "Municipality",
         "AuthorizationNumber": 3608.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2101077.0,
@@ -508,7 +521,7 @@
         "Owner": "Private Firm",
         "AuthorizationNumber": 5425.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       },
       {
         "Response ID": 2101077.0,
@@ -516,7 +529,7 @@
         "Owner": "Municipality",
         "AuthorizationNumber": 11936.0,
         "InRegionScale:": "No",
-        "InRegionQuantity": NaN
+        "InRegionQuantity": ""
       }
     ]
   },
@@ -555,9 +568,9 @@
       {
         "Response ID": 2101141.0,
         "InRegionDisposalFacility": "Osoyoos Landfill",
-        "Owner": NaN,
+        "Owner": "",
         "AuthorizationNumber": 15273.0,
-        "InRegionScale:": NaN,
+        "InRegionScale:": "",
         "InRegionQuantity": 4045.0
       },
       {
@@ -571,17 +584,17 @@
       {
         "Response ID": 2101141.0,
         "InRegionDisposalFacility": "Summerland Landfill",
-        "Owner": NaN,
+        "Owner": "",
         "AuthorizationNumber": 15275.0,
-        "InRegionScale:": NaN,
+        "InRegionScale:": "",
         "InRegionQuantity": 5581.0
       },
       {
         "Response ID": 2101141.0,
         "InRegionDisposalFacility": "Princeton Landfill",
-        "Owner": NaN,
+        "Owner": "",
         "AuthorizationNumber": 15276.0,
-        "InRegionScale:": NaN,
+        "InRegionScale:": "",
         "InRegionQuantity": 4271.0
       },
       {
