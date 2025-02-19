@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 import sys
-from collections import defaultdict
+import numpy as np
 
 def excel_to_json(excel_file, json_file):
     # Read the Excel file
@@ -27,7 +27,6 @@ def excel_to_json(excel_file, json_file):
 
     # Group data by "Member" (Region)
     grouped_data = {"Regions": []}
-    #grouped_data = defaultdict(list)
     
     for member, group in df.groupby("Member"):
         facilities = group.drop(columns=["Member"]).to_dict(orient="records")
