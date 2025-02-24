@@ -7,6 +7,7 @@ input_file1 = os.getenv("INPUT_FILE1", "output2.json")
 input_file2 = os.getenv("INPUT_FILE2", "output-2.json")
 output_file = os.getenv("OUTPUT_FILE", "final_merged_output.json")
 
+
 # Load JSON files
 with open(input_file1, "r") as f1, open(input_file2, "r") as f2:
     data1 = json.load(f1)
@@ -33,23 +34,29 @@ def convert_floats_to_int(data):
 # Create a mapping from Member in output-2.json to Facilities data
 facilities_mapping = {entry["Member"]: entry["Facilities"] for entry in data2}
 
-# Merge data while cleaning NaN entries and converting numbers
+# Convert the original dictionary structure into a flat list of dictionaries, including Associated_Areas
+final_merged_output = []
+
 for rd_name, rd_data in data1.items():
-    rd_info_name = rd_data["RD_Info"]["Name"]
+    rd_info = rd_data["RD_Info"]
 
     # Remove NaN entries from Associated_Areas
-    if "Associated_Areas" in rd_data:
-        rd_data["Associated_Areas"] = remove_nan_entries(rd_data["Associated_Areas"])
+    associated_areas = remove_nan_entries(rd_data.get("Associated_Areas", []))
 
     # Add Facilities if available
-    if rd_info_name in facilities_mapping:
-        rd_data["Facilities"] = facilities_mapping[rd_info_name]
+    if rd_info["Name"] in facilities_mapping:
+        rd_info["Facilities"] = facilities_mapping[rd_info["Name"]]
 
-# Convert SGC, Population2023, and AuthorizationNumber values to integers where applicable
-cleaned_data = convert_floats_to_int(data1)
+    # Convert float values to integers where applicable
+    cleaned_rd_info = convert_floats_to_int(rd_info)
+    cleaned_associated_areas = convert_floats_to_int(associated_areas)
 
-# Save cleaned and formatted merged data
+    # Append the restructured RD_Info dictionary to the list, including Associated_Areas
+    cleaned_rd_info["Associated_Areas"] = cleaned_associated_areas
+    final_merged_output.append(cleaned_rd_info)
+
+# Save cleaned and formatted merged data with associated areas
 with open(output_file, "w") as f:
-    json.dump(cleaned_data, f, indent=4)
+    json.dump(final_merged_output, f, indent=4)
 
 print(f"Merged JSON saved to {output_file}")
