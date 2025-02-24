@@ -3,7 +3,7 @@ name: Copy folder to other branch
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Convert Excel to JSON"]
+    workflows: ["Merge and Clean JSON Files"]
     types:
       - completed
 jobs:
