@@ -1,0 +1,32 @@
+name: Merge and Clean JSON Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  merge-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run JSON Merge Script
+        env:
+          INPUT_FILE1: "export/output2.json"
+          INPUT_FILE2: "export/output.json"
+          OUTPUT_FILE: "export/final_merged_output.json"
+        run: python script/merge_json.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'AmanBhathal'
+          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git add .
+          git commit -m "Update JSON file"
+          git push
