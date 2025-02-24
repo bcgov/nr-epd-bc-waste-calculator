@@ -2,7 +2,10 @@ name: Merge and Clean JSON Files
 
 on:
   workflow_dispatch:
-
+  workflow_run:
+    workflows: ["Convert Excel to JSON 2"]
+    types:
+      - completed
 jobs:
   merge-json:
     runs-on: ubuntu-latest
