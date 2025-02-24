@@ -1,9 +1,9 @@
-name: Merge and Clean JSON Files
+name: Merge and Copy JSON Files
 
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Convert Excel to JSON 2"]
+    workflows: ["Convert Excel to JSON"]
     types:
       - completed
 jobs:
