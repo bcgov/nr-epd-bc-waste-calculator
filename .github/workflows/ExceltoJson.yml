@@ -7,7 +7,7 @@ on:
     types:
       - completed
 jobs:
-  convert:
+  convertfacility:
     runs-on: ubuntu-latest  # You can also choose windows-latest or macos-latest
 
     steps:
@@ -34,6 +34,31 @@ jobs:
           python script/convert.py import/msw_in_region_disposal.xlsx export/output.json
 
       # Optionally, you can commit the output JSON file back to the repository
+      - name: Commit and push JSON output
+        run: |
+          git config --global user.name 'AmanBhathal'
+          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git add .
+          git commit -m "Update JSON file"
+          git push
+  convertmunicipality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install pandas openpyxl
+      
+      - name: Convert Excel to JSON
+        run: python script/convertmun.py import/pop_municipal_subprov_areas.xlsx export/output2.json
+      
+     # Optionally, you can commit the output JSON file back to the repository
       - name: Commit and push JSON output
         run: |
           git config --global user.name 'AmanBhathal'
