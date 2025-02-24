@@ -40,6 +40,6 @@ def process_excel(file_path, output_json):
 
 if __name__ == "__main__":
     # You can pass the file names as arguments
-    excel_file = sys.argv[1]  # Input Excel file
-    json_file = sys.argv[2]   # Output JSON file
+    file_path = sys.argv[1]  # Input Excel file
+    output_json = sys.argv[2]   # Output JSON file
     process_excel(file_path, output_json)
