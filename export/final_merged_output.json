@@ -1,11 +1,29 @@
-{
-    "Alberni-Clayoquot": {
-        "RD_Info": {
-            "SGC": 23000,
-            "Name": "Alberni-Clayoquot",
-            "Area Type": "RD",
-            "Population2023": 35891
-        },
+[
+    {
+        "SGC": 23000,
+        "Name": "Alberni-Clayoquot",
+        "Area Type": "RD",
+        "Population2023": 35891,
+        "Facilities": [
+            {
+                "Response ID": 2100871,
+                "InRegionDisposalFacility": "Alberni Valley Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 524,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 15256,
+                "SGC": 23000
+            },
+            {
+                "Response ID": 2100871,
+                "InRegionDisposalFacility": "West Coast Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 5634,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 7267.5,
+                "SGC": 23000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 23008,
@@ -31,35 +49,42 @@
                 "Area Type": "RDR",
                 "Population2023": 11408
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2100871,
-                "InRegionDisposalFacility": "Alberni Valley Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 524,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 15256,
-                "SGC": 23000
-            },
-            {
-                "Response ID": 2100871,
-                "InRegionDisposalFacility": "West Coast Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 5634,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 7267.5,
-                "SGC": 23000
-            }
         ]
     },
-    "Bulkley-Nechako": {
-        "RD_Info": {
-            "SGC": 51000,
-            "Name": "Bulkley-Nechako",
-            "Area Type": "RD",
-            "Population2023": 39370
-        },
+    {
+        "SGC": 51000,
+        "Name": "Bulkley-Nechako",
+        "Area Type": "RD",
+        "Population2023": 39370,
+        "Facilities": [
+            {
+                "Response ID": 2101099,
+                "InRegionDisposalFacility": "Manson Creek Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 7912,
+                "InRegionScale": "No",
+                "InRegionQuantity": 20,
+                "SGC": 51000
+            },
+            {
+                "Response ID": 2101099,
+                "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 8856,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 15052,
+                "SGC": 51000
+            },
+            {
+                "Response ID": 2101099,
+                "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 17686,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 11163,
+                "SGC": 51000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 51022,
@@ -115,44 +140,24 @@
                 "Area Type": "RDR",
                 "Population2023": 19735
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101099,
-                "InRegionDisposalFacility": "Manson Creek Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 7912,
-                "InRegionScale": "No",
-                "InRegionQuantity": 20,
-                "SGC": 51000
-            },
-            {
-                "Response ID": 2101099,
-                "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 8856,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 15052,
-                "SGC": 51000
-            },
-            {
-                "Response ID": 2101099,
-                "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 17686,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 11163,
-                "SGC": 51000
-            }
         ]
     },
-    "Capital": {
-        "RD_Info": {
-            "SGC": 17000,
-            "Name": "Capital",
-            "Area Type": "RD",
-            "Population2023": 453425
-        },
+    {
+        "SGC": 17000,
+        "Name": "Capital",
+        "Area Type": "RD",
+        "Population2023": 453425,
+        "Facilities": [
+            {
+                "Response ID": 2100877,
+                "InRegionDisposalFacility": "Hartland Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 12659,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 180004,
+                "SGC": 17000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 17015,
@@ -238,58 +243,13 @@
                 "Area Type": "RDR",
                 "Population2023": 30847
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2100877,
-                "InRegionDisposalFacility": "Hartland Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 12659,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 180004,
-                "SGC": 17000
-            }
         ]
     },
-    "Cariboo": {
-        "RD_Info": {
-            "SGC": 41000,
-            "Name": "Cariboo",
-            "Area Type": "RD",
-            "Population2023": 66291
-        },
-        "Associated_Areas": [
-            {
-                "SGC": 41005,
-                "Name": "One Hundred Mile House",
-                "Area Type": "DM",
-                "Population2023": 2009
-            },
-            {
-                "SGC": 41013,
-                "Name": "Quesnel",
-                "Area Type": "CY",
-                "Population2023": 10070
-            },
-            {
-                "SGC": 41025,
-                "Name": "Wells",
-                "Area Type": "DM",
-                "Population2023": 229
-            },
-            {
-                "SGC": 41009,
-                "Name": "Williams Lake",
-                "Area Type": "CY",
-                "Population2023": 11422
-            },
-            {
-                "SGC": 41999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR",
-                "Population2023": 42561
-            }
-        ],
+    {
+        "SGC": 41000,
+        "Name": "Cariboo",
+        "Area Type": "RD",
+        "Population2023": 66291,
         "Facilities": [
             {
                 "Response ID": 2100881,
@@ -435,23 +395,45 @@
                 "InRegionQuantity": 2658,
                 "SGC": 41000
             }
-        ]
-    },
-    "Central Coast": {
-        "RD_Info": {
-            "SGC": 45000,
-            "Name": "Central Coast",
-            "Area Type": "RD",
-            "Population2023": 3850
-        },
+        ],
         "Associated_Areas": [
             {
-                "SGC": 45999,
+                "SGC": 41005,
+                "Name": "One Hundred Mile House",
+                "Area Type": "DM",
+                "Population2023": 2009
+            },
+            {
+                "SGC": 41013,
+                "Name": "Quesnel",
+                "Area Type": "CY",
+                "Population2023": 10070
+            },
+            {
+                "SGC": 41025,
+                "Name": "Wells",
+                "Area Type": "DM",
+                "Population2023": 229
+            },
+            {
+                "SGC": 41009,
+                "Name": "Williams Lake",
+                "Area Type": "CY",
+                "Population2023": 11422
+            },
+            {
+                "SGC": 41999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population2023": 3850
+                "Population2023": 42561
             }
-        ],
+        ]
+    },
+    {
+        "SGC": 45000,
+        "Name": "Central Coast",
+        "Area Type": "RD",
+        "Population2023": 3850,
         "Facilities": [
             {
                 "Response ID": 2100891,
@@ -489,15 +471,50 @@
                 "InRegionQuantity": "",
                 "SGC": 45000
             }
+        ],
+        "Associated_Areas": [
+            {
+                "SGC": 45999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Population2023": 3850
+            }
         ]
     },
-    "Central Kootenay": {
-        "RD_Info": {
-            "SGC": 3000,
-            "Name": "Central Kootenay",
-            "Area Type": "RD",
-            "Population2023": 67129
-        },
+    {
+        "SGC": 3000,
+        "Name": "Central Kootenay",
+        "Area Type": "RD",
+        "Population2023": 67129,
+        "Facilities": [
+            {
+                "Response ID": 2101101,
+                "InRegionDisposalFacility": "Nakusp Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 16521,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 1677.6,
+                "SGC": 3000
+            },
+            {
+                "Response ID": 2101101,
+                "InRegionDisposalFacility": "Creston Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 16913,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 7079.3,
+                "SGC": 3000
+            },
+            {
+                "Response ID": 2101101,
+                "InRegionDisposalFacility": "Ootischenia Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 17126,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 21163.2,
+                "SGC": 3000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 3045,
@@ -559,44 +576,24 @@
                 "Area Type": "RDR",
                 "Population2023": 34862
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101101,
-                "InRegionDisposalFacility": "Nakusp Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 16521,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 1677.6,
-                "SGC": 3000
-            },
-            {
-                "Response ID": 2101101,
-                "InRegionDisposalFacility": "Creston Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 16913,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 7079.3,
-                "SGC": 3000
-            },
-            {
-                "Response ID": 2101101,
-                "InRegionDisposalFacility": "Ootischenia Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 17126,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 21163.2,
-                "SGC": 3000
-            }
         ]
     },
-    "Central Okanagan": {
-        "RD_Info": {
-            "SGC": 35000,
-            "Name": "Central Okanagan",
-            "Area Type": "RD",
-            "Population2023": 246789
-        },
+    {
+        "SGC": 35000,
+        "Name": "Central Okanagan",
+        "Area Type": "RD",
+        "Population2023": 246789,
+        "Facilities": [
+            {
+                "Response ID": 2101105,
+                "InRegionDisposalFacility": "Glenmore Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 12218,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 146833,
+                "SGC": 35000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 35010,
@@ -628,26 +625,13 @@
                 "Area Type": "RDR",
                 "Population2023": 22092
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101105,
-                "InRegionDisposalFacility": "Glenmore Landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 12218,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 146833,
-                "SGC": 35000
-            }
         ]
     },
-    "Columbia-Shuswap": {
-        "RD_Info": {
-            "SGC": 39000,
-            "Name": "Columbia-Shuswap",
-            "Area Type": "RD",
-            "Population2023": 61505
-        },
+    {
+        "SGC": 39000,
+        "Name": "Columbia-Shuswap",
+        "Area Type": "RD",
+        "Population2023": 61505,
         "Associated_Areas": [
             {
                 "SGC": 39007,
@@ -681,13 +665,58 @@
             }
         ]
     },
-    "Comox Valley": {
-        "RD_Info": {
-            "SGC": 26000,
-            "Name": "Comox Valley",
-            "Area Type": "RD",
-            "Population2023": 129382
-        },
+    {
+        "SGC": 26000,
+        "Name": "Comox Valley",
+        "Area Type": "RD",
+        "Population2023": 129382,
+        "Facilities": [
+            {
+                "Response ID": 2100901,
+                "InRegionDisposalFacility": "Campbell River Waste Management Centre",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 2401,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 2201,
+                "SGC": 26000
+            },
+            {
+                "Response ID": 2100901,
+                "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 3825,
+                "InRegionScale": "No",
+                "InRegionQuantity": "",
+                "SGC": 26000
+            },
+            {
+                "Response ID": 2100901,
+                "InRegionDisposalFacility": "Tahsis Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 4278,
+                "InRegionScale": "No",
+                "InRegionQuantity": 650,
+                "SGC": 26000
+            },
+            {
+                "Response ID": 2100901,
+                "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 5050,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 61944,
+                "SGC": 26000
+            },
+            {
+                "Response ID": 2100901,
+                "InRegionDisposalFacility": "Zeballos Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 7496,
+                "InRegionScale": "No",
+                "InRegionQuantity": 493,
+                "SGC": 26000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 26005,
@@ -749,62 +778,24 @@
                 "Area Type": "RDR",
                 "Population2023": 11215
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2100901,
-                "InRegionDisposalFacility": "Campbell River Waste Management Centre",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 2401,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 2201,
-                "SGC": 26000
-            },
-            {
-                "Response ID": 2100901,
-                "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 3825,
-                "InRegionScale": "No",
-                "InRegionQuantity": "",
-                "SGC": 26000
-            },
-            {
-                "Response ID": 2100901,
-                "InRegionDisposalFacility": "Tahsis Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 4278,
-                "InRegionScale": "No",
-                "InRegionQuantity": 650,
-                "SGC": 26000
-            },
-            {
-                "Response ID": 2100901,
-                "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 5050,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 61944,
-                "SGC": 26000
-            },
-            {
-                "Response ID": 2100901,
-                "InRegionDisposalFacility": "Zeballos Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 7496,
-                "InRegionScale": "No",
-                "InRegionQuantity": 493,
-                "SGC": 26000
-            }
         ]
     },
-    "Cowichan Valley": {
-        "RD_Info": {
-            "SGC": 19000,
-            "Name": "Cowichan Valley",
-            "Area Type": "RD",
-            "Population2023": 94941
-        },
+    {
+        "SGC": 19000,
+        "Name": "Cowichan Valley",
+        "Area Type": "RD",
+        "Population2023": 94941,
+        "Facilities": [
+            {
+                "Response ID": "",
+                "InRegionDisposalFacility": "",
+                "Owner": "",
+                "AuthorizationNumber": "",
+                "InRegionScale": "",
+                "InRegionQuantity": "",
+                "SGC": 19000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 19012,
@@ -836,26 +827,42 @@
                 "Area Type": "RDR",
                 "Population2023": 42242
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": "",
-                "InRegionDisposalFacility": "",
-                "Owner": "",
-                "AuthorizationNumber": "",
-                "InRegionScale": "",
-                "InRegionQuantity": "",
-                "SGC": 19000
-            }
         ]
     },
-    "East Kootenay": {
-        "RD_Info": {
-            "SGC": 1000,
-            "Name": "East Kootenay",
-            "Area Type": "RD",
-            "Population2023": 70741
-        },
+    {
+        "SGC": 1000,
+        "Name": "East Kootenay",
+        "Area Type": "RD",
+        "Population2023": 70741,
+        "Facilities": [
+            {
+                "Response ID": 2101119,
+                "InRegionDisposalFacility": "Central Subregion Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15962,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 35267.75,
+                "SGC": 1000
+            },
+            {
+                "Response ID": 2101119,
+                "InRegionDisposalFacility": "Columbia Valley Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 100134,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 13363.72,
+                "SGC": 1000
+            },
+            {
+                "Response ID": 2101119,
+                "InRegionDisposalFacility": "Sparwood Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 107745,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 1394.36,
+                "SGC": 1000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 1043,
@@ -911,44 +918,51 @@
                 "Area Type": "RDR",
                 "Population2023": 19250
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101119,
-                "InRegionDisposalFacility": "Central Subregion Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15962,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 35267.75,
-                "SGC": 1000
-            },
-            {
-                "Response ID": 2101119,
-                "InRegionDisposalFacility": "Columbia Valley Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 100134,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 13363.72,
-                "SGC": 1000
-            },
-            {
-                "Response ID": 2101119,
-                "InRegionDisposalFacility": "Sparwood Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 107745,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 1394.36,
-                "SGC": 1000
-            }
         ]
     },
-    "Fraser Valley": {
-        "RD_Info": {
-            "SGC": 9000,
-            "Name": "Fraser Valley",
-            "Area Type": "RD",
-            "Population2023": 353301
-        },
+    {
+        "SGC": 9000,
+        "Name": "Fraser Valley",
+        "Area Type": "RD",
+        "Population2023": 353301,
+        "Facilities": [
+            {
+                "Response ID": 2100935,
+                "InRegionDisposalFacility": "Bailey Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 101798,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 86882.58,
+                "SGC": 9000
+            },
+            {
+                "Response ID": 2100935,
+                "InRegionDisposalFacility": "Chaumox Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 101804,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 383.44,
+                "SGC": 9000
+            },
+            {
+                "Response ID": 2100935,
+                "InRegionDisposalFacility": "Mission Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 105058,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 13875.49,
+                "SGC": 9000
+            },
+            {
+                "Response ID": 2100935,
+                "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
+                "Owner": "Regional District",
+                "AuthorizationNumber": "",
+                "InRegionScale": "Yes",
+                "InRegionQuantity": -82000,
+                "SGC": 9000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 9052,
@@ -992,85 +1006,13 @@
                 "Area Type": "RDR",
                 "Population2023": 22847
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2100935,
-                "InRegionDisposalFacility": "Bailey Landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 101798,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 86882.58,
-                "SGC": 9000
-            },
-            {
-                "Response ID": 2100935,
-                "InRegionDisposalFacility": "Chaumox Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 101804,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 383.44,
-                "SGC": 9000
-            },
-            {
-                "Response ID": 2100935,
-                "InRegionDisposalFacility": "Mission Landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 105058,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 13875.49,
-                "SGC": 9000
-            },
-            {
-                "Response ID": 2100935,
-                "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
-                "Owner": "Regional District",
-                "AuthorizationNumber": "",
-                "InRegionScale": "Yes",
-                "InRegionQuantity": -82000,
-                "SGC": 9000
-            }
         ]
     },
-    "Fraser-Fort George": {
-        "RD_Info": {
-            "SGC": 53000,
-            "Name": "Fraser-Fort George",
-            "Area Type": "RD",
-            "Population2023": 104141
-        },
-        "Associated_Areas": [
-            {
-                "SGC": 53033,
-                "Name": "Mackenzie",
-                "Area Type": "DM",
-                "Population2023": 3376
-            },
-            {
-                "SGC": 53012,
-                "Name": "McBride",
-                "Area Type": "VL",
-                "Population2023": 625
-            },
-            {
-                "SGC": 53023,
-                "Name": "Prince George",
-                "Area Type": "CY",
-                "Population2023": 82637
-            },
-            {
-                "SGC": 53007,
-                "Name": "Valemount",
-                "Area Type": "VL",
-                "Population2023": 1144
-            },
-            {
-                "SGC": 53999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR",
-                "Population2023": 16359
-            }
-        ],
+    {
+        "SGC": 53000,
+        "Name": "Fraser-Fort George",
+        "Area Type": "RD",
+        "Population2023": 104141,
         "Facilities": [
             {
                 "Response ID": 2100927,
@@ -1108,15 +1050,45 @@
                 "InRegionQuantity": "",
                 "SGC": 53000
             }
+        ],
+        "Associated_Areas": [
+            {
+                "SGC": 53033,
+                "Name": "Mackenzie",
+                "Area Type": "DM",
+                "Population2023": 3376
+            },
+            {
+                "SGC": 53012,
+                "Name": "McBride",
+                "Area Type": "VL",
+                "Population2023": 625
+            },
+            {
+                "SGC": 53023,
+                "Name": "Prince George",
+                "Area Type": "CY",
+                "Population2023": 82637
+            },
+            {
+                "SGC": 53007,
+                "Name": "Valemount",
+                "Area Type": "VL",
+                "Population2023": 1144
+            },
+            {
+                "SGC": 53999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Population2023": 16359
+            }
         ]
     },
-    "Kitimat-Stikine": {
-        "RD_Info": {
-            "SGC": 49000,
-            "Name": "Kitimat-Stikine",
-            "Area Type": "RD",
-            "Population2023": 40558
-        },
+    {
+        "SGC": 49000,
+        "Name": "Kitimat-Stikine",
+        "Area Type": "RD",
+        "Population2023": 40558,
         "Associated_Areas": [
             {
                 "SGC": 49022,
@@ -1156,13 +1128,40 @@
             }
         ]
     },
-    "Kootenay Boundary": {
-        "RD_Info": {
-            "SGC": 5000,
-            "Name": "Kootenay Boundary",
-            "Area Type": "RD",
-            "Population2023": 35189
-        },
+    {
+        "SGC": 5000,
+        "Name": "Kootenay Boundary",
+        "Area Type": "RD",
+        "Population2023": 35189,
+        "Facilities": [
+            {
+                "Response ID": 2101081,
+                "InRegionDisposalFacility": "McKelvey Creek Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 1917,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 10602,
+                "SGC": 5000
+            },
+            {
+                "Response ID": 2101081,
+                "InRegionDisposalFacility": "Grand Forks Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15290,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 6866.19,
+                "SGC": 5000
+            },
+            {
+                "Response ID": 2101081,
+                "InRegionDisposalFacility": "West Boundary Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15294,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 1062.18,
+                "SGC": 5000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 5005,
@@ -1218,44 +1217,42 @@
                 "Area Type": "RDR",
                 "Population2023": 11937
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101081,
-                "InRegionDisposalFacility": "McKelvey Creek Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 1917,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 10602,
-                "SGC": 5000
-            },
-            {
-                "Response ID": 2101081,
-                "InRegionDisposalFacility": "Grand Forks Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15290,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 6866.19,
-                "SGC": 5000
-            },
-            {
-                "Response ID": 2101081,
-                "InRegionDisposalFacility": "West Boundary Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15294,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 1062.18,
-                "SGC": 5000
-            }
         ]
     },
-    "Metro Vancouver": {
-        "RD_Info": {
-            "SGC": 15000,
-            "Name": "Metro Vancouver",
-            "Area Type": "RD",
-            "Population2023": 2971064
-        },
+    {
+        "SGC": 15000,
+        "Name": "Metro Vancouver",
+        "Area Type": "RD",
+        "Population2023": 2971064,
+        "Facilities": [
+            {
+                "Response ID": 2100945,
+                "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 1611,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 683496,
+                "SGC": 15000
+            },
+            {
+                "Response ID": 2100945,
+                "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 107051,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 233052,
+                "SGC": 15000
+            },
+            {
+                "Response ID": 2100945,
+                "InRegionDisposalFacility": "Private landfills (C&D)",
+                "Owner": "Private Firm",
+                "AuthorizationNumber": "",
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 185143.01,
+                "SGC": 15000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 15038,
@@ -1389,44 +1386,24 @@
                 "Area Type": "RDR",
                 "Population2023": 33400
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2100945,
-                "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 1611,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 683496,
-                "SGC": 15000
-            },
-            {
-                "Response ID": 2100945,
-                "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 107051,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 233052,
-                "SGC": 15000
-            },
-            {
-                "Response ID": 2100945,
-                "InRegionDisposalFacility": "Private landfills (C&D)",
-                "Owner": "Private Firm",
-                "AuthorizationNumber": "",
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 185143.01,
-                "SGC": 15000
-            }
         ]
     },
-    "Mount Waddington": {
-        "RD_Info": {
-            "SGC": 43000,
-            "Name": "Mount Waddington",
-            "Area Type": "RD",
-            "Population2023": 11425
-        },
+    {
+        "SGC": 43000,
+        "Name": "Mount Waddington",
+        "Area Type": "RD",
+        "Population2023": 11425,
+        "Facilities": [
+            {
+                "Response ID": 2101123,
+                "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 8490,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 7762,
+                "SGC": 43000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 43008,
@@ -1458,26 +1435,24 @@
                 "Area Type": "RDR",
                 "Population2023": 3545
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101123,
-                "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 8490,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 7762,
-                "SGC": 43000
-            }
         ]
     },
-    "Nanaimo": {
-        "RD_Info": {
-            "SGC": 21000,
-            "Name": "Nanaimo",
-            "Area Type": "RD",
-            "Population2023": 183039
-        },
+    {
+        "SGC": 21000,
+        "Name": "Nanaimo",
+        "Area Type": "RD",
+        "Population2023": 183039,
+        "Facilities": [
+            {
+                "Response ID": 2101127,
+                "InRegionDisposalFacility": "Regional Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 1714,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 75553,
+                "SGC": 21000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 21008,
@@ -1509,26 +1484,33 @@
                 "Area Type": "RDR",
                 "Population2023": 46469
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101127,
-                "InRegionDisposalFacility": "Regional Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 1714,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 75553,
-                "SGC": 21000
-            }
         ]
     },
-    "North Coast": {
-        "RD_Info": {
-            "SGC": 47000,
-            "Name": "North Coast",
-            "Area Type": "RD",
-            "Population2023": 19133
-        },
+    {
+        "SGC": 47000,
+        "Name": "North Coast",
+        "Area Type": "RD",
+        "Population2023": 19133,
+        "Facilities": [
+            {
+                "Response ID": 2101029,
+                "InRegionDisposalFacility": "Island solid Waste Management",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 7150,
+                "InRegionScale": "No",
+                "InRegionQuantity": 1860,
+                "SGC": 47000
+            },
+            {
+                "Response ID": 2101029,
+                "InRegionDisposalFacility": "Prince Rupert landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 7988,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 11797,
+                "SGC": 47000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 47026,
@@ -1566,35 +1548,42 @@
                 "Area Type": "RDR",
                 "Population2023": 3473
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101029,
-                "InRegionDisposalFacility": "Island solid Waste Management",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 7150,
-                "InRegionScale": "No",
-                "InRegionQuantity": 1860,
-                "SGC": 47000
-            },
-            {
-                "Response ID": 2101029,
-                "InRegionDisposalFacility": "Prince Rupert landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 7988,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 11797,
-                "SGC": 47000
-            }
         ]
     },
-    "North Okanagan": {
-        "RD_Info": {
-            "SGC": 37000,
-            "Name": "North Okanagan",
-            "Area Type": "RD",
-            "Population2023": 98529
-        },
+    {
+        "SGC": 37000,
+        "Name": "North Okanagan",
+        "Area Type": "RD",
+        "Population2023": 98529,
+        "Facilities": [
+            {
+                "Response ID": 2101139,
+                "InRegionDisposalFacility": "Lumby DDF",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15282,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 2364,
+                "SGC": 37000
+            },
+            {
+                "Response ID": 2101139,
+                "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15284,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 14189,
+                "SGC": 37000
+            },
+            {
+                "Response ID": 2101139,
+                "InRegionDisposalFacility": "Greater Vernon DDF",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15286,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 29595,
+                "SGC": 37000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 37028,
@@ -1638,44 +1627,24 @@
                 "Area Type": "RDR",
                 "Population2023": 21909
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101139,
-                "InRegionDisposalFacility": "Lumby DDF",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15282,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 2364,
-                "SGC": 37000
-            },
-            {
-                "Response ID": 2101139,
-                "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15284,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 14189,
-                "SGC": 37000
-            },
-            {
-                "Response ID": 2101139,
-                "InRegionDisposalFacility": "Greater Vernon DDF",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 15286,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 29595,
-                "SGC": 37000
-            }
         ]
     },
-    "Northern Rockies": {
-        "RD_Info": {
-            "SGC": 59000,
-            "Name": "Northern Rockies",
-            "Area Type": "RD",
-            "Population2023": 4632
-        },
+    {
+        "SGC": 59000,
+        "Name": "Northern Rockies",
+        "Area Type": "RD",
+        "Population2023": 4632,
+        "Facilities": [
+            {
+                "Response ID": 2101035,
+                "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 16960,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 1845.48,
+                "SGC": 59000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 59007,
@@ -1689,70 +1658,13 @@
                 "Area Type": "RDR",
                 "Population2023": 553
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101035,
-                "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 16960,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 1845.48,
-                "SGC": 59000
-            }
         ]
     },
-    "Okanagan-Similkameen": {
-        "RD_Info": {
-            "SGC": 7000,
-            "Name": "Okanagan-Similkameen",
-            "Area Type": "RD",
-            "Population2023": 94533
-        },
-        "Associated_Areas": [
-            {
-                "SGC": 7009,
-                "Name": "Keremeos",
-                "Area Type": "VL",
-                "Population2023": 1720
-            },
-            {
-                "SGC": 7014,
-                "Name": "Oliver",
-                "Area Type": "T",
-                "Population2023": 5303
-            },
-            {
-                "SGC": 7005,
-                "Name": "Osoyoos",
-                "Area Type": "T",
-                "Population2023": 5763
-            },
-            {
-                "SGC": 7041,
-                "Name": "Penticton",
-                "Area Type": "CY",
-                "Population2023": 38651
-            },
-            {
-                "SGC": 7024,
-                "Name": "Princeton",
-                "Area Type": "T",
-                "Population2023": 3051
-            },
-            {
-                "SGC": 7035,
-                "Name": "Summerland",
-                "Area Type": "DM",
-                "Population2023": 12620
-            },
-            {
-                "SGC": 7999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR",
-                "Population2023": 27425
-            }
-        ],
+    {
+        "SGC": 7000,
+        "Name": "Okanagan-Similkameen",
+        "Area Type": "RD",
+        "Population2023": 94533,
         "Facilities": [
             {
                 "Response ID": 2101141,
@@ -1808,15 +1720,86 @@
                 "InRegionQuantity": 7982,
                 "SGC": 7000
             }
+        ],
+        "Associated_Areas": [
+            {
+                "SGC": 7009,
+                "Name": "Keremeos",
+                "Area Type": "VL",
+                "Population2023": 1720
+            },
+            {
+                "SGC": 7014,
+                "Name": "Oliver",
+                "Area Type": "T",
+                "Population2023": 5303
+            },
+            {
+                "SGC": 7005,
+                "Name": "Osoyoos",
+                "Area Type": "T",
+                "Population2023": 5763
+            },
+            {
+                "SGC": 7041,
+                "Name": "Penticton",
+                "Area Type": "CY",
+                "Population2023": 38651
+            },
+            {
+                "SGC": 7024,
+                "Name": "Princeton",
+                "Area Type": "T",
+                "Population2023": 3051
+            },
+            {
+                "SGC": 7035,
+                "Name": "Summerland",
+                "Area Type": "DM",
+                "Population2023": 12620
+            },
+            {
+                "SGC": 7999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Population2023": 27425
+            }
         ]
     },
-    "Peace River": {
-        "RD_Info": {
-            "SGC": 55000,
-            "Name": "Peace River",
-            "Area Type": "RD",
-            "Population2023": 65487
-        },
+    {
+        "SGC": 55000,
+        "Name": "Peace River",
+        "Area Type": "RD",
+        "Population2023": 65487,
+        "Facilities": [
+            {
+                "Response ID": 2101047,
+                "InRegionDisposalFacility": "Chetwynd Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 2896,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 5406.9,
+                "SGC": 55000
+            },
+            {
+                "Response ID": 2101047,
+                "InRegionDisposalFacility": "Bessborough Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 17529,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 14613.69,
+                "SGC": 55000
+            },
+            {
+                "Response ID": 2101047,
+                "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 106160,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 31862.27,
+                "SGC": 55000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 55010,
@@ -1866,44 +1849,13 @@
                 "Area Type": "RDR",
                 "Population2023": 20653
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101047,
-                "InRegionDisposalFacility": "Chetwynd Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 2896,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 5406.9,
-                "SGC": 55000
-            },
-            {
-                "Response ID": 2101047,
-                "InRegionDisposalFacility": "Bessborough Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 17529,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 14613.69,
-                "SGC": 55000
-            },
-            {
-                "Response ID": 2101047,
-                "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 106160,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 31862.27,
-                "SGC": 55000
-            }
         ]
     },
-    "qathet": {
-        "RD_Info": {
-            "SGC": 27000,
-            "Name": "qathet",
-            "Area Type": "RD",
-            "Population2023": 22768
-        },
+    {
+        "SGC": 27000,
+        "Name": "qathet",
+        "Area Type": "RD",
+        "Population2023": 22768,
         "Associated_Areas": [
             {
                 "SGC": 27008,
@@ -1925,13 +1877,31 @@
             }
         ]
     },
-    "Squamish-Lillooet": {
-        "RD_Info": {
-            "SGC": 31000,
-            "Name": "Squamish-Lillooet",
-            "Area Type": "RD",
-            "Population2023": 54923
-        },
+    {
+        "SGC": 31000,
+        "Name": "Squamish-Lillooet",
+        "Area Type": "RD",
+        "Population2023": 54923,
+        "Facilities": [
+            {
+                "Response ID": 2101145,
+                "InRegionDisposalFacility": "Lillooet Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 5042,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 2893,
+                "SGC": 31000
+            },
+            {
+                "Response ID": 2101145,
+                "InRegionDisposalFacility": "Squamish Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 106063,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 11940,
+                "SGC": 31000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 31026,
@@ -1975,35 +1945,24 @@
                 "Area Type": "RDR",
                 "Population2023": 779
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101145,
-                "InRegionDisposalFacility": "Lillooet Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 5042,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 2893,
-                "SGC": 31000
-            },
-            {
-                "Response ID": 2101145,
-                "InRegionDisposalFacility": "Squamish Landfill",
-                "Owner": "Municipality",
-                "AuthorizationNumber": 106063,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 11940,
-                "SGC": 31000
-            }
         ]
     },
-    "Sunshine Coast": {
-        "RD_Info": {
-            "SGC": 29000,
-            "Name": "Sunshine Coast",
-            "Area Type": "RD",
-            "Population2023": 34104
-        },
+    {
+        "SGC": 29000,
+        "Name": "Sunshine Coast",
+        "Area Type": "RD",
+        "Population2023": 34104,
+        "Facilities": [
+            {
+                "Response ID": 2101147,
+                "InRegionDisposalFacility": "Sechelt Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 106060,
+                "InRegionScale": "Yes",
+                "InRegionQuantity": 12239,
+                "SGC": 29000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 29005,
@@ -2029,26 +1988,13 @@
                 "Area Type": "RDR",
                 "Population2023": 17143
             }
-        ],
-        "Facilities": [
-            {
-                "Response ID": 2101147,
-                "InRegionDisposalFacility": "Sechelt Landfill",
-                "Owner": "Regional District",
-                "AuthorizationNumber": 106060,
-                "InRegionScale": "Yes",
-                "InRegionQuantity": 12239,
-                "SGC": 29000
-            }
         ]
     },
-    "Thompson-Nicola": {
-        "RD_Info": {
-            "SGC": 33000,
-            "Name": "Thompson-Nicola",
-            "Area Type": "RD",
-            "Population2023": 156094
-        },
+    {
+        "SGC": 33000,
+        "Name": "Thompson-Nicola",
+        "Area Type": "RD",
+        "Population2023": 156094,
         "Associated_Areas": [
             {
                 "SGC": 33019,
@@ -2124,4 +2070,4 @@
             }
         ]
     }
-}
+]
