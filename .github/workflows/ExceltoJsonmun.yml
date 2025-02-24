@@ -23,7 +23,7 @@ jobs:
         run: pip install pandas openpyxl
       
       - name: Convert Excel to JSON
-        run: python convertmun.py import/pop_municipal_subprov_areas.xlsx export/output2.json
+        run: python script/convertmun.py import/pop_municipal_subprov_areas.xlsx export/output2.json
       
      # Optionally, you can commit the output JSON file back to the repository
       - name: Commit and push JSON output
