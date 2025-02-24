@@ -38,6 +38,6 @@ jobs:
         run: |
           git config --global user.name 'AmanBhathal'
           git config --global user.email 'amandeep.bhathal@gov.bc.ca'
-          git add export/output.json
+          git add .
           git commit -m "Update JSON file"
           git push
