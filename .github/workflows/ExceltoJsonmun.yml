@@ -2,7 +2,10 @@ name: Convert Excel to JSON 2
 
 on:
   workflow_dispatch:
-
+  workflow_run:
+    workflows: ["Convert Excel to JSON"]
+    types:
+      - completed
 env:
   EXCEL_FILE: import/pop_municipal_subprov_areas.xlsx 
   JSON_OUTPUT: export/output2.json
