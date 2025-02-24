@@ -4,7 +4,7 @@ import os
 
 # Fetch file paths from environment variables
 input_file1 = os.getenv("INPUT_FILE1", "output2.json")
-input_file2 = os.getenv("INPUT_FILE2", "output-2.json")
+input_file2 = os.getenv("INPUT_FILE2", "output.json")
 output_file = os.getenv("OUTPUT_FILE", "final_merged_output.json")
 
 
