@@ -9,7 +9,6 @@
                 "InRegionDisposalFacility": "Alberni Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 524,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 15256,
                 "SGC": 23000
             },
@@ -17,7 +16,6 @@
                 "InRegionDisposalFacility": "West Coast Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5634,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 7267.5,
                 "SGC": 23000
             }
@@ -59,7 +57,6 @@
                 "InRegionDisposalFacility": "Manson Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7912,
-                "InRegionScale": "No",
                 "InRegionQuantity": 20,
                 "SGC": 51000
             },
@@ -67,7 +64,6 @@
                 "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 8856,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 15052,
                 "SGC": 51000
             },
@@ -75,7 +71,6 @@
                 "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17686,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 11163,
                 "SGC": 51000
             }
@@ -147,7 +142,6 @@
                 "InRegionDisposalFacility": "Hartland Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 12659,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 180004,
                 "SGC": 17000
             }
@@ -249,7 +243,6 @@
                 "InRegionDisposalFacility": "Quesnel Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 3132,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 17595,
                 "SGC": 41000
             },
@@ -257,7 +250,6 @@
                 "InRegionDisposalFacility": "Likely Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4533,
-                "InRegionScale": "No",
                 "InRegionQuantity": 325,
                 "SGC": 41000
             },
@@ -265,7 +257,6 @@
                 "InRegionDisposalFacility": "Cochin Lanfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4535,
-                "InRegionScale": "No",
                 "InRegionQuantity": 50,
                 "SGC": 41000
             },
@@ -273,7 +264,6 @@
                 "InRegionDisposalFacility": "Puntzi Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4536,
-                "InRegionScale": "No",
                 "InRegionQuantity": 85,
                 "SGC": 41000
             },
@@ -281,7 +271,6 @@
                 "InRegionDisposalFacility": "South Cariboo Landfill (100 Mile House landfill)",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4994,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 7968,
                 "SGC": 41000
             },
@@ -289,7 +278,6 @@
                 "InRegionDisposalFacility": "Interlakes Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5776,
-                "InRegionScale": "No",
                 "InRegionQuantity": 1200,
                 "SGC": 41000
             },
@@ -297,7 +285,6 @@
                 "InRegionDisposalFacility": "Kleena Kleene Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6313,
-                "InRegionScale": "No",
                 "InRegionQuantity": 20,
                 "SGC": 41000
             },
@@ -305,7 +292,6 @@
                 "InRegionDisposalFacility": "Big Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6510,
-                "InRegionScale": "No",
                 "InRegionQuantity": 350,
                 "SGC": 41000
             },
@@ -313,7 +299,6 @@
                 "InRegionDisposalFacility": "Nemaiah Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6922,
-                "InRegionScale": "No",
                 "InRegionQuantity": 25,
                 "SGC": 41000
             },
@@ -321,7 +306,6 @@
                 "InRegionDisposalFacility": "Tatla Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7200,
-                "InRegionScale": "No",
                 "InRegionQuantity": 80,
                 "SGC": 41000
             },
@@ -329,7 +313,6 @@
                 "InRegionDisposalFacility": "Mahood Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7644,
-                "InRegionScale": "No",
                 "InRegionQuantity": 90,
                 "SGC": 41000
             },
@@ -337,7 +320,6 @@
                 "InRegionDisposalFacility": "Nazko Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 10953,
-                "InRegionScale": "No",
                 "InRegionQuantity": 115,
                 "SGC": 41000
             },
@@ -345,7 +327,6 @@
                 "InRegionDisposalFacility": "Watch Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 11071,
-                "InRegionScale": "No",
                 "InRegionQuantity": 225,
                 "SGC": 41000
             },
@@ -353,7 +334,6 @@
                 "InRegionDisposalFacility": "Gibraltar Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16556,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 10693,
                 "SGC": 41000
             },
@@ -361,7 +341,6 @@
                 "InRegionDisposalFacility": "West Chilcotin Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17920,
-                "InRegionScale": "No",
                 "InRegionQuantity": 495,
                 "SGC": 41000
             },
@@ -369,7 +348,6 @@
                 "InRegionDisposalFacility": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 103019,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 2658,
                 "SGC": 41000
             }
@@ -417,7 +395,6 @@
                 "InRegionDisposalFacility": "Thorsen Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4223,
-                "InRegionScale": "No",
                 "InRegionQuantity": 1576,
                 "SGC": 45000
             },
@@ -425,7 +402,6 @@
                 "InRegionDisposalFacility": "Ocean Falls Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 10611,
-                "InRegionScale": "No",
                 "InRegionQuantity": "",
                 "SGC": 45000
             },
@@ -433,7 +409,6 @@
                 "InRegionDisposalFacility": "Denny Island Landfill",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": 18186,
-                "InRegionScale": "No",
                 "InRegionQuantity": "",
                 "SGC": 45000
             },
@@ -441,7 +416,6 @@
                 "InRegionDisposalFacility": "Wuikinuxv Landfill",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": "",
-                "InRegionScale": "No",
                 "InRegionQuantity": "",
                 "SGC": 45000
             }
@@ -465,7 +439,6 @@
                 "InRegionDisposalFacility": "Nakusp Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16521,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 1677.6,
                 "SGC": 3000
             },
@@ -473,7 +446,6 @@
                 "InRegionDisposalFacility": "Creston Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16913,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 7079.3,
                 "SGC": 3000
             },
@@ -481,7 +453,6 @@
                 "InRegionDisposalFacility": "Ootischenia Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17126,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 21163.2,
                 "SGC": 3000
             }
@@ -559,7 +530,6 @@
                 "InRegionDisposalFacility": "Glenmore Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 12218,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 146833,
                 "SGC": 35000
             }
@@ -645,7 +615,6 @@
                 "InRegionDisposalFacility": "Campbell River Waste Management Centre",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 2401,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 2201,
                 "SGC": 26000
             },
@@ -653,7 +622,6 @@
                 "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 3825,
-                "InRegionScale": "No",
                 "InRegionQuantity": "",
                 "SGC": 26000
             },
@@ -661,7 +629,6 @@
                 "InRegionDisposalFacility": "Tahsis Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4278,
-                "InRegionScale": "No",
                 "InRegionQuantity": 650,
                 "SGC": 26000
             },
@@ -669,7 +636,6 @@
                 "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5050,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 61944,
                 "SGC": 26000
             },
@@ -677,7 +643,6 @@
                 "InRegionDisposalFacility": "Zeballos Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7496,
-                "InRegionScale": "No",
                 "InRegionQuantity": 493,
                 "SGC": 26000
             }
@@ -755,7 +720,6 @@
                 "InRegionDisposalFacility": "",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "InRegionScale": "",
                 "InRegionQuantity": "",
                 "SGC": 19000
             }
@@ -803,7 +767,6 @@
                 "InRegionDisposalFacility": "Central Subregion Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15962,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 35267.75,
                 "SGC": 1000
             },
@@ -811,7 +774,6 @@
                 "InRegionDisposalFacility": "Columbia Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 100134,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 13363.72,
                 "SGC": 1000
             },
@@ -819,7 +781,6 @@
                 "InRegionDisposalFacility": "Sparwood Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 107745,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 1394.36,
                 "SGC": 1000
             }
@@ -891,7 +852,6 @@
                 "InRegionDisposalFacility": "Bailey Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 101798,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 86882.58,
                 "SGC": 9000
             },
@@ -899,7 +859,6 @@
                 "InRegionDisposalFacility": "Chaumox Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 101804,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 383.44,
                 "SGC": 9000
             },
@@ -907,7 +866,6 @@
                 "InRegionDisposalFacility": "Mission Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 105058,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 13875.49,
                 "SGC": 9000
             },
@@ -915,7 +873,6 @@
                 "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
                 "Owner": "Regional District",
                 "AuthorizationNumber": "",
-                "InRegionScale": "Yes",
                 "InRegionQuantity": -82000,
                 "SGC": 9000
             }
@@ -975,7 +932,6 @@
                 "InRegionDisposalFacility": "Foothills",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1697,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 74416.7,
                 "SGC": 53000
             },
@@ -983,7 +939,6 @@
                 "InRegionDisposalFacility": "Legrand",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6424,
-                "InRegionScale": "No",
                 "InRegionQuantity": "",
                 "SGC": 53000
             },
@@ -991,7 +946,6 @@
                 "InRegionDisposalFacility": "Mackenzie",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 100206,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 539,
                 "SGC": 53000
             },
@@ -999,7 +953,6 @@
                 "InRegionDisposalFacility": "aggregate",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "InRegionScale": "",
                 "InRegionQuantity": "",
                 "SGC": 53000
             }
@@ -1091,7 +1044,6 @@
                 "InRegionDisposalFacility": "McKelvey Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1917,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 10602,
                 "SGC": 5000
             },
@@ -1099,7 +1051,6 @@
                 "InRegionDisposalFacility": "Grand Forks Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15290,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 6866.19,
                 "SGC": 5000
             },
@@ -1107,7 +1058,6 @@
                 "InRegionDisposalFacility": "West Boundary Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15294,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 1062.18,
                 "SGC": 5000
             }
@@ -1179,7 +1129,6 @@
                 "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 1611,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 683496,
                 "SGC": 15000
             },
@@ -1187,7 +1136,6 @@
                 "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 107051,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 233052,
                 "SGC": 15000
             },
@@ -1195,7 +1143,6 @@
                 "InRegionDisposalFacility": "Private landfills (C&D)",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": "",
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 185143.01,
                 "SGC": 15000
             }
@@ -1345,7 +1292,6 @@
                 "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 8490,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 7762,
                 "SGC": 43000
             }
@@ -1393,7 +1339,6 @@
                 "InRegionDisposalFacility": "Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1714,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 75553,
                 "SGC": 21000
             }
@@ -1441,7 +1386,6 @@
                 "InRegionDisposalFacility": "Island solid Waste Management",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7150,
-                "InRegionScale": "No",
                 "InRegionQuantity": 1860,
                 "SGC": 47000
             },
@@ -1449,7 +1393,6 @@
                 "InRegionDisposalFacility": "Prince Rupert landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 7988,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 11797,
                 "SGC": 47000
             }
@@ -1503,7 +1446,6 @@
                 "InRegionDisposalFacility": "Lumby DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15282,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 2364,
                 "SGC": 37000
             },
@@ -1511,7 +1453,6 @@
                 "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15284,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 14189,
                 "SGC": 37000
             },
@@ -1519,7 +1460,6 @@
                 "InRegionDisposalFacility": "Greater Vernon DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15286,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 29595,
                 "SGC": 37000
             }
@@ -1579,7 +1519,6 @@
                 "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 16960,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 1845.48,
                 "SGC": 59000
             }
@@ -1609,7 +1548,6 @@
                 "InRegionDisposalFacility": "Osoyoos Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15273,
-                "InRegionScale": "",
                 "InRegionQuantity": 4045,
                 "SGC": 7000
             },
@@ -1617,7 +1555,6 @@
                 "InRegionDisposalFacility": "Campbell Mountain Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15274,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 27061,
                 "SGC": 7000
             },
@@ -1625,7 +1562,6 @@
                 "InRegionDisposalFacility": "Summerland Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15275,
-                "InRegionScale": "",
                 "InRegionQuantity": 5581,
                 "SGC": 7000
             },
@@ -1633,7 +1569,6 @@
                 "InRegionDisposalFacility": "Princeton Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15276,
-                "InRegionScale": "",
                 "InRegionQuantity": 4271,
                 "SGC": 7000
             },
@@ -1641,7 +1576,6 @@
                 "InRegionDisposalFacility": "Okanagan Falls",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15279,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 3987,
                 "SGC": 7000
             },
@@ -1649,7 +1583,6 @@
                 "InRegionDisposalFacility": "Oliver Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15280,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 7982,
                 "SGC": 7000
             }
@@ -1709,7 +1642,6 @@
                 "InRegionDisposalFacility": "Chetwynd Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 2896,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 5406.9,
                 "SGC": 55000
             },
@@ -1717,7 +1649,6 @@
                 "InRegionDisposalFacility": "Bessborough Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17529,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 14613.69,
                 "SGC": 55000
             },
@@ -1725,7 +1656,6 @@
                 "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 106160,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 31862.27,
                 "SGC": 55000
             }
@@ -1791,7 +1721,6 @@
                 "InRegionDisposalFacility": "",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "InRegionScale": "",
                 "InRegionQuantity": "",
                 "SGC": 27000
             }
@@ -1827,7 +1756,6 @@
                 "InRegionDisposalFacility": "Lillooet Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5042,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 2893,
                 "SGC": 31000
             },
@@ -1835,7 +1763,6 @@
                 "InRegionDisposalFacility": "Squamish Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 106063,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 11940,
                 "SGC": 31000
             }
@@ -1895,7 +1822,6 @@
                 "InRegionDisposalFacility": "Sechelt Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 106060,
-                "InRegionScale": "Yes",
                 "InRegionQuantity": 12239,
                 "SGC": 29000
             }
