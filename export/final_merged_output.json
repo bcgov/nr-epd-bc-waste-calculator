@@ -974,6 +974,56 @@
         "Name": "Kitimat-Stikine",
         "Area Type": "RD",
         "Population": 40558,
+        "Facilities": [
+            {
+                "InRegionDisposalFacility": "Iskut Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 4612,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Rosswood Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 5511,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Meziadin Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 15681,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Hazelton Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 17226,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Forceman Ridge Landfill",
+                "Owner": "Regional District",
+                "AuthorizationNumber": 17227,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Kitimat Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 3608,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "Dease Lake landfill",
+                "Owner": "Private Firm",
+                "AuthorizationNumber": 5425,
+                "SGC": 49000
+            },
+            {
+                "InRegionDisposalFacility": "New Aiyansh Landfill",
+                "Owner": "Municipality",
+                "AuthorizationNumber": 11936,
+                "SGC": 49000
+            }
+        ],
         "Associated_Areas": [
             {
                 "SGC": 49022,
