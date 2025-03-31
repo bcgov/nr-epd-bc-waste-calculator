@@ -1800,18 +1800,6 @@
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Population": 7387
-            },
-            {
-                "SGC": 57000,
-                "Name": "Stikine",
-                "Area Type": "R",
-                "Population": 779
-            },
-            {
-                "SGC": 57999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR",
-                "Population": 779
             }
         ]
     },
