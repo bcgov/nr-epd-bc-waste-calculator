@@ -1440,24 +1440,6 @@
                 "Name": NaN,
                 "Area Type": NaN,
                 "Population": NaN
-            },
-            {
-                "SGC": 57000.0,
-                "Name": "Stikine",
-                "Area Type": "R",
-                "Population": 779.0
-            },
-            {
-                "SGC": 57999.0,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR",
-                "Population": 779.0
-            },
-            {
-                "SGC": NaN,
-                "Name": NaN,
-                "Area Type": NaN,
-                "Population": NaN
             }
         ]
     },
