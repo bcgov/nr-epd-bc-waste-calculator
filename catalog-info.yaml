@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nr-epd-bc-waste-calculator
+  annotations:
+    github.com/project-slug: bcgov/nr-epd-bc-waste-calculator
+spec:
+  type: other
+  lifecycle: unknown
