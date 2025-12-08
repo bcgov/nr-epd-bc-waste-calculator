@@ -21,14 +21,14 @@ jobs:
         with:
           python-version: '3.9'  # You can adjust the version ifneeded
 
-     # Install dependencies
+      # Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install wheel
           pip install pandas openpyxl
 
-           # Run the script to convert Excel to JSON
+      # Run the script to convert Excel to JSON
       - name: Convert Excel to JSON
         run: |
           python script/convert.py import/msw_in_region_disposal.xlsx export/output.json
@@ -38,6 +38,8 @@ jobs:
         run: |
           git config --global user.name 'AmanBhathal'
           git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git fetch origin
+          git pull origin main --rebase
           git add .
           git commit -m "Update JSON file"
           git push
@@ -63,6 +65,8 @@ jobs:
         run: |
           git config --global user.name 'AmanBhathal'
           git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git fetch origin
+          git pull origin main --rebase
           git add .
           git commit -m "Update JSON file"
           git push
