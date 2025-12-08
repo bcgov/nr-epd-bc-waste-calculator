@@ -30,9 +30,11 @@ jobs:
         run: |
           git config --global user.name 'AmanBhathal'
           git config --global user.email 'amandeep.bhathal@gov.bc.ca'
+          git fetch origin
+          git pull origin main --rebase
           git add .
-          git commit -m "Update JSON file"
-          git push
+          git commit -m "Update JSON file" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
           
   copy:
     name: Copy my folder
