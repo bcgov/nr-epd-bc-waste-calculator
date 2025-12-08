@@ -1544,6 +1544,12 @@
                 "Name": "Northern Rockies Regional Municipality",
                 "Area Type": "RGM",
                 "Population": 4079
+            },
+            {
+                "SGC": 59999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Population": 553
             }
         ]
     },
