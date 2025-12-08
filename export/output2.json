@@ -4,38 +4,38 @@
             "SGC": 23000.0,
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
-            "Population": 35891.0
+            "population": 36222.0
         },
         "Associated_Areas": [
             {
                 "SGC": 23008.0,
                 "Name": "Port Alberni",
                 "Area Type": "CY",
-                "Population": 19496.0
+                "population": 19685.0
             },
             {
                 "SGC": 23025.0,
                 "Name": "Tofino",
                 "Area Type": "DM",
-                "Population": 2649.0
+                "population": 2767.0
             },
             {
                 "SGC": 23019.0,
                 "Name": "Ucluelet",
                 "Area Type": "DM",
-                "Population": 2338.0
+                "population": 2413.0
             },
             {
                 "SGC": 23999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 11408.0
+                "population": 11357.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -44,68 +44,68 @@
             "SGC": 51000.0,
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
-            "Population": 39370.0
+            "population": 39417.0
         },
         "Associated_Areas": [
             {
                 "SGC": 51022.0,
                 "Name": "Burns Lake",
                 "Area Type": "VL",
-                "Population": 2005.0
+                "population": 2016.0
             },
             {
                 "SGC": 51013.0,
                 "Name": "Fort St. James",
                 "Area Type": "DM",
-                "Population": 1455.0
+                "population": 1281.0
             },
             {
                 "SGC": 51009.0,
                 "Name": "Fraser Lake",
                 "Area Type": "VL",
-                "Population": 946.0
+                "population": 1020.0
             },
             {
                 "SGC": 51032.0,
                 "Name": "Granisle",
                 "Area Type": "VL",
-                "Population": 337.0
+                "population": 336.0
             },
             {
                 "SGC": 51034.0,
                 "Name": "Houston",
                 "Area Type": "DM",
-                "Population": 3182.0
+                "population": 3182.0
             },
             {
                 "SGC": 51043.0,
                 "Name": "Smithers",
                 "Area Type": "T",
-                "Population": 5622.0
+                "population": 5661.0
             },
             {
                 "SGC": 51038.0,
                 "Name": "Telkwa",
                 "Area Type": "VL",
-                "Population": 1545.0
+                "population": 1552.0
             },
             {
                 "SGC": 51007.0,
                 "Name": "Vanderhoof",
                 "Area Type": "DM",
-                "Population": 4543.0
+                "population": 4564.0
             },
             {
                 "SGC": 51999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 19735.0
+                "population": 19805.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -114,98 +114,98 @@
             "SGC": 17000.0,
             "Name": "Capital",
             "Area Type": "RD",
-            "Population": 453425.0
+            "population": 460317.0
         },
         "Associated_Areas": [
             {
                 "SGC": 17015.0,
                 "Name": "Central Saanich",
                 "Area Type": "DM",
-                "Population": 18369.0
+                "population": 18150.0
             },
             {
                 "SGC": 17041.0,
                 "Name": "Colwood",
                 "Area Type": "CY",
-                "Population": 21403.0
+                "population": 22151.0
             },
             {
                 "SGC": 17040.0,
                 "Name": "Esquimalt",
                 "Area Type": "DM",
-                "Population": 19017.0
+                "population": 19302.0
             },
             {
                 "SGC": 17049.0,
                 "Name": "Highlands",
                 "Area Type": "DM",
-                "Population": 2894.0
+                "population": 2618.0
             },
             {
                 "SGC": 17044.0,
                 "Name": "Langford",
                 "Area Type": "CY",
-                "Population": 55069.0
+                "population": 58320.0
             },
             {
                 "SGC": 17042.0,
                 "Name": "Metchosin",
                 "Area Type": "DM",
-                "Population": 5295.0
+                "population": 5331.0
             },
             {
                 "SGC": 17005.0,
                 "Name": "North Saanich",
                 "Area Type": "DM",
-                "Population": 13228.0
+                "population": 13340.0
             },
             {
                 "SGC": 17030.0,
                 "Name": "Oak Bay",
                 "Area Type": "DM",
-                "Population": 18888.0
+                "population": 18813.0
             },
             {
                 "SGC": 17021.0,
                 "Name": "Saanich",
                 "Area Type": "DM",
-                "Population": 125380.0
+                "population": 125436.0
             },
             {
                 "SGC": 17010.0,
                 "Name": "Sidney",
                 "Area Type": "T",
-                "Population": 13151.0
+                "population": 13288.0
             },
             {
                 "SGC": 17052.0,
                 "Name": "Sooke",
                 "Area Type": "DM",
-                "Population": 16795.0
+                "population": 17128.0
             },
             {
                 "SGC": 17034.0,
                 "Name": "Victoria",
                 "Area Type": "CY",
-                "Population": 100505.0
+                "population": 102856.0
             },
             {
                 "SGC": 17047.0,
                 "Name": "View Royal",
                 "Area Type": "T",
-                "Population": 12584.0
+                "population": 12619.0
             },
             {
                 "SGC": 17999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 30847.0
+                "population": 30965.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -214,44 +214,44 @@
             "SGC": 41000.0,
             "Name": "Cariboo",
             "Area Type": "RD",
-            "Population": 66291.0
+            "population": 66801.0
         },
         "Associated_Areas": [
             {
                 "SGC": 41005.0,
                 "Name": "One Hundred Mile House",
                 "Area Type": "DM",
-                "Population": 2009.0
+                "population": 2033.0
             },
             {
                 "SGC": 41013.0,
                 "Name": "Quesnel",
                 "Area Type": "CY",
-                "Population": 10070.0
+                "population": 10236.0
             },
             {
                 "SGC": 41025.0,
                 "Name": "Wells",
                 "Area Type": "DM",
-                "Population": 229.0
+                "population": 231.0
             },
             {
                 "SGC": 41009.0,
                 "Name": "Williams Lake",
                 "Area Type": "CY",
-                "Population": 11422.0
+                "population": 11369.0
             },
             {
                 "SGC": 41999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 42561.0
+                "population": 42932.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -260,20 +260,20 @@
             "SGC": 45000.0,
             "Name": "Central Coast",
             "Area Type": "RD",
-            "Population": 3850.0
+            "population": 4022.0
         },
         "Associated_Areas": [
             {
                 "SGC": 45999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 3850.0
+                "population": 4022.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -282,74 +282,74 @@
             "SGC": 3000.0,
             "Name": "Central Kootenay",
             "Area Type": "RD",
-            "Population": 67129.0
+            "population": 68723.0
         },
         "Associated_Areas": [
             {
                 "SGC": 3045.0,
                 "Name": "Castlegar",
                 "Area Type": "CY",
-                "Population": 9084.0
+                "population": 9227.0
             },
             {
                 "SGC": 3004.0,
                 "Name": "Creston",
                 "Area Type": "T",
-                "Population": 6002.0
+                "population": 6184.0
             },
             {
                 "SGC": 3023.0,
                 "Name": "Kaslo",
                 "Area Type": "VL",
-                "Population": 1122.0
+                "population": 1148.0
             },
             {
                 "SGC": 3050.0,
                 "Name": "Nakusp",
                 "Area Type": "VL",
-                "Population": 1708.0
+                "population": 1748.0
             },
             {
                 "SGC": 3015.0,
                 "Name": "Nelson",
                 "Area Type": "CY",
-                "Population": 11931.0
+                "population": 12346.0
             },
             {
                 "SGC": 3032.0,
                 "Name": "New Denver",
                 "Area Type": "VL",
-                "Population": 516.0
+                "population": 529.0
             },
             {
                 "SGC": 3011.0,
                 "Name": "Salmo",
                 "Area Type": "VL",
-                "Population": 1305.0
+                "population": 1234.0
             },
             {
                 "SGC": 3027.0,
                 "Name": "Silverton",
                 "Area Type": "VL",
-                "Population": 192.0
+                "population": 197.0
             },
             {
                 "SGC": 3019.0,
                 "Name": "Slocan",
                 "Area Type": "VL",
-                "Population": 407.0
+                "population": 416.0
             },
             {
                 "SGC": 3999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 34862.0
+                "population": 35694.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -358,44 +358,44 @@
             "SGC": 35000.0,
             "Name": "Central Okanagan",
             "Area Type": "RD",
-            "Population": 246789.0
+            "population": 251723.0
         },
         "Associated_Areas": [
             {
                 "SGC": 35010.0,
                 "Name": "Kelowna",
                 "Area Type": "CY",
-                "Population": 161166.0
+                "population": 165200.0
             },
             {
                 "SGC": 35016.0,
                 "Name": "Lake Country",
                 "Area Type": "DM",
-                "Population": 17539.0
+                "population": 17497.0
             },
             {
                 "SGC": 35018.0,
                 "Name": "Peachland",
                 "Area Type": "DM",
-                "Population": 6139.0
+                "population": 6200.0
             },
             {
                 "SGC": 35029.0,
                 "Name": "West Kelowna",
                 "Area Type": "CY",
-                "Population": 39853.0
+                "population": 40093.0
             },
             {
                 "SGC": 35999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 22092.0
+                "population": 22733.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -404,44 +404,44 @@
             "SGC": 39000.0,
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
-            "Population": 61505.0
+            "population": 62401.0
         },
         "Associated_Areas": [
             {
                 "SGC": 39007.0,
                 "Name": "Golden",
                 "Area Type": "T",
-                "Population": 4363.0
+                "population": 4411.0
             },
             {
                 "SGC": 39019.0,
                 "Name": "Revelstoke",
                 "Area Type": "CY",
-                "Population": 9032.0
+                "population": 9171.0
             },
             {
                 "SGC": 39032.0,
                 "Name": "Salmon Arm",
                 "Area Type": "CY",
-                "Population": 20583.0
+                "population": 20613.0
             },
             {
                 "SGC": 39045.0,
                 "Name": "Sicamous",
                 "Area Type": "DM",
-                "Population": 2809.0
+                "population": 2841.0
             },
             {
                 "SGC": 39999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 24718.0
+                "population": 25365.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -450,74 +450,74 @@
             "SGC": 26000.0,
             "Name": "Comox Valley",
             "Area Type": "RD",
-            "Population": 129382.0
+            "population": 130741.0
         },
         "Associated_Areas": [
             {
                 "SGC": 26005.0,
                 "Name": "Comox",
                 "Area Type": "T",
-                "Population": 15607.0
+                "population": 15962.0
             },
             {
                 "SGC": 26010.0,
                 "Name": "Courtenay",
                 "Area Type": "CY",
-                "Population": 31042.0
+                "population": 32049.0
             },
             {
                 "SGC": 26014.0,
                 "Name": "Cumberland",
                 "Area Type": "VL",
-                "Population": 4805.0
+                "population": 4962.0
             },
             {
                 "SGC": 26999.0,
                 "Name": "Unincorporated Areas (Comox)",
                 "Area Type": "RDR",
-                "Population": 26252.0
+                "population": 26303.0
             },
             {
                 "SGC": 24034.0,
                 "Name": "Campbell River",
                 "Area Type": "CY",
-                "Population": 38259.0
+                "population": 38028.0
             },
             {
                 "SGC": 24025.0,
                 "Name": "Gold River",
                 "Area Type": "VL",
-                "Population": 1315.0
+                "population": 1318.0
             },
             {
                 "SGC": 24039.0,
                 "Name": "Sayward",
                 "Area Type": "VL",
-                "Population": 367.0
+                "population": 363.0
             },
             {
                 "SGC": 24030.0,
                 "Name": "Tahsis",
                 "Area Type": "VL",
-                "Population": 385.0
+                "population": 378.0
             },
             {
                 "SGC": 24029.0,
                 "Name": "Zeballos",
                 "Area Type": "VL",
-                "Population": 135.0
+                "population": 135.0
             },
             {
                 "SGC": 24999.0,
                 "Name": "Unincorporated Areas (Strathcona)",
                 "Area Type": "RDR",
-                "Population": 11215.0
+                "population": 11243.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -526,44 +526,44 @@
             "SGC": 19000.0,
             "Name": "Cowichan Valley",
             "Area Type": "RD",
-            "Population": 94941.0
+            "population": 95264.0
         },
         "Associated_Areas": [
             {
                 "SGC": 19012.0,
                 "Name": "Duncan",
                 "Area Type": "CY",
-                "Population": 5475.0
+                "population": 5669.0
             },
             {
                 "SGC": 19021.0,
                 "Name": "Ladysmith",
                 "Area Type": "T",
-                "Population": 9662.0
+                "population": 9903.0
             },
             {
                 "SGC": 19016.0,
                 "Name": "Lake Cowichan",
                 "Area Type": "T",
-                "Population": 3689.0
+                "population": 3717.0
             },
             {
                 "SGC": 19008.0,
                 "Name": "North Cowichan",
                 "Area Type": "DM",
-                "Population": 33873.0
+                "population": 34495.0
             },
             {
                 "SGC": 19999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 42242.0
+                "population": 41480.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -572,68 +572,68 @@
             "SGC": 1000.0,
             "Name": "East Kootenay",
             "Area Type": "RD",
-            "Population": 70741.0
+            "population": 72534.0
         },
         "Associated_Areas": [
             {
                 "SGC": 1043.0,
                 "Name": "Canal Flats",
                 "Area Type": "VL",
-                "Population": 860.0
+                "population": 886.0
             },
             {
                 "SGC": 1022.0,
                 "Name": "Cranbrook",
                 "Area Type": "CY",
-                "Population": 22053.0
+                "population": 22733.0
             },
             {
                 "SGC": 1003.0,
                 "Name": "Elkford",
                 "Area Type": "DM",
-                "Population": 2942.0
+                "population": 2933.0
             },
             {
                 "SGC": 1012.0,
                 "Name": "Fernie",
                 "Area Type": "CY",
-                "Population": 6780.0
+                "population": 6972.0
             },
             {
                 "SGC": 1039.0,
                 "Name": "Invermere",
                 "Area Type": "DM",
-                "Population": 4159.0
+                "population": 4312.0
             },
             {
                 "SGC": 1028.0,
                 "Name": "Kimberley",
                 "Area Type": "CY",
-                "Population": 8804.0
+                "population": 9018.0
             },
             {
                 "SGC": 1040.0,
                 "Name": "Radium Hot Springs",
                 "Area Type": "VL",
-                "Population": 1443.0
+                "population": 1485.0
             },
             {
                 "SGC": 1006.0,
                 "Name": "Sparwood",
                 "Area Type": "DM",
-                "Population": 4450.0
+                "population": 4423.0
             },
             {
                 "SGC": 1999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 19250.0
+                "population": 19772.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -642,56 +642,56 @@
             "SGC": 9000.0,
             "Name": "Fraser Valley",
             "Area Type": "RD",
-            "Population": 353301.0
+            "population": 362635.0
         },
         "Associated_Areas": [
             {
                 "SGC": 9052.0,
                 "Name": "Abbotsford",
                 "Area Type": "CY",
-                "Population": 166842.0
+                "population": 175087.0
             },
             {
                 "SGC": 9020.0,
                 "Name": "Chilliwack",
                 "Area Type": "CY",
-                "Population": 101862.0
+                "population": 102306.0
             },
             {
                 "SGC": 9027.0,
                 "Name": "Harrison Hot Springs",
                 "Area Type": "VL",
-                "Population": 2029.0
+                "population": 2051.0
             },
             {
                 "SGC": 9009.0,
                 "Name": "Hope",
                 "Area Type": "DM",
-                "Population": 7159.0
+                "population": 6842.0
             },
             {
                 "SGC": 9032.0,
                 "Name": "Kent",
                 "Area Type": "DM",
-                "Population": 7006.0
+                "population": 7115.0
             },
             {
                 "SGC": 9056.0,
                 "Name": "Mission",
                 "Area Type": "DM",
-                "Population": 45556.0
+                "population": 46226.0
             },
             {
                 "SGC": 9999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 22847.0
+                "population": 23008.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -700,44 +700,44 @@
             "SGC": 53000.0,
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
-            "Population": 104141.0
+            "population": 106248.0
         },
         "Associated_Areas": [
             {
                 "SGC": 53033.0,
                 "Name": "Mackenzie",
                 "Area Type": "DM",
-                "Population": 3376.0
+                "population": 3346.0
             },
             {
                 "SGC": 53012.0,
                 "Name": "McBride",
                 "Area Type": "VL",
-                "Population": 625.0
+                "population": 638.0
             },
             {
                 "SGC": 53023.0,
                 "Name": "Prince George",
                 "Area Type": "CY",
-                "Population": 82637.0
+                "population": 84905.0
             },
             {
                 "SGC": 53007.0,
                 "Name": "Valemount",
                 "Area Type": "VL",
-                "Population": 1144.0
+                "population": 1106.0
             },
             {
                 "SGC": 53999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 16359.0
+                "population": 16253.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -746,50 +746,50 @@
             "SGC": 49000.0,
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
-            "Population": 40558.0
+            "population": 41438.0
         },
         "Associated_Areas": [
             {
                 "SGC": 49022.0,
                 "Name": "Hazelton",
                 "Area Type": "VL",
-                "Population": 309.0
+                "population": 315.0
             },
             {
                 "SGC": 49005.0,
                 "Name": "Kitimat",
                 "Area Type": "DM",
-                "Population": 8864.0
+                "population": 9168.0
             },
             {
                 "SGC": 49024.0,
                 "Name": "New Hazelton",
                 "Area Type": "DM",
-                "Population": 643.0
+                "population": 658.0
             },
             {
                 "SGC": 49032.0,
                 "Name": "Stewart",
                 "Area Type": "DM",
-                "Population": 551.0
+                "population": 528.0
             },
             {
                 "SGC": 49011.0,
                 "Name": "Terrace",
                 "Area Type": "CY",
-                "Population": 12959.0
+                "population": 13252.0
             },
             {
                 "SGC": 49999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 17232.0
+                "population": 17517.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -798,68 +798,68 @@
             "SGC": 5000.0,
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
-            "Population": 35189.0
+            "population": 35360.0
         },
         "Associated_Areas": [
             {
                 "SGC": 5005.0,
                 "Name": "Fruitvale",
                 "Area Type": "VL",
-                "Population": 2063.0
+                "population": 2065.0
             },
             {
                 "SGC": 5032.0,
                 "Name": "Grand Forks",
                 "Area Type": "CY",
-                "Population": 4288.0
+                "population": 4295.0
             },
             {
                 "SGC": 5042.0,
                 "Name": "Greenwood",
                 "Area Type": "CY",
-                "Population": 729.0
+                "population": 730.0
             },
             {
                 "SGC": 5037.0,
                 "Name": "Midway",
                 "Area Type": "VL",
-                "Population": 690.0
+                "population": 675.0
             },
             {
                 "SGC": 5009.0,
                 "Name": "Montrose",
                 "Area Type": "VL",
-                "Population": 1071.0
+                "population": 1071.0
             },
             {
                 "SGC": 5023.0,
                 "Name": "Rossland",
                 "Area Type": "CY",
-                "Population": 4311.0
+                "population": 4347.0
             },
             {
                 "SGC": 5014.0,
                 "Name": "Trail",
                 "Area Type": "CY",
-                "Population": 8286.0
+                "population": 8406.0
             },
             {
                 "SGC": 5018.0,
                 "Name": "Warfield",
                 "Area Type": "VL",
-                "Population": 1814.0
+                "population": 1765.0
             },
             {
                 "SGC": 5999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 11937.0
+                "population": 12006.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -868,146 +868,146 @@
             "SGC": 15000.0,
             "Name": "Metro Vancouver",
             "Area Type": "RD",
-            "Population": 2971064.0
+            "population": 3108926.0
         },
         "Associated_Areas": [
             {
                 "SGC": 15038.0,
                 "Name": "Anmore",
                 "Area Type": "VL",
-                "Population": 2606.0
+                "population": 2568.0
             },
             {
                 "SGC": 15036.0,
                 "Name": "Belcarra",
                 "Area Type": "VL",
-                "Population": 712.0
+                "population": 704.0
             },
             {
                 "SGC": 15062.0,
                 "Name": "Bowen Island",
                 "Area Type": "IM",
-                "Population": 4506.0
+                "population": 4677.0
             },
             {
                 "SGC": 15025.0,
                 "Name": "Burnaby",
                 "Area Type": "CY",
-                "Population": 283593.0
+                "population": 298986.0
             },
             {
                 "SGC": 15034.0,
                 "Name": "Coquitlam",
                 "Area Type": "CY",
-                "Population": 166584.0
+                "population": 174248.0
             },
             {
                 "SGC": 15011.0,
                 "Name": "Delta",
                 "Area Type": "CY",
-                "Population": 120049.0
+                "population": 125165.0
             },
             {
                 "SGC": 15002.0,
                 "Name": "Langley, City of",
                 "Area Type": "CY",
-                "Population": 33634.0
+                "population": 35316.0
             },
             {
                 "SGC": 15001.0,
                 "Name": "Langley, District Municipality",
                 "Area Type": "DM",
-                "Population": 154099.0
+                "population": 162269.0
             },
             {
                 "SGC": 15065.0,
                 "Name": "Lions Bay",
                 "Area Type": "VL",
-                "Population": 1473.0
+                "population": 1468.0
             },
             {
                 "SGC": 15075.0,
                 "Name": "Maple Ridge",
                 "Area Type": "CY",
-                "Population": 102414.0
+                "population": 106489.0
             },
             {
                 "SGC": 15029.0,
                 "Name": "New Westminster",
                 "Area Type": "CY",
-                "Population": 88408.0
+                "population": 92433.0
             },
             {
                 "SGC": 15051.0,
                 "Name": "North Vancouver, City of",
                 "Area Type": "CY",
-                "Population": 64739.0
+                "population": 67308.0
             },
             {
                 "SGC": 15046.0,
                 "Name": "North Vancouver, District Municipality",
                 "Area Type": "DM",
-                "Population": 96857.0
+                "population": 99063.0
             },
             {
                 "SGC": 15070.0,
                 "Name": "Pitt Meadows",
                 "Area Type": "CY",
-                "Population": 20939.0
+                "population": 21402.0
             },
             {
                 "SGC": 15039.0,
                 "Name": "Port Coquitlam",
                 "Area Type": "CY",
-                "Population": 66974.0
+                "population": 69306.0
             },
             {
                 "SGC": 15043.0,
                 "Name": "Port Moody",
                 "Area Type": "CY",
-                "Population": 37676.0
+                "population": 38942.0
             },
             {
                 "SGC": 15015.0,
                 "Name": "Richmond",
                 "Area Type": "CY",
-                "Population": 235093.0
+                "population": 242966.0
             },
             {
                 "SGC": 15004.0,
                 "Name": "Surrey",
                 "Area Type": "CY",
-                "Population": 653039.0
+                "population": 700459.0
             },
             {
                 "SGC": 15022.0,
                 "Name": "Vancouver",
                 "Area Type": "CY",
-                "Population": 732581.0
+                "population": 756008.0
             },
             {
                 "SGC": 15055.0,
                 "Name": "West Vancouver",
                 "Area Type": "DM",
-                "Population": 47396.0
+                "population": 48880.0
             },
             {
                 "SGC": 15007.0,
                 "Name": "White Rock",
                 "Area Type": "CY",
-                "Population": 24292.0
+                "population": 25129.0
             },
             {
                 "SGC": 15999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 33400.0
+                "population": 35140.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1016,44 +1016,44 @@
             "SGC": 43000.0,
             "Name": "Mount Waddington",
             "Area Type": "RD",
-            "Population": 11425.0
+            "population": 11411.0
         },
         "Associated_Areas": [
             {
                 "SGC": 43008.0,
                 "Name": "Alert Bay",
                 "Area Type": "VL",
-                "Population": 470.0
+                "population": 499.0
             },
             {
                 "SGC": 43017.0,
                 "Name": "Port Alice",
                 "Area Type": "VL",
-                "Population": 761.0
+                "population": 810.0
             },
             {
                 "SGC": 43023.0,
                 "Name": "Port Hardy",
                 "Area Type": "DM",
-                "Population": 4276.0
+                "population": 4148.0
             },
             {
                 "SGC": 43012.0,
                 "Name": "Port McNeill",
                 "Area Type": "T",
-                "Population": 2373.0
+                "population": 2384.0
             },
             {
                 "SGC": 43999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 3545.0
+                "population": 3570.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1062,44 +1062,44 @@
             "SGC": 21000.0,
             "Name": "Nanaimo",
             "Area Type": "RD",
-            "Population": 183039.0
+            "population": 186121.0
         },
         "Associated_Areas": [
             {
                 "SGC": 21008.0,
                 "Name": "Lantzville",
                 "Area Type": "DM",
-                "Population": 4197.0
+                "population": 4210.0
             },
             {
                 "SGC": 21007.0,
                 "Name": "Nanaimo",
                 "Area Type": "CY",
-                "Population": 108277.0
+                "population": 110707.0
             },
             {
                 "SGC": 21018.0,
                 "Name": "Parksville",
                 "Area Type": "CY",
-                "Population": 14497.0
+                "population": 14995.0
             },
             {
                 "SGC": 21023.0,
                 "Name": "Qualicum Beach",
                 "Area Type": "T",
-                "Population": 9599.0
+                "population": 9363.0
             },
             {
                 "SGC": 21999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 46469.0
+                "population": 46846.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1108,50 +1108,50 @@
             "SGC": 47000.0,
             "Name": "North Coast",
             "Area Type": "RD",
-            "Population": 19133.0
+            "population": 19074.0
         },
         "Associated_Areas": [
             {
                 "SGC": 47026.0,
                 "Name": "Daajing Giids",
                 "Area Type": "VL",
-                "Population": 997.0
+                "population": 992.0
             },
             {
                 "SGC": 47023.0,
                 "Name": "Masset",
                 "Area Type": "VL",
-                "Population": 940.0
+                "population": 918.0
             },
             {
                 "SGC": 47030.0,
                 "Name": "Port Clements",
                 "Area Type": "VL",
-                "Population": 355.0
+                "population": 353.0
             },
             {
                 "SGC": 47007.0,
                 "Name": "Port Edward",
                 "Area Type": "DM",
-                "Population": 485.0
+                "population": 446.0
             },
             {
                 "SGC": 47012.0,
                 "Name": "Prince Rupert",
                 "Area Type": "CY",
-                "Population": 12883.0
+                "population": 12915.0
             },
             {
                 "SGC": 47999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 3473.0
+                "population": 3450.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1160,56 +1160,56 @@
             "SGC": 37000.0,
             "Name": "North Okanagan",
             "Area Type": "RD",
-            "Population": 98529.0
+            "population": 99800.0
         },
         "Associated_Areas": [
             {
                 "SGC": 37028.0,
                 "Name": "Armstrong",
                 "Area Type": "CY",
-                "Population": 5711.0
+                "population": 5767.0
             },
             {
                 "SGC": 37010.0,
                 "Name": "Coldstream",
                 "Area Type": "DM",
-                "Population": 11552.0
+                "population": 11553.0
             },
             {
                 "SGC": 37033.0,
                 "Name": "Enderby",
                 "Area Type": "CY",
-                "Population": 3247.0
+                "population": 3279.0
             },
             {
                 "SGC": 37005.0,
                 "Name": "Lumby",
                 "Area Type": "VL",
-                "Population": 2225.0
+                "population": 2246.0
             },
             {
                 "SGC": 37024.0,
                 "Name": "Spallumcheen",
                 "Area Type": "DM",
-                "Population": 5798.0
+                "population": 5779.0
             },
             {
                 "SGC": 37014.0,
                 "Name": "Vernon",
                 "Area Type": "CY",
-                "Population": 48087.0
+                "population": 49167.0
             },
             {
                 "SGC": 37999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 21909.0
+                "population": 22009.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1218,26 +1218,26 @@
             "SGC": 59000.0,
             "Name": "Northern Rockies",
             "Area Type": "RD",
-            "Population": 4632.0
+            "population": 4641.0
         },
         "Associated_Areas": [
             {
                 "SGC": 59007.0,
                 "Name": "Northern Rockies Regional Municipality",
                 "Area Type": "RGM",
-                "Population": 4079.0
+                "population": 4090.0
             },
             {
                 "SGC": 59999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 553.0
+                "population": 551.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1246,56 +1246,56 @@
             "SGC": 7000.0,
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
-            "Population": 94533.0
+            "population": 93912.0
         },
         "Associated_Areas": [
             {
                 "SGC": 7009.0,
                 "Name": "Keremeos",
                 "Area Type": "VL",
-                "Population": 1720.0
+                "population": 1775.0
             },
             {
                 "SGC": 7014.0,
                 "Name": "Oliver",
                 "Area Type": "T",
-                "Population": 5303.0
+                "population": 5274.0
             },
             {
                 "SGC": 7005.0,
                 "Name": "Osoyoos",
                 "Area Type": "T",
-                "Population": 5763.0
+                "population": 5737.0
             },
             {
                 "SGC": 7041.0,
                 "Name": "Penticton",
                 "Area Type": "CY",
-                "Population": 38651.0
+                "population": 38665.0
             },
             {
                 "SGC": 7024.0,
                 "Name": "Princeton",
                 "Area Type": "T",
-                "Population": 3051.0
+                "population": 3241.0
             },
             {
                 "SGC": 7035.0,
                 "Name": "Summerland",
                 "Area Type": "DM",
-                "Population": 12620.0
+                "population": 12492.0
             },
             {
                 "SGC": 7999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 27425.0
+                "population": 26728.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1304,62 +1304,62 @@
             "SGC": 55000.0,
             "Name": "Peace River",
             "Area Type": "RD",
-            "Population": 65487.0
+            "population": 67374.0
         },
         "Associated_Areas": [
             {
                 "SGC": 55010.0,
                 "Name": "Chetwynd",
                 "Area Type": "DM",
-                "Population": 2404.0
+                "population": 2509.0
             },
             {
                 "SGC": 55014.0,
                 "Name": "Dawson Creek",
                 "Area Type": "CY",
-                "Population": 13013.0
+                "population": 12775.0
             },
             {
                 "SGC": 55034.0,
                 "Name": "Fort St. John",
                 "Area Type": "CY",
-                "Population": 23661.0
+                "population": 24273.0
             },
             {
                 "SGC": 55025.0,
                 "Name": "Hudson's Hope",
                 "Area Type": "DM",
-                "Population": 986.0
+                "population": 1030.0
             },
             {
                 "SGC": 55005.0,
                 "Name": "Pouce Coupe",
                 "Area Type": "VL",
-                "Population": 787.0
+                "population": 823.0
             },
             {
                 "SGC": 55030.0,
                 "Name": "Taylor",
                 "Area Type": "DM",
-                "Population": 1370.0
+                "population": 1431.0
             },
             {
                 "SGC": 55003.0,
                 "Name": "Tumbler Ridge",
                 "Area Type": "DM",
-                "Population": 2613.0
+                "population": 2719.0
             },
             {
                 "SGC": 55999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 20653.0
+                "population": 21814.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1368,32 +1368,32 @@
             "SGC": 27000.0,
             "Name": "qathet",
             "Area Type": "RD",
-            "Population": 22768.0
+            "population": 23056.0
         },
         "Associated_Areas": [
             {
                 "SGC": 27008.0,
                 "Name": "Powell River",
                 "Area Type": "CY",
-                "Population": 14776.0
+                "population": 14937.0
             },
             {
                 "SGC": 27806.0,
                 "Name": "Sechelt Ind Gov Dist (Part-qathet)",
                 "Area Type": "IGD",
-                "Population": 21.0
+                "population": 21.0
             },
             {
                 "SGC": 27999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 7971.0
+                "population": 8098.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1402,44 +1402,62 @@
             "SGC": 31000.0,
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
-            "Population": 54923.0
+            "population": 56433.0
         },
         "Associated_Areas": [
             {
                 "SGC": 31026.0,
                 "Name": "Lillooet",
                 "Area Type": "DM",
-                "Population": 2226.0
+                "population": 2154.0
             },
             {
                 "SGC": 31012.0,
                 "Name": "Pemberton",
                 "Area Type": "VL",
-                "Population": 3666.0
+                "population": 3566.0
             },
             {
                 "SGC": 31006.0,
                 "Name": "Squamish",
                 "Area Type": "DM",
-                "Population": 25581.0
+                "population": 28056.0
             },
             {
                 "SGC": 31020.0,
                 "Name": "Whistler",
                 "Area Type": "DM",
-                "Population": 16063.0
+                "population": 15625.0
             },
             {
                 "SGC": 31999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 7387.0
+                "population": 7032.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
+            },
+            {
+                "SGC": 57000.0,
+                "Name": "Stikine",
+                "Area Type": "R",
+                "population": 752.0
+            },
+            {
+                "SGC": 57999.0,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "population": 752.0
+            },
+            {
+                "SGC": NaN,
+                "Name": NaN,
+                "Area Type": NaN,
+                "population": NaN
             }
         ]
     },
@@ -1448,38 +1466,38 @@
             "SGC": 29000.0,
             "Name": "Sunshine Coast",
             "Area Type": "RD",
-            "Population": 34104.0
+            "population": 34208.0
         },
         "Associated_Areas": [
             {
                 "SGC": 29005.0,
                 "Name": "Gibsons",
                 "Area Type": "T",
-                "Population": 5110.0
+                "population": 5093.0
             },
             {
                 "SGC": 29011.0,
                 "Name": "Sechelt District Municipality",
                 "Area Type": "DM",
-                "Population": 11045.0
+                "population": 11492.0
             },
             {
                 "SGC": 29803.0,
                 "Name": "Sechelt Ind Gov Dist (Part-Sunshine Coast)",
                 "Area Type": "IGD",
-                "Population": 806.0
+                "population": 796.0
             },
             {
                 "SGC": 29999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 17143.0
+                "population": 16827.0
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
                 "Area Type": NaN,
-                "Population": NaN
+                "population": NaN
             }
         ]
     },
@@ -1488,80 +1506,80 @@
             "SGC": 33000.0,
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
-            "Population": 156094.0
+            "population": 158876.0
         },
         "Associated_Areas": [
             {
                 "SGC": 33019.0,
                 "Name": "Ashcroft",
                 "Area Type": "VL",
-                "Population": 1851.0
+                "population": 1737.0
             },
             {
                 "SGC": 33074.0,
                 "Name": "Barriere",
                 "Area Type": "DM",
-                "Population": 1898.0
+                "population": 1932.0
             },
             {
                 "SGC": 33024.0,
                 "Name": "Cache Creek",
                 "Area Type": "VL",
-                "Population": 1044.0
+                "population": 1063.0
             },
             {
                 "SGC": 33054.0,
                 "Name": "Chase",
                 "Area Type": "VL",
-                "Population": 2571.0
+                "population": 2619.0
             },
             {
                 "SGC": 33067.0,
                 "Name": "Clearwater",
                 "Area Type": "DM",
-                "Population": 2604.0
+                "population": 2491.0
             },
             {
                 "SGC": 33028.0,
                 "Name": "Clinton",
                 "Area Type": "VL",
-                "Population": 727.0
+                "population": 665.0
             },
             {
                 "SGC": 33042.0,
                 "Name": "Kamloops",
                 "Area Type": "CY",
-                "Population": 106974.0
+                "population": 109633.0
             },
             {
                 "SGC": 33035.0,
                 "Name": "Logan Lake",
                 "Area Type": "DM",
-                "Population": 2381.0
+                "population": 2327.0
             },
             {
                 "SGC": 33015.0,
                 "Name": "Lytton",
                 "Area Type": "VL",
-                "Population": 226.0
+                "population": 230.0
             },
             {
                 "SGC": 33006.0,
                 "Name": "Merritt",
                 "Area Type": "CY",
-                "Population": 7415.0
+                "population": 7274.0
             },
             {
                 "SGC": 33045.0,
                 "Name": "Sun Peaks Mountain",
                 "Area Type": "VL",
-                "Population": 1533.0
+                "population": 1561.0
             },
             {
                 "SGC": 33999.0,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
-                "Population": 26870.0
+                "population": 27344.0
             }
         ]
     }
