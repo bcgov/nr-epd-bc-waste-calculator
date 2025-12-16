@@ -1,10 +1,10 @@
 {
     "Alberni-Clayoquot": {
         "RD_Info": {
-            "SGC": 23000.0,
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
-            "population": 36222.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 541.0890709964003,
+            "Previous Year's Total Disposal (Tonnes)": 21195.0
         },
         "Associated_Areas": [
             {
@@ -41,10 +41,10 @@
     },
     "Bulkley-Nechako": {
         "RD_Info": {
-            "SGC": 51000.0,
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
-            "population": 39417.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 785.5361950723901,
+            "Previous Year's Total Disposal (Tonnes)": 30926.56
         },
         "Associated_Areas": [
             {
@@ -111,10 +111,10 @@
     },
     "Capital": {
         "RD_Info": {
-            "SGC": 17000.0,
             "Name": "Capital",
             "Area Type": "RD",
-            "population": 460317.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 407.048574736726,
+            "Previous Year's Total Disposal (Tonnes)": 184566.0
         },
         "Associated_Areas": [
             {
@@ -211,10 +211,10 @@
     },
     "Cariboo": {
         "RD_Info": {
-            "SGC": 41000.0,
             "Name": "Cariboo",
             "Area Type": "RD",
-            "population": 66801.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 574.8689867402816,
+            "Previous Year's Total Disposal (Tonnes)": 38108.64
         },
         "Associated_Areas": [
             {
@@ -257,10 +257,10 @@
     },
     "Central Coast": {
         "RD_Info": {
-            "SGC": 45000.0,
             "Name": "Central Coast",
             "Area Type": "RD",
-            "population": 4022.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 427.012987012987,
+            "Previous Year's Total Disposal (Tonnes)": 1644.0
         },
         "Associated_Areas": [
             {
@@ -279,10 +279,10 @@
     },
     "Central Kootenay": {
         "RD_Info": {
-            "SGC": 3000.0,
             "Name": "Central Kootenay",
             "Area Type": "RD",
-            "population": 68723.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 443.8469215987129,
+            "Previous Year's Total Disposal (Tonnes)": 29795.0
         },
         "Associated_Areas": [
             {
@@ -355,10 +355,10 @@
     },
     "Central Okanagan": {
         "RD_Info": {
-            "SGC": 35000.0,
             "Name": "Central Okanagan",
             "Area Type": "RD",
-            "population": 251723.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 593.442171247503,
+            "Previous Year's Total Disposal (Tonnes)": 146455.0
         },
         "Associated_Areas": [
             {
@@ -401,10 +401,10 @@
     },
     "Columbia-Shuswap": {
         "RD_Info": {
-            "SGC": 39000.0,
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
-            "population": 62401.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 651.3616779123648,
+            "Previous Year's Total Disposal (Tonnes)": 40062.0
         },
         "Associated_Areas": [
             {
@@ -447,10 +447,10 @@
     },
     "Comox Valley": {
         "RD_Info": {
-            "SGC": 26000.0,
             "Name": "Comox Valley",
             "Area Type": "RD",
-            "population": 130741.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 494.5819356633844,
+            "Previous Year's Total Disposal (Tonnes)": 63990.0
         },
         "Associated_Areas": [
             {
@@ -523,10 +523,10 @@
     },
     "Cowichan Valley": {
         "RD_Info": {
-            "SGC": 19000.0,
             "Name": "Cowichan Valley",
             "Area Type": "RD",
-            "population": 95264.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 447.1645548287884,
+            "Previous Year's Total Disposal (Tonnes)": 42454.25
         },
         "Associated_Areas": [
             {
@@ -569,10 +569,10 @@
     },
     "East Kootenay": {
         "RD_Info": {
-            "SGC": 1000.0,
             "Name": "East Kootenay",
             "Area Type": "RD",
-            "population": 72534.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 600.9174136488587,
+            "Previous Year's Total Disposal (Tonnes)": 50278.76
         },
         "Associated_Areas": [
             {
@@ -639,10 +639,10 @@
     },
     "Fraser Valley": {
         "RD_Info": {
-            "SGC": 9000.0,
             "Name": "Fraser Valley",
             "Area Type": "RD",
-            "population": 362635.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 538.5407909969119,
+            "Previous Year's Total Disposal (Tonnes)": 190267.0
         },
         "Associated_Areas": [
             {
@@ -697,10 +697,10 @@
     },
     "Fraser-Fort George": {
         "RD_Info": {
-            "SGC": 53000.0,
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
-            "population": 106248.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 700.0508925399218,
+            "Previous Year's Total Disposal (Tonnes)": 72904.0
         },
         "Associated_Areas": [
             {
@@ -743,10 +743,10 @@
     },
     "Kitimat-Stikine": {
         "RD_Info": {
-            "SGC": 49000.0,
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
-            "population": 41438.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 707.4781793974062,
+            "Previous Year's Total Disposal (Tonnes)": 28693.9
         },
         "Associated_Areas": [
             {
@@ -795,10 +795,10 @@
     },
     "Kootenay Boundary": {
         "RD_Info": {
-            "SGC": 5000.0,
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
-            "population": 35360.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 459.83119724914036,
+            "Previous Year's Total Disposal (Tonnes)": 16181.0
         },
         "Associated_Areas": [
             {
@@ -865,10 +865,10 @@
     },
     "Metro Vancouver": {
         "RD_Info": {
-            "SGC": 15000.0,
             "Name": "Metro Vancouver",
             "Area Type": "RD",
-            "population": 3108926.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 428.82384771973483,
+            "Previous Year's Total Disposal (Tonnes)": 1281423.0
         },
         "Associated_Areas": [
             {
@@ -1013,10 +1013,10 @@
     },
     "Mount Waddington": {
         "RD_Info": {
-            "SGC": 43000.0,
             "Name": "Mount Waddington",
             "Area Type": "RD",
-            "population": 11411.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 712.6477024070022,
+            "Previous Year's Total Disposal (Tonnes)": 8142.0
         },
         "Associated_Areas": [
             {
@@ -1059,10 +1059,10 @@
     },
     "Nanaimo": {
         "RD_Info": {
-            "SGC": 21000.0,
             "Name": "Nanaimo",
             "Area Type": "RD",
-            "population": 186121.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 414.31061139975634,
+            "Previous Year's Total Disposal (Tonnes)": 75835.0
         },
         "Associated_Areas": [
             {
@@ -1105,10 +1105,10 @@
     },
     "North Coast": {
         "RD_Info": {
-            "SGC": 47000.0,
             "Name": "North Coast",
             "Area Type": "RD",
-            "population": 19074.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 682.5787905712643,
+            "Previous Year's Total Disposal (Tonnes)": 13059.78
         },
         "Associated_Areas": [
             {
@@ -1157,10 +1157,10 @@
     },
     "North Okanagan": {
         "RD_Info": {
-            "SGC": 37000.0,
             "Name": "North Okanagan",
             "Area Type": "RD",
-            "population": 99800.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 472.3279440570796,
+            "Previous Year's Total Disposal (Tonnes)": 46538.0
         },
         "Associated_Areas": [
             {
@@ -1215,10 +1215,10 @@
     },
     "Northern Rockies": {
         "RD_Info": {
-            "SGC": 59000.0,
             "Name": "Northern Rockies",
             "Area Type": "RD",
-            "population": 4641.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 521.117304281733,
+            "Previous Year's Total Disposal (Tonnes)": 2056.85
         },
         "Associated_Areas": [
             {
@@ -1243,10 +1243,10 @@
     },
     "Okanagan-Similkameen": {
         "RD_Info": {
-            "SGC": 7000.0,
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
-            "population": 93912.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 549.6281721726805,
+            "Previous Year's Total Disposal (Tonnes)": 51958.0
         },
         "Associated_Areas": [
             {
@@ -1301,10 +1301,10 @@
     },
     "Peace River": {
         "RD_Info": {
-            "SGC": 55000.0,
             "Name": "Peace River",
             "Area Type": "RD",
-            "population": 67374.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 803.9610915143463,
+            "Previous Year's Total Disposal (Tonnes)": 52649.0
         },
         "Associated_Areas": [
             {
@@ -1365,10 +1365,10 @@
     },
     "qathet": {
         "RD_Info": {
-            "SGC": 27000.0,
             "Name": "qathet",
             "Area Type": "RD",
-            "population": 23056.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 467.8935347856641,
+            "Previous Year's Total Disposal (Tonnes)": 10653.0
         },
         "Associated_Areas": [
             {
@@ -1399,10 +1399,10 @@
     },
     "Squamish-Lillooet": {
         "RD_Info": {
-            "SGC": 31000.0,
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
-            "population": 56433.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 354.8077972804134,
+            "Previous Year's Total Disposal (Tonnes)": 29250.0
         },
         "Associated_Areas": [
             {
@@ -1445,10 +1445,10 @@
     },
     "Sunshine Coast": {
         "RD_Info": {
-            "SGC": 29000.0,
             "Name": "Sunshine Coast",
             "Area Type": "RD",
-            "population": 34208.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 347.90640394088666,
+            "Previous Year's Total Disposal (Tonnes)": 11865.0
         },
         "Associated_Areas": [
             {
@@ -1485,10 +1485,10 @@
     },
     "Thompson-Nicola": {
         "RD_Info": {
-            "SGC": 33000.0,
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
-            "population": 158876.0
+            "Previous Year's Per Captia Disposal (kg/capita)": 590.1636193575665,
+            "Previous Year's Total Disposal (Tonnes)": 92121.0
         },
         "Associated_Areas": [
             {
