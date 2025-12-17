@@ -4,7 +4,7 @@ import sys
 
 RD_ONLY_FIELDS = [
     "Population",
-    "PreviousPerCaptiaDisposal",
+    "PreviousYearPerCaptiaDisposal",
     "PreviousYearTotalDisposal"
 ]
 
