@@ -6,52 +6,50 @@ on:
     workflows: ["Convert Excel to JSON"]
     types:
       - completed
+
 jobs:
-  merge-json:
+  merge-and-copy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # required to push to multiple branches
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Run JSON Merge Script
+      - name: Run JSON merge script
         env:
           INPUT_FILE1: "export/output2.json"
           INPUT_FILE2: "export/output.json"
           OUTPUT_FILE: "export/final_merged_output.json"
         run: python script/merge_json.py
 
-      - name: Commit and Push Changes
+      # ---------- Commit merged JSON to main ----------
+      - name: Commit merged JSON to main
         run: |
-          git config --global user.name 'AmanBhathal'
-          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
-          git fetch origin
-          git pull origin main --rebase
-          git add .
-          git commit -m "Update JSON file" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
-          
-  copy:
-    name: Copy my folder
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: copy
-        env:
-          SRC_FOLDER_PATH: 'export'
-          TARGET_BRANCH: 'dest'
+          git config user.name 'AmanBhathal'
+          git config user.email 'amandeep.bhathal@gov.bc.ca'
+
+          git add export/*.json
+          git commit -m "Update merged JSON output" || echo "No changes to commit"
+
+          git push origin HEAD:main
+
+      # ---------- Copy export folder to prod ----------
+      - name: Copy export folder to prod branch
         run: |
-          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
-          git config --global user.name 'AmanBhathal'
-          git config --global user.email 'amandeep.bhathal@gov.bc.ca'
-          git fetch                         # fetch branches
-          git checkout prod       # checkout to your branch
-          git checkout ${GITHUB_REF##*/} -- $files # copy files from the source branch
-          git add -A
-          git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
-          git push origin prod # push to remote branch
+          git fetch origin prod
+
+          git checkout prod
+
+          git checkout main -- export/
+
+          git add export/
+          git commit -m "Deploy export JSON files" || echo "No changes to commit"
+
+          git push origin prod
