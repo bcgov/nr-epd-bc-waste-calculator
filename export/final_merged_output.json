@@ -1,9 +1,9 @@
 [
     {
-        "SGC": 23000,
         "Name": "Alberni-Clayoquot",
         "Area Type": "RD",
-        "population": 36222,
+        "Previous Year's Per Captia Disposal (kg/capita)": 541.0890709964003,
+        "Previous Year's Total Disposal (Tonnes)": 21195,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Alberni Valley Landfill",
@@ -46,10 +46,10 @@
         ]
     },
     {
-        "SGC": 51000,
         "Name": "Bulkley-Nechako",
         "Area Type": "RD",
-        "population": 39417,
+        "Previous Year's Per Captia Disposal (kg/capita)": 785.5361950723901,
+        "Previous Year's Total Disposal (Tonnes)": 30926.56,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Manson Creek Landfill",
@@ -128,10 +128,10 @@
         ]
     },
     {
-        "SGC": 17000,
         "Name": "Capital",
         "Area Type": "RD",
-        "population": 460317,
+        "Previous Year's Per Captia Disposal (kg/capita)": 407.048574736726,
+        "Previous Year's Total Disposal (Tonnes)": 184566,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Hartland Landfill",
@@ -228,10 +228,10 @@
         ]
     },
     {
-        "SGC": 41000,
         "Name": "Cariboo",
         "Area Type": "RD",
-        "population": 66801,
+        "Previous Year's Per Captia Disposal (kg/capita)": 574.8689867402816,
+        "Previous Year's Total Disposal (Tonnes)": 38108.64,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Quesnel Landfill",
@@ -364,10 +364,10 @@
         ]
     },
     {
-        "SGC": 45000,
         "Name": "Central Coast",
         "Area Type": "RD",
-        "population": 4022,
+        "Previous Year's Per Captia Disposal (kg/capita)": 427.012987012987,
+        "Previous Year's Total Disposal (Tonnes)": 1644,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Thorsen Creek Landfill",
@@ -404,10 +404,10 @@
         ]
     },
     {
-        "SGC": 3000,
         "Name": "Central Kootenay",
         "Area Type": "RD",
-        "population": 68723,
+        "Previous Year's Per Captia Disposal (kg/capita)": 443.8469215987129,
+        "Previous Year's Total Disposal (Tonnes)": 29795,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Nakusp Landfill",
@@ -492,10 +492,10 @@
         ]
     },
     {
-        "SGC": 35000,
         "Name": "Central Okanagan",
         "Area Type": "RD",
-        "population": 251723,
+        "Previous Year's Per Captia Disposal (kg/capita)": 593.442171247503,
+        "Previous Year's Total Disposal (Tonnes)": 146455,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Glenmore Landfill",
@@ -538,10 +538,10 @@
         ]
     },
     {
-        "SGC": 39000,
         "Name": "Columbia-Shuswap",
         "Area Type": "RD",
-        "population": 62401,
+        "Previous Year's Per Captia Disposal (kg/capita)": 651.3616779123648,
+        "Previous Year's Total Disposal (Tonnes)": 40062,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sicamous Landfill",
@@ -602,10 +602,10 @@
         ]
     },
     {
-        "SGC": 26000,
         "Name": "Comox Valley",
         "Area Type": "RD",
-        "population": 130741,
+        "Previous Year's Per Captia Disposal (kg/capita)": 494.5819356633844,
+        "Previous Year's Total Disposal (Tonnes)": 63990,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Campbell River Waste Management Centre",
@@ -702,10 +702,10 @@
         ]
     },
     {
-        "SGC": 19000,
         "Name": "Cowichan Valley",
         "Area Type": "RD",
-        "population": 95264,
+        "Previous Year's Per Captia Disposal (kg/capita)": 447.1645548287884,
+        "Previous Year's Total Disposal (Tonnes)": 42454.25,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -748,10 +748,10 @@
         ]
     },
     {
-        "SGC": 1000,
         "Name": "East Kootenay",
         "Area Type": "RD",
-        "population": 72534,
+        "Previous Year's Per Captia Disposal (kg/capita)": 600.9174136488587,
+        "Previous Year's Total Disposal (Tonnes)": 50278.76,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Central Subregion Landfill",
@@ -830,10 +830,10 @@
         ]
     },
     {
-        "SGC": 9000,
         "Name": "Fraser Valley",
         "Area Type": "RD",
-        "population": 362635,
+        "Previous Year's Per Captia Disposal (kg/capita)": 538.5407909969119,
+        "Previous Year's Total Disposal (Tonnes)": 190267,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Bailey Landfill",
@@ -906,10 +906,10 @@
         ]
     },
     {
-        "SGC": 53000,
         "Name": "Fraser-Fort George",
         "Area Type": "RD",
-        "population": 106248,
+        "Previous Year's Per Captia Disposal (kg/capita)": 700.0508925399218,
+        "Previous Year's Total Disposal (Tonnes)": 72904,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Foothills",
@@ -970,10 +970,10 @@
         ]
     },
     {
-        "SGC": 49000,
         "Name": "Kitimat-Stikine",
         "Area Type": "RD",
-        "population": 41438,
+        "Previous Year's Per Captia Disposal (kg/capita)": 707.4781793974062,
+        "Previous Year's Total Disposal (Tonnes)": 28693.9,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Iskut Landfill",
@@ -1064,10 +1064,10 @@
         ]
     },
     {
-        "SGC": 5000,
         "Name": "Kootenay Boundary",
         "Area Type": "RD",
-        "population": 35360,
+        "Previous Year's Per Captia Disposal (kg/capita)": 459.83119724914036,
+        "Previous Year's Total Disposal (Tonnes)": 16181,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "McKelvey Creek Landfill",
@@ -1146,10 +1146,10 @@
         ]
     },
     {
-        "SGC": 15000,
         "Name": "Metro Vancouver",
         "Area Type": "RD",
-        "population": 3108926,
+        "Previous Year's Per Captia Disposal (kg/capita)": 428.82384771973483,
+        "Previous Year's Total Disposal (Tonnes)": 1281423,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
@@ -1306,10 +1306,10 @@
         ]
     },
     {
-        "SGC": 43000,
         "Name": "Mount Waddington",
         "Area Type": "RD",
-        "population": 11411,
+        "Previous Year's Per Captia Disposal (kg/capita)": 712.6477024070022,
+        "Previous Year's Total Disposal (Tonnes)": 8142,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
@@ -1352,10 +1352,10 @@
         ]
     },
     {
-        "SGC": 21000,
         "Name": "Nanaimo",
         "Area Type": "RD",
-        "population": 186121,
+        "Previous Year's Per Captia Disposal (kg/capita)": 414.31061139975634,
+        "Previous Year's Total Disposal (Tonnes)": 75835,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Regional Landfill",
@@ -1398,10 +1398,10 @@
         ]
     },
     {
-        "SGC": 47000,
         "Name": "North Coast",
         "Area Type": "RD",
-        "population": 19074,
+        "Previous Year's Per Captia Disposal (kg/capita)": 682.5787905712643,
+        "Previous Year's Total Disposal (Tonnes)": 13059.78,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Island solid Waste Management",
@@ -1456,10 +1456,10 @@
         ]
     },
     {
-        "SGC": 37000,
         "Name": "North Okanagan",
         "Area Type": "RD",
-        "population": 99800,
+        "Previous Year's Per Captia Disposal (kg/capita)": 472.3279440570796,
+        "Previous Year's Total Disposal (Tonnes)": 46538,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lumby DDF",
@@ -1526,10 +1526,10 @@
         ]
     },
     {
-        "SGC": 59000,
         "Name": "Northern Rockies",
         "Area Type": "RD",
-        "population": 4641,
+        "Previous Year's Per Captia Disposal (kg/capita)": 521.117304281733,
+        "Previous Year's Total Disposal (Tonnes)": 2056.85,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
@@ -1554,10 +1554,10 @@
         ]
     },
     {
-        "SGC": 7000,
         "Name": "Okanagan-Similkameen",
         "Area Type": "RD",
-        "population": 93912,
+        "Previous Year's Per Captia Disposal (kg/capita)": 549.6281721726805,
+        "Previous Year's Total Disposal (Tonnes)": 51958,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Osoyoos Landfill",
@@ -1642,10 +1642,10 @@
         ]
     },
     {
-        "SGC": 55000,
         "Name": "Peace River",
         "Area Type": "RD",
-        "population": 67374,
+        "Previous Year's Per Captia Disposal (kg/capita)": 803.9610915143463,
+        "Previous Year's Total Disposal (Tonnes)": 52649,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Chetwynd Landfill",
@@ -1718,10 +1718,10 @@
         ]
     },
     {
-        "SGC": 27000,
         "Name": "qathet",
         "Area Type": "RD",
-        "population": 23056,
+        "Previous Year's Per Captia Disposal (kg/capita)": 467.8935347856641,
+        "Previous Year's Total Disposal (Tonnes)": 10653,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -1752,10 +1752,10 @@
         ]
     },
     {
-        "SGC": 31000,
         "Name": "Squamish-Lillooet",
         "Area Type": "RD",
-        "population": 56433,
+        "Previous Year's Per Captia Disposal (kg/capita)": 354.8077972804134,
+        "Previous Year's Total Disposal (Tonnes)": 29250,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lillooet Landfill",
@@ -1804,10 +1804,10 @@
         ]
     },
     {
-        "SGC": 29000,
         "Name": "Sunshine Coast",
         "Area Type": "RD",
-        "population": 34208,
+        "Previous Year's Per Captia Disposal (kg/capita)": 347.90640394088666,
+        "Previous Year's Total Disposal (Tonnes)": 11865,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sechelt Landfill",
@@ -1844,10 +1844,10 @@
         ]
     },
     {
-        "SGC": 33000,
         "Name": "Thompson-Nicola",
         "Area Type": "RD",
-        "population": 158876,
+        "Previous Year's Per Captia Disposal (kg/capita)": 590.1636193575665,
+        "Previous Year's Total Disposal (Tonnes)": 92121,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Mission Flats Landfill",
