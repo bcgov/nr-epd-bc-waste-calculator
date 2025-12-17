@@ -3,35 +3,39 @@
         "RD_Info": {
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
-            "population": 36222.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 541.0890709964003,
-            "Previous Year's Total Disposal (Tonnes)": 21195.0
+            "Population": 36222.0,
+            "PreviousYearTotalDisposal": 21195.0
         },
         "Associated_Areas": [
             {
                 "SGC": 23008.0,
                 "Name": "Port Alberni",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 23025.0,
                 "Name": "Tofino",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 23019.0,
                 "Name": "Ucluelet",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 23999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -39,60 +43,69 @@
         "RD_Info": {
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
-            "population": 39417.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 785.5361950723901,
-            "Previous Year's Total Disposal (Tonnes)": 30926.56
+            "Population": 39417.0,
+            "PreviousYearTotalDisposal": 30926.56
         },
         "Associated_Areas": [
             {
                 "SGC": 51022.0,
                 "Name": "Burns Lake",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51013.0,
                 "Name": "Fort St. James",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51009.0,
                 "Name": "Fraser Lake",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51032.0,
                 "Name": "Granisle",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51034.0,
                 "Name": "Houston",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51043.0,
                 "Name": "Smithers",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51038.0,
                 "Name": "Telkwa",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51007.0,
                 "Name": "Vanderhoof",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 51999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -100,85 +113,99 @@
         "RD_Info": {
             "Name": "Capital",
             "Area Type": "RD",
-            "population": 460317.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 407.048574736726,
-            "Previous Year's Total Disposal (Tonnes)": 184566.0
+            "Population": 460317.0,
+            "PreviousYearTotalDisposal": 184566.0
         },
         "Associated_Areas": [
             {
                 "SGC": 17015.0,
                 "Name": "Central Saanich",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17041.0,
                 "Name": "Colwood",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17040.0,
                 "Name": "Esquimalt",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17049.0,
                 "Name": "Highlands",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17044.0,
                 "Name": "Langford",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17042.0,
                 "Name": "Metchosin",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17005.0,
                 "Name": "North Saanich",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17030.0,
                 "Name": "Oak Bay",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17021.0,
                 "Name": "Saanich",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17010.0,
                 "Name": "Sidney",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17052.0,
                 "Name": "Sooke",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17034.0,
                 "Name": "Victoria",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17047.0,
                 "Name": "View Royal",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 17999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -186,40 +213,45 @@
         "RD_Info": {
             "Name": "Cariboo",
             "Area Type": "RD",
-            "population": 66801.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 574.8689867402816,
-            "Previous Year's Total Disposal (Tonnes)": 38108.64
+            "Population": 66801.0,
+            "PreviousYearTotalDisposal": 38108.64
         },
         "Associated_Areas": [
             {
                 "SGC": 41005.0,
                 "Name": "One Hundred Mile House",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 41013.0,
                 "Name": "Quesnel",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 41025.0,
                 "Name": "Wells",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 41009.0,
                 "Name": "Williams Lake",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 41999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -227,20 +259,21 @@
         "RD_Info": {
             "Name": "Central Coast",
             "Area Type": "RD",
-            "population": 4022.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 427.012987012987,
-            "Previous Year's Total Disposal (Tonnes)": 1644.0
+            "Population": 4022.0,
+            "PreviousYearTotalDisposal": 1644.0
         },
         "Associated_Areas": [
             {
                 "SGC": 45999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -248,65 +281,75 @@
         "RD_Info": {
             "Name": "Central Kootenay",
             "Area Type": "RD",
-            "population": 68723.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 443.8469215987129,
-            "Previous Year's Total Disposal (Tonnes)": 29795.0
+            "Population": 68723.0,
+            "PreviousYearTotalDisposal": 29795.0
         },
         "Associated_Areas": [
             {
                 "SGC": 3045.0,
                 "Name": "Castlegar",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3004.0,
                 "Name": "Creston",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3023.0,
                 "Name": "Kaslo",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3050.0,
                 "Name": "Nakusp",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3015.0,
                 "Name": "Nelson",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3032.0,
                 "Name": "New Denver",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3011.0,
                 "Name": "Salmo",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3027.0,
                 "Name": "Silverton",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3019.0,
                 "Name": "Slocan",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 3999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -314,40 +357,45 @@
         "RD_Info": {
             "Name": "Central Okanagan",
             "Area Type": "RD",
-            "population": 251723.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 593.442171247503,
-            "Previous Year's Total Disposal (Tonnes)": 146455.0
+            "Population": 251723.0,
+            "PreviousYearTotalDisposal": 146455.0
         },
         "Associated_Areas": [
             {
                 "SGC": 35010.0,
                 "Name": "Kelowna",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 35016.0,
                 "Name": "Lake Country",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 35018.0,
                 "Name": "Peachland",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 35029.0,
                 "Name": "West Kelowna",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 35999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -355,40 +403,45 @@
         "RD_Info": {
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
-            "population": 62401.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 651.3616779123648,
-            "Previous Year's Total Disposal (Tonnes)": 40062.0
+            "Population": 62401.0,
+            "PreviousYearTotalDisposal": 40062.0
         },
         "Associated_Areas": [
             {
                 "SGC": 39007.0,
                 "Name": "Golden",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 39019.0,
                 "Name": "Revelstoke",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 39032.0,
                 "Name": "Salmon Arm",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 39045.0,
                 "Name": "Sicamous",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 39999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -396,65 +449,75 @@
         "RD_Info": {
             "Name": "Comox Valley",
             "Area Type": "RD",
-            "population": 130741.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 494.5819356633844,
-            "Previous Year's Total Disposal (Tonnes)": 63990.0
+            "Population": 130741.0,
+            "PreviousYearTotalDisposal": 63990.0
         },
         "Associated_Areas": [
             {
                 "SGC": 26005.0,
                 "Name": "Comox",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 26010.0,
                 "Name": "Courtenay",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 26014.0,
                 "Name": "Cumberland",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 26999.0,
                 "Name": "Unincorporated Areas (Comox)",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24034.0,
                 "Name": "Campbell River",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24025.0,
                 "Name": "Gold River",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24039.0,
                 "Name": "Sayward",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24030.0,
                 "Name": "Tahsis",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24029.0,
                 "Name": "Zeballos",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 24999.0,
                 "Name": "Unincorporated Areas (Strathcona)",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -462,40 +525,45 @@
         "RD_Info": {
             "Name": "Cowichan Valley",
             "Area Type": "RD",
-            "population": 95264.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 447.1645548287884,
-            "Previous Year's Total Disposal (Tonnes)": 42454.25
+            "Population": 95264.0,
+            "PreviousYearTotalDisposal": 42454.25
         },
         "Associated_Areas": [
             {
                 "SGC": 19012.0,
                 "Name": "Duncan",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 19021.0,
                 "Name": "Ladysmith",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 19016.0,
                 "Name": "Lake Cowichan",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 19008.0,
                 "Name": "North Cowichan",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 19999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -503,60 +571,69 @@
         "RD_Info": {
             "Name": "East Kootenay",
             "Area Type": "RD",
-            "population": 72534.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 600.9174136488587,
-            "Previous Year's Total Disposal (Tonnes)": 50278.76
+            "Population": 72534.0,
+            "PreviousYearTotalDisposal": 50278.76
         },
         "Associated_Areas": [
             {
                 "SGC": 1043.0,
                 "Name": "Canal Flats",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1022.0,
                 "Name": "Cranbrook",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1003.0,
                 "Name": "Elkford",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1012.0,
                 "Name": "Fernie",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1039.0,
                 "Name": "Invermere",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1028.0,
                 "Name": "Kimberley",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1040.0,
                 "Name": "Radium Hot Springs",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1006.0,
                 "Name": "Sparwood",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 1999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -564,50 +641,57 @@
         "RD_Info": {
             "Name": "Fraser Valley",
             "Area Type": "RD",
-            "population": 362635.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 538.5407909969119,
-            "Previous Year's Total Disposal (Tonnes)": 190267.0
+            "Population": 362635.0,
+            "PreviousYearTotalDisposal": 190267.0
         },
         "Associated_Areas": [
             {
                 "SGC": 9052.0,
                 "Name": "Abbotsford",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9020.0,
                 "Name": "Chilliwack",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9027.0,
                 "Name": "Harrison Hot Springs",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9009.0,
                 "Name": "Hope",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9032.0,
                 "Name": "Kent",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9056.0,
                 "Name": "Mission",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 9999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -615,40 +699,45 @@
         "RD_Info": {
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
-            "population": 106248.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 700.0508925399218,
-            "Previous Year's Total Disposal (Tonnes)": 72904.0
+            "Population": 106248.0,
+            "PreviousYearTotalDisposal": 72904.0
         },
         "Associated_Areas": [
             {
                 "SGC": 53033.0,
                 "Name": "Mackenzie",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 53012.0,
                 "Name": "McBride",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 53023.0,
                 "Name": "Prince George",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 53007.0,
                 "Name": "Valemount",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 53999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -656,45 +745,51 @@
         "RD_Info": {
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
-            "population": 41438.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 707.4781793974062,
-            "Previous Year's Total Disposal (Tonnes)": 28693.9
+            "Population": 41438.0,
+            "PreviousYearTotalDisposal": 28693.9
         },
         "Associated_Areas": [
             {
                 "SGC": 49022.0,
                 "Name": "Hazelton",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 49005.0,
                 "Name": "Kitimat",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 49024.0,
                 "Name": "New Hazelton",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 49032.0,
                 "Name": "Stewart",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 49011.0,
                 "Name": "Terrace",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 49999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -702,60 +797,69 @@
         "RD_Info": {
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
-            "population": 35360.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 459.83119724914036,
-            "Previous Year's Total Disposal (Tonnes)": 16181.0
+            "Population": 35360.0,
+            "PreviousYearTotalDisposal": 16181.0
         },
         "Associated_Areas": [
             {
                 "SGC": 5005.0,
                 "Name": "Fruitvale",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5032.0,
                 "Name": "Grand Forks",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5042.0,
                 "Name": "Greenwood",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5037.0,
                 "Name": "Midway",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5009.0,
                 "Name": "Montrose",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5023.0,
                 "Name": "Rossland",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5014.0,
                 "Name": "Trail",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5018.0,
                 "Name": "Warfield",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 5999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -763,125 +867,147 @@
         "RD_Info": {
             "Name": "Metro Vancouver",
             "Area Type": "RD",
-            "population": 3108926.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 428.82384771973483,
-            "Previous Year's Total Disposal (Tonnes)": 1281423.0
+            "Population": 3108926.0,
+            "PreviousYearTotalDisposal": 1281423.0
         },
         "Associated_Areas": [
             {
                 "SGC": 15038.0,
                 "Name": "Anmore",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15036.0,
                 "Name": "Belcarra",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15062.0,
                 "Name": "Bowen Island",
-                "Area Type": "IM"
+                "Area Type": "IM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15025.0,
                 "Name": "Burnaby",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15034.0,
                 "Name": "Coquitlam",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15011.0,
                 "Name": "Delta",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15002.0,
                 "Name": "Langley, City of",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15001.0,
                 "Name": "Langley, District Municipality",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15065.0,
                 "Name": "Lions Bay",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15075.0,
                 "Name": "Maple Ridge",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15029.0,
                 "Name": "New Westminster",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15051.0,
                 "Name": "North Vancouver, City of",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15046.0,
                 "Name": "North Vancouver, District Municipality",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15070.0,
                 "Name": "Pitt Meadows",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15039.0,
                 "Name": "Port Coquitlam",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15043.0,
                 "Name": "Port Moody",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15015.0,
                 "Name": "Richmond",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15004.0,
                 "Name": "Surrey",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15022.0,
                 "Name": "Vancouver",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15055.0,
                 "Name": "West Vancouver",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15007.0,
                 "Name": "White Rock",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 15999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -889,40 +1015,45 @@
         "RD_Info": {
             "Name": "Mount Waddington",
             "Area Type": "RD",
-            "population": 11411.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 712.6477024070022,
-            "Previous Year's Total Disposal (Tonnes)": 8142.0
+            "Population": 11411.0,
+            "PreviousYearTotalDisposal": 8142.0
         },
         "Associated_Areas": [
             {
                 "SGC": 43008.0,
                 "Name": "Alert Bay",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 43017.0,
                 "Name": "Port Alice",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 43023.0,
                 "Name": "Port Hardy",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 43012.0,
                 "Name": "Port McNeill",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 43999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -930,40 +1061,45 @@
         "RD_Info": {
             "Name": "Nanaimo",
             "Area Type": "RD",
-            "population": 186121.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 414.31061139975634,
-            "Previous Year's Total Disposal (Tonnes)": 75835.0
+            "Population": 186121.0,
+            "PreviousYearTotalDisposal": 75835.0
         },
         "Associated_Areas": [
             {
                 "SGC": 21008.0,
                 "Name": "Lantzville",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 21007.0,
                 "Name": "Nanaimo",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 21018.0,
                 "Name": "Parksville",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 21023.0,
                 "Name": "Qualicum Beach",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 21999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -971,45 +1107,51 @@
         "RD_Info": {
             "Name": "North Coast",
             "Area Type": "RD",
-            "population": 19074.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 682.5787905712643,
-            "Previous Year's Total Disposal (Tonnes)": 13059.78
+            "Population": 19074.0,
+            "PreviousYearTotalDisposal": 13059.78
         },
         "Associated_Areas": [
             {
                 "SGC": 47026.0,
                 "Name": "Daajing Giids",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 47023.0,
                 "Name": "Masset",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 47030.0,
                 "Name": "Port Clements",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 47007.0,
                 "Name": "Port Edward",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 47012.0,
                 "Name": "Prince Rupert",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 47999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1017,50 +1159,57 @@
         "RD_Info": {
             "Name": "North Okanagan",
             "Area Type": "RD",
-            "population": 99800.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 472.3279440570796,
-            "Previous Year's Total Disposal (Tonnes)": 46538.0
+            "Population": 99800.0,
+            "PreviousYearTotalDisposal": 46538.0
         },
         "Associated_Areas": [
             {
                 "SGC": 37028.0,
                 "Name": "Armstrong",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37010.0,
                 "Name": "Coldstream",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37033.0,
                 "Name": "Enderby",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37005.0,
                 "Name": "Lumby",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37024.0,
                 "Name": "Spallumcheen",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37014.0,
                 "Name": "Vernon",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 37999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1068,25 +1217,27 @@
         "RD_Info": {
             "Name": "Northern Rockies",
             "Area Type": "RD",
-            "population": 4641.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 521.117304281733,
-            "Previous Year's Total Disposal (Tonnes)": 2056.85
+            "Population": 4641.0,
+            "PreviousYearTotalDisposal": 2056.85
         },
         "Associated_Areas": [
             {
                 "SGC": 59007.0,
                 "Name": "Northern Rockies Regional Municipality",
-                "Area Type": "RGM"
+                "Area Type": "RGM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 59999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1094,50 +1245,57 @@
         "RD_Info": {
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
-            "population": 93912.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 549.6281721726805,
-            "Previous Year's Total Disposal (Tonnes)": 51958.0
+            "Population": 93912.0,
+            "PreviousYearTotalDisposal": 51958.0
         },
         "Associated_Areas": [
             {
                 "SGC": 7009.0,
                 "Name": "Keremeos",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7014.0,
                 "Name": "Oliver",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7005.0,
                 "Name": "Osoyoos",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7041.0,
                 "Name": "Penticton",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7024.0,
                 "Name": "Princeton",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7035.0,
                 "Name": "Summerland",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 7999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1145,55 +1303,63 @@
         "RD_Info": {
             "Name": "Peace River",
             "Area Type": "RD",
-            "population": 67374.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 803.9610915143463,
-            "Previous Year's Total Disposal (Tonnes)": 52649.0
+            "Population": 67374.0,
+            "PreviousYearTotalDisposal": 52649.0
         },
         "Associated_Areas": [
             {
                 "SGC": 55010.0,
                 "Name": "Chetwynd",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55014.0,
                 "Name": "Dawson Creek",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55034.0,
                 "Name": "Fort St. John",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55025.0,
                 "Name": "Hudson's Hope",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55005.0,
                 "Name": "Pouce Coupe",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55030.0,
                 "Name": "Taylor",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55003.0,
                 "Name": "Tumbler Ridge",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 55999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1201,30 +1367,33 @@
         "RD_Info": {
             "Name": "qathet",
             "Area Type": "RD",
-            "population": 23056.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 467.8935347856641,
-            "Previous Year's Total Disposal (Tonnes)": 10653.0
+            "Population": 23056.0,
+            "PreviousYearTotalDisposal": 10653.0
         },
         "Associated_Areas": [
             {
                 "SGC": 27008.0,
                 "Name": "Powell River",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 27806.0,
                 "Name": "Sechelt Ind Gov Dist (Part-qathet)",
-                "Area Type": "IGD"
+                "Area Type": "IGD",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 27999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1232,40 +1401,45 @@
         "RD_Info": {
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
-            "population": 56433.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 354.8077972804134,
-            "Previous Year's Total Disposal (Tonnes)": 29250.0
+            "Population": 56433.0,
+            "PreviousYearTotalDisposal": 29250.0
         },
         "Associated_Areas": [
             {
                 "SGC": 31026.0,
                 "Name": "Lillooet",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 31012.0,
                 "Name": "Pemberton",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 31006.0,
                 "Name": "Squamish",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 31020.0,
                 "Name": "Whistler",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 31999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1273,35 +1447,39 @@
         "RD_Info": {
             "Name": "Sunshine Coast",
             "Area Type": "RD",
-            "population": 34208.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 347.90640394088666,
-            "Previous Year's Total Disposal (Tonnes)": 11865.0
+            "Population": 34208.0,
+            "PreviousYearTotalDisposal": 11865.0
         },
         "Associated_Areas": [
             {
                 "SGC": 29005.0,
                 "Name": "Gibsons",
-                "Area Type": "T"
+                "Area Type": "T",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 29011.0,
                 "Name": "Sechelt District Municipality",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 29803.0,
                 "Name": "Sechelt Ind Gov Dist (Part-Sunshine Coast)",
-                "Area Type": "IGD"
+                "Area Type": "IGD",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 29999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": NaN,
                 "Name": NaN,
-                "Area Type": NaN
+                "Area Type": NaN,
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     },
@@ -1309,70 +1487,81 @@
         "RD_Info": {
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
-            "population": 158876.0,
-            "Previous Year's Per Captia Disposal (kg/capita)": 590.1636193575665,
-            "Previous Year's Total Disposal (Tonnes)": 92121.0
+            "Population": 158876.0,
+            "PreviousYearTotalDisposal": 92121.0
         },
         "Associated_Areas": [
             {
                 "SGC": 33019.0,
                 "Name": "Ashcroft",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33074.0,
                 "Name": "Barriere",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33024.0,
                 "Name": "Cache Creek",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33054.0,
                 "Name": "Chase",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33067.0,
                 "Name": "Clearwater",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33028.0,
                 "Name": "Clinton",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33042.0,
                 "Name": "Kamloops",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33035.0,
                 "Name": "Logan Lake",
-                "Area Type": "DM"
+                "Area Type": "DM",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33015.0,
                 "Name": "Lytton",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33006.0,
                 "Name": "Merritt",
-                "Area Type": "CY"
+                "Area Type": "CY",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33045.0,
                 "Name": "Sun Peaks Mountain",
-                "Area Type": "VL"
+                "Area Type": "VL",
+                "PreviousYearPerCaptiaDisposal": NaN
             },
             {
                 "SGC": 33999.0,
                 "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
+                "Area Type": "RDR",
+                "PreviousYearPerCaptiaDisposal": NaN
             }
         ]
     }
