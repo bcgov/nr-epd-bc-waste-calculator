@@ -3,8 +3,6 @@
         "Name": "Alberni-Clayoquot",
         "Area Type": "RD",
         "population": 36222,
-        "Previous Year's Per Captia Disposal (kg/capita)": 541.0890709964003,
-        "Previous Year's Total Disposal (Tonnes)": 21195,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Alberni Valley Landfill",
@@ -19,35 +17,12 @@
                 "SGC": 23000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 23008,
-                "Name": "Port Alberni",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 23025,
-                "Name": "Tofino",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 23019,
-                "Name": "Ucluelet",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 23999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Bulkley-Nechako",
         "Area Type": "RD",
         "population": 39417,
-        "Previous Year's Per Captia Disposal (kg/capita)": 785.5361950723901,
-        "Previous Year's Total Disposal (Tonnes)": 30926.56,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Manson Creek Landfill",
@@ -68,60 +43,12 @@
                 "SGC": 51000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 51022,
-                "Name": "Burns Lake",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 51013,
-                "Name": "Fort St. James",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 51009,
-                "Name": "Fraser Lake",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 51032,
-                "Name": "Granisle",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 51034,
-                "Name": "Houston",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 51043,
-                "Name": "Smithers",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 51038,
-                "Name": "Telkwa",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 51007,
-                "Name": "Vanderhoof",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 51999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Capital",
         "Area Type": "RD",
         "population": 460317,
-        "Previous Year's Per Captia Disposal (kg/capita)": 407.048574736726,
-        "Previous Year's Total Disposal (Tonnes)": 184566,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Hartland Landfill",
@@ -130,85 +57,12 @@
                 "SGC": 17000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 17015,
-                "Name": "Central Saanich",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17041,
-                "Name": "Colwood",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 17040,
-                "Name": "Esquimalt",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17049,
-                "Name": "Highlands",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17044,
-                "Name": "Langford",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 17042,
-                "Name": "Metchosin",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17005,
-                "Name": "North Saanich",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17030,
-                "Name": "Oak Bay",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17021,
-                "Name": "Saanich",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17010,
-                "Name": "Sidney",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 17052,
-                "Name": "Sooke",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 17034,
-                "Name": "Victoria",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 17047,
-                "Name": "View Royal",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 17999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Cariboo",
         "Area Type": "RD",
         "population": 66801,
-        "Previous Year's Per Captia Disposal (kg/capita)": 574.8689867402816,
-        "Previous Year's Total Disposal (Tonnes)": 38108.64,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Quesnel Landfill",
@@ -307,40 +161,12 @@
                 "SGC": 41000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 41005,
-                "Name": "One Hundred Mile House",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 41013,
-                "Name": "Quesnel",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 41025,
-                "Name": "Wells",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 41009,
-                "Name": "Williams Lake",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 41999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Central Coast",
         "Area Type": "RD",
         "population": 4022,
-        "Previous Year's Per Captia Disposal (kg/capita)": 427.012987012987,
-        "Previous Year's Total Disposal (Tonnes)": 1644,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Thorsen Creek Landfill",
@@ -367,20 +193,12 @@
                 "SGC": 45000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 45999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Central Kootenay",
         "Area Type": "RD",
         "population": 68723,
-        "Previous Year's Per Captia Disposal (kg/capita)": 443.8469215987129,
-        "Previous Year's Total Disposal (Tonnes)": 29795,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Nakusp Landfill",
@@ -401,65 +219,12 @@
                 "SGC": 3000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 3045,
-                "Name": "Castlegar",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 3004,
-                "Name": "Creston",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 3023,
-                "Name": "Kaslo",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3050,
-                "Name": "Nakusp",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3015,
-                "Name": "Nelson",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 3032,
-                "Name": "New Denver",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3011,
-                "Name": "Salmo",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3027,
-                "Name": "Silverton",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3019,
-                "Name": "Slocan",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 3999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Central Okanagan",
         "Area Type": "RD",
         "population": 251723,
-        "Previous Year's Per Captia Disposal (kg/capita)": 593.442171247503,
-        "Previous Year's Total Disposal (Tonnes)": 146455,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Glenmore Landfill",
@@ -468,40 +233,12 @@
                 "SGC": 35000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 35010,
-                "Name": "Kelowna",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 35016,
-                "Name": "Lake Country",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 35018,
-                "Name": "Peachland",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 35029,
-                "Name": "West Kelowna",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 35999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Columbia-Shuswap",
         "Area Type": "RD",
         "population": 62401,
-        "Previous Year's Per Captia Disposal (kg/capita)": 651.3616779123648,
-        "Previous Year's Total Disposal (Tonnes)": 40062,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sicamous Landfill",
@@ -528,40 +265,12 @@
                 "SGC": 39003
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 39007,
-                "Name": "Golden",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 39019,
-                "Name": "Revelstoke",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 39032,
-                "Name": "Salmon Arm",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 39045,
-                "Name": "Sicamous",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 39999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Comox Valley",
         "Area Type": "RD",
         "population": 130741,
-        "Previous Year's Per Captia Disposal (kg/capita)": 494.5819356633844,
-        "Previous Year's Total Disposal (Tonnes)": 63990,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Campbell River Waste Management Centre",
@@ -594,65 +303,12 @@
                 "SGC": 26000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 26005,
-                "Name": "Comox",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 26010,
-                "Name": "Courtenay",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 26014,
-                "Name": "Cumberland",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 26999,
-                "Name": "Unincorporated Areas (Comox)",
-                "Area Type": "RDR"
-            },
-            {
-                "SGC": 24034,
-                "Name": "Campbell River",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 24025,
-                "Name": "Gold River",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 24039,
-                "Name": "Sayward",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 24030,
-                "Name": "Tahsis",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 24029,
-                "Name": "Zeballos",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 24999,
-                "Name": "Unincorporated Areas (Strathcona)",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Cowichan Valley",
         "Area Type": "RD",
         "population": 95264,
-        "Previous Year's Per Captia Disposal (kg/capita)": 447.1645548287884,
-        "Previous Year's Total Disposal (Tonnes)": 42454.25,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -661,40 +317,12 @@
                 "SGC": 19000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 19012,
-                "Name": "Duncan",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 19021,
-                "Name": "Ladysmith",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 19016,
-                "Name": "Lake Cowichan",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 19008,
-                "Name": "North Cowichan",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 19999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "East Kootenay",
         "Area Type": "RD",
         "population": 72534,
-        "Previous Year's Per Captia Disposal (kg/capita)": 600.9174136488587,
-        "Previous Year's Total Disposal (Tonnes)": 50278.76,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Central Subregion Landfill",
@@ -715,60 +343,12 @@
                 "SGC": 1000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 1043,
-                "Name": "Canal Flats",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 1022,
-                "Name": "Cranbrook",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 1003,
-                "Name": "Elkford",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 1012,
-                "Name": "Fernie",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 1039,
-                "Name": "Invermere",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 1028,
-                "Name": "Kimberley",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 1040,
-                "Name": "Radium Hot Springs",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 1006,
-                "Name": "Sparwood",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 1999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Fraser Valley",
         "Area Type": "RD",
         "population": 362635,
-        "Previous Year's Per Captia Disposal (kg/capita)": 538.5407909969119,
-        "Previous Year's Total Disposal (Tonnes)": 190267,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Bailey Landfill",
@@ -795,50 +375,12 @@
                 "SGC": 9000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 9052,
-                "Name": "Abbotsford",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 9020,
-                "Name": "Chilliwack",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 9027,
-                "Name": "Harrison Hot Springs",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 9009,
-                "Name": "Hope",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 9032,
-                "Name": "Kent",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 9056,
-                "Name": "Mission",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 9999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Fraser-Fort George",
         "Area Type": "RD",
         "population": 106248,
-        "Previous Year's Per Captia Disposal (kg/capita)": 700.0508925399218,
-        "Previous Year's Total Disposal (Tonnes)": 72904,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Foothills",
@@ -865,40 +407,12 @@
                 "SGC": 53000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 53033,
-                "Name": "Mackenzie",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 53012,
-                "Name": "McBride",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 53023,
-                "Name": "Prince George",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 53007,
-                "Name": "Valemount",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 53999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Kitimat-Stikine",
         "Area Type": "RD",
         "population": 41438,
-        "Previous Year's Per Captia Disposal (kg/capita)": 707.4781793974062,
-        "Previous Year's Total Disposal (Tonnes)": 28693.9,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Iskut Landfill",
@@ -949,45 +463,12 @@
                 "SGC": 49000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 49022,
-                "Name": "Hazelton",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 49005,
-                "Name": "Kitimat",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 49024,
-                "Name": "New Hazelton",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 49032,
-                "Name": "Stewart",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 49011,
-                "Name": "Terrace",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 49999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Kootenay Boundary",
         "Area Type": "RD",
         "population": 35360,
-        "Previous Year's Per Captia Disposal (kg/capita)": 459.83119724914036,
-        "Previous Year's Total Disposal (Tonnes)": 16181,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "McKelvey Creek Landfill",
@@ -1008,60 +489,12 @@
                 "SGC": 5000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 5005,
-                "Name": "Fruitvale",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 5032,
-                "Name": "Grand Forks",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 5042,
-                "Name": "Greenwood",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 5037,
-                "Name": "Midway",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 5009,
-                "Name": "Montrose",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 5023,
-                "Name": "Rossland",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 5014,
-                "Name": "Trail",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 5018,
-                "Name": "Warfield",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 5999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Metro Vancouver",
         "Area Type": "RD",
         "population": 3108926,
-        "Previous Year's Per Captia Disposal (kg/capita)": 428.82384771973483,
-        "Previous Year's Total Disposal (Tonnes)": 1281423,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
@@ -1082,125 +515,12 @@
                 "SGC": 15000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 15038,
-                "Name": "Anmore",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 15036,
-                "Name": "Belcarra",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 15062,
-                "Name": "Bowen Island",
-                "Area Type": "IM"
-            },
-            {
-                "SGC": 15025,
-                "Name": "Burnaby",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15034,
-                "Name": "Coquitlam",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15011,
-                "Name": "Delta",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15002,
-                "Name": "Langley, City of",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15001,
-                "Name": "Langley, District Municipality",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 15065,
-                "Name": "Lions Bay",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 15075,
-                "Name": "Maple Ridge",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15029,
-                "Name": "New Westminster",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15051,
-                "Name": "North Vancouver, City of",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15046,
-                "Name": "North Vancouver, District Municipality",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 15070,
-                "Name": "Pitt Meadows",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15039,
-                "Name": "Port Coquitlam",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15043,
-                "Name": "Port Moody",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15015,
-                "Name": "Richmond",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15004,
-                "Name": "Surrey",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15022,
-                "Name": "Vancouver",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15055,
-                "Name": "West Vancouver",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 15007,
-                "Name": "White Rock",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 15999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Mount Waddington",
         "Area Type": "RD",
         "population": 11411,
-        "Previous Year's Per Captia Disposal (kg/capita)": 712.6477024070022,
-        "Previous Year's Total Disposal (Tonnes)": 8142,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
@@ -1209,40 +529,12 @@
                 "SGC": 43000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 43008,
-                "Name": "Alert Bay",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 43017,
-                "Name": "Port Alice",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 43023,
-                "Name": "Port Hardy",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 43012,
-                "Name": "Port McNeill",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 43999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Nanaimo",
         "Area Type": "RD",
         "population": 186121,
-        "Previous Year's Per Captia Disposal (kg/capita)": 414.31061139975634,
-        "Previous Year's Total Disposal (Tonnes)": 75835,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Regional Landfill",
@@ -1251,40 +543,12 @@
                 "SGC": 21000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 21008,
-                "Name": "Lantzville",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 21007,
-                "Name": "Nanaimo",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 21018,
-                "Name": "Parksville",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 21023,
-                "Name": "Qualicum Beach",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 21999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "North Coast",
         "Area Type": "RD",
         "population": 19074,
-        "Previous Year's Per Captia Disposal (kg/capita)": 682.5787905712643,
-        "Previous Year's Total Disposal (Tonnes)": 13059.78,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Island solid Waste Management",
@@ -1299,45 +563,12 @@
                 "SGC": 47000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 47026,
-                "Name": "Daajing Giids",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 47023,
-                "Name": "Masset",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 47030,
-                "Name": "Port Clements",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 47007,
-                "Name": "Port Edward",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 47012,
-                "Name": "Prince Rupert",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 47999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "North Okanagan",
         "Area Type": "RD",
         "population": 99800,
-        "Previous Year's Per Captia Disposal (kg/capita)": 472.3279440570796,
-        "Previous Year's Total Disposal (Tonnes)": 46538,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lumby DDF",
@@ -1358,50 +589,12 @@
                 "SGC": 37000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 37028,
-                "Name": "Armstrong",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 37010,
-                "Name": "Coldstream",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 37033,
-                "Name": "Enderby",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 37005,
-                "Name": "Lumby",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 37024,
-                "Name": "Spallumcheen",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 37014,
-                "Name": "Vernon",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 37999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Northern Rockies",
         "Area Type": "RD",
         "population": 4641,
-        "Previous Year's Per Captia Disposal (kg/capita)": 521.117304281733,
-        "Previous Year's Total Disposal (Tonnes)": 2056.85,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
@@ -1410,25 +603,12 @@
                 "SGC": 59000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 59007,
-                "Name": "Northern Rockies Regional Municipality",
-                "Area Type": "RGM"
-            },
-            {
-                "SGC": 59999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Okanagan-Similkameen",
         "Area Type": "RD",
         "population": 93912,
-        "Previous Year's Per Captia Disposal (kg/capita)": 549.6281721726805,
-        "Previous Year's Total Disposal (Tonnes)": 51958,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Osoyoos Landfill",
@@ -1467,50 +647,12 @@
                 "SGC": 7000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 7009,
-                "Name": "Keremeos",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 7014,
-                "Name": "Oliver",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 7005,
-                "Name": "Osoyoos",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 7041,
-                "Name": "Penticton",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 7024,
-                "Name": "Princeton",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 7035,
-                "Name": "Summerland",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 7999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Peace River",
         "Area Type": "RD",
         "population": 67374,
-        "Previous Year's Per Captia Disposal (kg/capita)": 803.9610915143463,
-        "Previous Year's Total Disposal (Tonnes)": 52649,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Chetwynd Landfill",
@@ -1531,55 +673,12 @@
                 "SGC": 55000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 55010,
-                "Name": "Chetwynd",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 55014,
-                "Name": "Dawson Creek",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 55034,
-                "Name": "Fort St. John",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 55025,
-                "Name": "Hudson's Hope",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 55005,
-                "Name": "Pouce Coupe",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 55030,
-                "Name": "Taylor",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 55003,
-                "Name": "Tumbler Ridge",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 55999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "qathet",
         "Area Type": "RD",
         "population": 23056,
-        "Previous Year's Per Captia Disposal (kg/capita)": 467.8935347856641,
-        "Previous Year's Total Disposal (Tonnes)": 10653,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -1588,30 +687,12 @@
                 "SGC": 27000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 27008,
-                "Name": "Powell River",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 27806,
-                "Name": "Sechelt Ind Gov Dist (Part-qathet)",
-                "Area Type": "IGD"
-            },
-            {
-                "SGC": 27999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Squamish-Lillooet",
         "Area Type": "RD",
         "population": 56433,
-        "Previous Year's Per Captia Disposal (kg/capita)": 354.8077972804134,
-        "Previous Year's Total Disposal (Tonnes)": 29250,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lillooet Landfill",
@@ -1626,40 +707,12 @@
                 "SGC": 31000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 31026,
-                "Name": "Lillooet",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 31012,
-                "Name": "Pemberton",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 31006,
-                "Name": "Squamish",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 31020,
-                "Name": "Whistler",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 31999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Sunshine Coast",
         "Area Type": "RD",
         "population": 34208,
-        "Previous Year's Per Captia Disposal (kg/capita)": 347.90640394088666,
-        "Previous Year's Total Disposal (Tonnes)": 11865,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sechelt Landfill",
@@ -1668,35 +721,12 @@
                 "SGC": 29000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 29005,
-                "Name": "Gibsons",
-                "Area Type": "T"
-            },
-            {
-                "SGC": 29011,
-                "Name": "Sechelt District Municipality",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 29803,
-                "Name": "Sechelt Ind Gov Dist (Part-Sunshine Coast)",
-                "Area Type": "IGD"
-            },
-            {
-                "SGC": 29999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     },
     {
         "Name": "Thompson-Nicola",
         "Area Type": "RD",
         "population": 158876,
-        "Previous Year's Per Captia Disposal (kg/capita)": 590.1636193575665,
-        "Previous Year's Total Disposal (Tonnes)": 92121,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Mission Flats Landfill",
@@ -1735,67 +765,6 @@
                 "SGC": 33000
             }
         ],
-        "Associated_Areas": [
-            {
-                "SGC": 33019,
-                "Name": "Ashcroft",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33074,
-                "Name": "Barriere",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 33024,
-                "Name": "Cache Creek",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33054,
-                "Name": "Chase",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33067,
-                "Name": "Clearwater",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 33028,
-                "Name": "Clinton",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33042,
-                "Name": "Kamloops",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 33035,
-                "Name": "Logan Lake",
-                "Area Type": "DM"
-            },
-            {
-                "SGC": 33015,
-                "Name": "Lytton",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33006,
-                "Name": "Merritt",
-                "Area Type": "CY"
-            },
-            {
-                "SGC": 33045,
-                "Name": "Sun Peaks Mountain",
-                "Area Type": "VL"
-            },
-            {
-                "SGC": 33999,
-                "Name": "Unincorporated Areas",
-                "Area Type": "RDR"
-            }
-        ]
+        "Associated_Areas": []
     }
 ]
