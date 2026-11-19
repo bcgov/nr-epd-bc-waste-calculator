@@ -5,7 +5,8 @@ import sys
 RD_ONLY_FIELDS = [
     "Population",
     "PreviousYearPerCaptiaDisposal",
-    "PreviousYearTotalDisposal"
+    "PreviousYearTotalDisposal",
+    "EstimatedNumberOfHouseholds"
 ]
 
 def safe_strip(value):
