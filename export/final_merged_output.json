@@ -3,20 +3,19 @@
         "Name": "Alberni-Clayoquot",
         "Area Type": "RD",
         "Population": 36303,
+        "PreviousYearTotalDisposal": 20826,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Alberni Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 524,
-                "SGC": 23000,
-                "Unnamed: 5": ""
+                "SGC": 23000
             },
             {
                 "InRegionDisposalFacility": "West Coast Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5634,
-                "SGC": 23000,
-                "Unnamed: 5": ""
+                "SGC": 23000
             }
         ],
         "Associated_Areas": []
@@ -25,27 +24,25 @@
         "Name": "Bulkley-Nechako",
         "Area Type": "RD",
         "Population": 39468,
+        "PreviousYearTotalDisposal": 21558,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Manson Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7912,
-                "SGC": 51000,
-                "Unnamed: 5": ""
+                "SGC": 51000
             },
             {
                 "InRegionDisposalFacility": "Knockholt Sub-Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 8856,
-                "SGC": 51000,
-                "Unnamed: 5": ""
+                "SGC": 51000
             },
             {
                 "InRegionDisposalFacility": "Clearview Sub-Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17686,
-                "SGC": 51000,
-                "Unnamed: 5": ""
+                "SGC": 51000
             }
         ],
         "Associated_Areas": []
@@ -54,13 +51,13 @@
         "Name": "Capital",
         "Area Type": "RD",
         "Population": 464082,
+        "PreviousYearTotalDisposal": 157189,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Hartland Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 12659,
-                "SGC": 17000,
-                "Unnamed: 5": ""
+                "SGC": 17000
             }
         ],
         "Associated_Areas": []
@@ -69,118 +66,103 @@
         "Name": "Cariboo",
         "Area Type": "RD",
         "Population": 67002,
+        "PreviousYearTotalDisposal": 36913.93,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Quesnel Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 3132,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Likely Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4533,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Cochin Lanfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4535,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Puntzi Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4536,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "South Cariboo Landfill (100 Mile House landfill)",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4994,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Interlakes Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5776,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Kleena Kleene Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6313,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Big Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6510,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Nemaiah Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6922,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Tatla Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7200,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Mahood Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7644,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Nazko Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 10953,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Watch Lake Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 11071,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Gibraltar Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16556,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "West Chilcotin Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17920,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             },
             {
                 "InRegionDisposalFacility": "Central Cariboo Transfer Station - DLC landfill (Williams Lake)",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 103019,
-                "SGC": 41000,
-                "Unnamed: 5": ""
+                "SGC": 41000
             }
         ],
         "Associated_Areas": []
@@ -189,34 +171,31 @@
         "Name": "Central Coast",
         "Area Type": "RD",
         "Population": 3962,
+        "PreviousYearTotalDisposal": NaN,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Thorsen Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4223,
-                "SGC": 45000,
-                "Unnamed: 5": ""
+                "SGC": 45000
             },
             {
                 "InRegionDisposalFacility": "Ocean Falls Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 10611,
-                "SGC": 45000,
-                "Unnamed: 5": ""
+                "SGC": 45000
             },
             {
                 "InRegionDisposalFacility": "Denny Island Landfill",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": 18186,
-                "SGC": 45000,
-                "Unnamed: 5": ""
+                "SGC": 45000
             },
             {
                 "InRegionDisposalFacility": "Wuikinuxv Landfill",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": "",
-                "SGC": 45000,
-                "Unnamed: 5": ""
+                "SGC": 45000
             }
         ],
         "Associated_Areas": []
@@ -225,33 +204,32 @@
         "Name": "Unincorporated Areas",
         "Area Type": "RD",
         "Population": 3962,
+        "PreviousYearTotalDisposal": NaN,
         "Associated_Areas": []
     },
     {
         "Name": "Central Kootenay",
         "Area Type": "RD",
         "Population": 68593,
+        "PreviousYearTotalDisposal": 28909.8,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Nakusp Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16521,
-                "SGC": 3000,
-                "Unnamed: 5": ""
+                "SGC": 3000
             },
             {
                 "InRegionDisposalFacility": "Creston Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 16913,
-                "SGC": 3000,
-                "Unnamed: 5": ""
+                "SGC": 3000
             },
             {
                 "InRegionDisposalFacility": "Ootischenia Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17126,
-                "SGC": 3000,
-                "Unnamed: 5": ""
+                "SGC": 3000
             }
         ],
         "Associated_Areas": []
@@ -260,13 +238,13 @@
         "Name": "Central Okanagan",
         "Area Type": "RD",
         "Population": 254635,
+        "PreviousYearTotalDisposal": 146006,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Glenmore Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 12218,
-                "SGC": 35000,
-                "Unnamed: 5": ""
+                "SGC": 35000
             }
         ],
         "Associated_Areas": []
@@ -275,54 +253,50 @@
         "Name": "Columbia-Shuswap",
         "Area Type": "RD",
         "Population": 62795,
+        "PreviousYearTotalDisposal": 40039,
         "Associated_Areas": []
     },
     {
         "Name": "Comox Valley",
         "Area Type": "RD",
         "Population": 131958,
+        "PreviousYearTotalDisposal": 73547,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Campbell River Waste Management Centre",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 2401,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             },
             {
                 "InRegionDisposalFacility": "Gold River Inert Waste Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 3825,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             },
             {
                 "InRegionDisposalFacility": "Tahsis Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 4278,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             },
             {
                 "InRegionDisposalFacility": "Comox Valley Waste Management Centre",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5050,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             },
             {
                 "InRegionDisposalFacility": "Zeballos Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7496,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             },
             {
                 "InRegionDisposalFacility": "Northwin Environmental Limited",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": 107689,
-                "SGC": 26000,
-                "Unnamed: 5": ""
+                "SGC": 26000
             }
         ],
         "Associated_Areas": []
@@ -331,13 +305,13 @@
         "Name": "Cowichan Valley",
         "Area Type": "RD",
         "Population": 95822,
+        "PreviousYearTotalDisposal": 41725.04,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "SGC": 19000,
-                "Unnamed: 5": ""
+                "SGC": 19000
             }
         ],
         "Associated_Areas": []
@@ -346,27 +320,25 @@
         "Name": "East Kootenay",
         "Area Type": "RD",
         "Population": 72880,
+        "PreviousYearTotalDisposal": 49388.14,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Central Subregion Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15962,
-                "SGC": 1000,
-                "Unnamed: 5": ""
+                "SGC": 1000
             },
             {
                 "InRegionDisposalFacility": "Columbia Valley Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 100134,
-                "SGC": 1000,
-                "Unnamed: 5": ""
+                "SGC": 1000
             },
             {
                 "InRegionDisposalFacility": "Sparwood Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 107745,
-                "SGC": 1000,
-                "Unnamed: 5": ""
+                "SGC": 1000
             }
         ],
         "Associated_Areas": []
@@ -375,34 +347,31 @@
         "Name": "Fraser Valley",
         "Area Type": "RD",
         "Population": 369211,
+        "PreviousYearTotalDisposal": 260435.46,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Bailey Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 101798,
-                "SGC": 9000,
-                "Unnamed: 5": ""
+                "SGC": 9000
             },
             {
                 "InRegionDisposalFacility": "Chaumox Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 101804,
-                "SGC": 9000,
-                "Unnamed: 5": ""
+                "SGC": 9000
             },
             {
                 "InRegionDisposalFacility": "Mission Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 105058,
-                "SGC": 9000,
-                "Unnamed: 5": ""
+                "SGC": 9000
             },
             {
                 "InRegionDisposalFacility": "Metro Vancouver Waste Import correction",
                 "Owner": "Regional District",
                 "AuthorizationNumber": "",
-                "SGC": 9000,
-                "Unnamed: 5": ""
+                "SGC": 9000
             }
         ],
         "Associated_Areas": []
@@ -411,34 +380,31 @@
         "Name": "Fraser-Fort George",
         "Area Type": "RD",
         "Population": 107639,
+        "PreviousYearTotalDisposal": 74169.94,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Foothills",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1697,
-                "SGC": 53000,
-                "Unnamed: 5": ""
+                "SGC": 53000
             },
             {
                 "InRegionDisposalFacility": "Legrand",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 6424,
-                "SGC": 53000,
-                "Unnamed: 5": ""
+                "SGC": 53000
             },
             {
                 "InRegionDisposalFacility": "Mackenzie",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 100206,
-                "SGC": 53000,
-                "Unnamed: 5": ""
+                "SGC": 53000
             },
             {
                 "InRegionDisposalFacility": "aggregate",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "SGC": 53000,
-                "Unnamed: 5": ""
+                "SGC": 53000
             }
         ],
         "Associated_Areas": []
@@ -447,33 +413,32 @@
         "Name": "Kitimat-Stikine",
         "Area Type": "RD",
         "Population": 42423,
+        "PreviousYearTotalDisposal": 25958,
         "Associated_Areas": []
     },
     {
         "Name": "Kootenay Boundary",
         "Area Type": "RD",
         "Population": 35509,
+        "PreviousYearTotalDisposal": 17761.52,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "McKelvey Creek Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1917,
-                "SGC": 5000,
-                "Unnamed: 5": ""
+                "SGC": 5000
             },
             {
                 "InRegionDisposalFacility": "Grand Forks Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15290,
-                "SGC": 5000,
-                "Unnamed: 5": ""
+                "SGC": 5000
             },
             {
                 "InRegionDisposalFacility": "West Boundary Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15294,
-                "SGC": 5000,
-                "Unnamed: 5": ""
+                "SGC": 5000
             }
         ],
         "Associated_Areas": []
@@ -482,27 +447,25 @@
         "Name": "Metro Vancouver",
         "Area Type": "RD",
         "Population": 3087023,
+        "PreviousYearTotalDisposal": 1312447.13,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 1611,
-                "SGC": 15000,
-                "Unnamed: 5": ""
+                "SGC": 15000
             },
             {
                 "InRegionDisposalFacility": "Waste-to-Energy (WTE) Facility",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 107051,
-                "SGC": 15000,
-                "Unnamed: 5": ""
+                "SGC": 15000
             },
             {
                 "InRegionDisposalFacility": "Private landfills (C&D)",
                 "Owner": "Private Firm",
                 "AuthorizationNumber": "",
-                "SGC": 15000,
-                "Unnamed: 5": ""
+                "SGC": 15000
             }
         ],
         "Associated_Areas": []
@@ -511,13 +474,13 @@
         "Name": "Mount Waddington",
         "Area Type": "RD",
         "Population": 11349,
+        "PreviousYearTotalDisposal": 7156.51,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 8490,
-                "SGC": 43000,
-                "Unnamed: 5": ""
+                "SGC": 43000
             }
         ],
         "Associated_Areas": []
@@ -526,13 +489,13 @@
         "Name": "Nanaimo",
         "Area Type": "RD",
         "Population": 187662,
+        "PreviousYearTotalDisposal": 79311,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Regional Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 1714,
-                "SGC": 21000,
-                "Unnamed: 5": ""
+                "SGC": 21000
             }
         ],
         "Associated_Areas": []
@@ -541,20 +504,19 @@
         "Name": "North Coast",
         "Area Type": "RD",
         "Population": 19133,
+        "PreviousYearTotalDisposal": 13797.52,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Island solid Waste Management",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 7150,
-                "SGC": 47000,
-                "Unnamed: 5": ""
+                "SGC": 47000
             },
             {
                 "InRegionDisposalFacility": "Prince Rupert landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 7988,
-                "SGC": 47000,
-                "Unnamed: 5": ""
+                "SGC": 47000
             }
         ],
         "Associated_Areas": []
@@ -563,27 +525,25 @@
         "Name": "North Okanagan",
         "Area Type": "RD",
         "Population": 100142,
+        "PreviousYearTotalDisposal": 45161,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lumby DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15282,
-                "SGC": 37000,
-                "Unnamed: 5": ""
+                "SGC": 37000
             },
             {
                 "InRegionDisposalFacility": "Armstrong/Spallumcheen DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15284,
-                "SGC": 37000,
-                "Unnamed: 5": ""
+                "SGC": 37000
             },
             {
                 "InRegionDisposalFacility": "Greater Vernon DDF",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15286,
-                "SGC": 37000,
-                "Unnamed: 5": ""
+                "SGC": 37000
             }
         ],
         "Associated_Areas": []
@@ -592,13 +552,13 @@
         "Name": "Northern Rockies",
         "Area Type": "RD",
         "Population": 4697,
+        "PreviousYearTotalDisposal": 1616.52,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 16960,
-                "SGC": 59000,
-                "Unnamed: 5": ""
+                "SGC": 59000
             }
         ],
         "Associated_Areas": []
@@ -607,48 +567,43 @@
         "Name": "Okanagan-Similkameen",
         "Area Type": "RD",
         "Population": 94327,
+        "PreviousYearTotalDisposal": 51940,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Osoyoos Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15273,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             },
             {
                 "InRegionDisposalFacility": "Campbell Mountain Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15274,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             },
             {
                 "InRegionDisposalFacility": "Summerland Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15275,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             },
             {
                 "InRegionDisposalFacility": "Princeton Landfill",
                 "Owner": "",
                 "AuthorizationNumber": 15276,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             },
             {
                 "InRegionDisposalFacility": "Okanagan Falls",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15279,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             },
             {
                 "InRegionDisposalFacility": "Oliver Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 15280,
-                "SGC": 7000,
-                "Unnamed: 5": ""
+                "SGC": 7000
             }
         ],
         "Associated_Areas": []
@@ -657,27 +612,25 @@
         "Name": "Peace River",
         "Area Type": "RD",
         "Population": 67857,
+        "PreviousYearTotalDisposal": 51407.26,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Chetwynd Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 2896,
-                "SGC": 55000,
-                "Unnamed: 5": ""
+                "SGC": 55000
             },
             {
                 "InRegionDisposalFacility": "Bessborough Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 17529,
-                "SGC": 55000,
-                "Unnamed: 5": ""
+                "SGC": 55000
             },
             {
                 "InRegionDisposalFacility": "North Peace Regional (formerly Fort St John) Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 106160,
-                "SGC": 55000,
-                "Unnamed: 5": ""
+                "SGC": 55000
             }
         ],
         "Associated_Areas": []
@@ -686,13 +639,13 @@
         "Name": "qathet",
         "Area Type": "RD",
         "Population": 23039,
+        "PreviousYearTotalDisposal": 11411.12,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
                 "Owner": "",
                 "AuthorizationNumber": "",
-                "SGC": 27000,
-                "Unnamed: 5": ""
+                "SGC": 27000
             }
         ],
         "Associated_Areas": []
@@ -701,20 +654,19 @@
         "Name": "Squamish-Lillooet",
         "Area Type": "RD",
         "Population": 56588,
+        "PreviousYearTotalDisposal": 29700.05,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lillooet Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 5042,
-                "SGC": 31000,
-                "Unnamed: 5": ""
+                "SGC": 31000
             },
             {
                 "InRegionDisposalFacility": "Squamish Landfill",
                 "Owner": "Municipality",
                 "AuthorizationNumber": 106063,
-                "SGC": 31000,
-                "Unnamed: 5": ""
+                "SGC": 31000
             }
         ],
         "Associated_Areas": []
@@ -723,13 +675,13 @@
         "Name": "Sunshine Coast",
         "Area Type": "RD",
         "Population": 34589,
+        "PreviousYearTotalDisposal": 11797,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sechelt Landfill",
                 "Owner": "Regional District",
                 "AuthorizationNumber": 106060,
-                "SGC": 29000,
-                "Unnamed: 5": ""
+                "SGC": 29000
             }
         ],
         "Associated_Areas": []
@@ -738,6 +690,7 @@
         "Name": "Thompson-Nicola",
         "Area Type": "RD",
         "Population": 158059,
+        "PreviousYearTotalDisposal": 78299.88,
         "Associated_Areas": []
     }
 ]

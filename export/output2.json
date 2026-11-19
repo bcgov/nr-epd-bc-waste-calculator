@@ -3,7 +3,8 @@
         "RD_Info": {
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
-            "Population": 36303
+            "Population": 36303,
+            "PreviousYearTotalDisposal": 20826.0
         },
         "Associated_Areas": [
             {
@@ -12,7 +13,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -21,7 +21,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -30,7 +29,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -39,7 +37,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -48,7 +45,8 @@
         "RD_Info": {
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
-            "Population": 39468
+            "Population": 39468,
+            "PreviousYearTotalDisposal": 21558.0
         },
         "Associated_Areas": [
             {
@@ -57,7 +55,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -66,7 +63,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -75,7 +71,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -84,7 +79,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -93,7 +87,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -102,7 +95,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -111,7 +103,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -120,7 +111,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -129,7 +119,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -138,7 +127,8 @@
         "RD_Info": {
             "Name": "Capital",
             "Area Type": "RD",
-            "Population": 464082
+            "Population": 464082,
+            "PreviousYearTotalDisposal": 157189.0
         },
         "Associated_Areas": [
             {
@@ -147,7 +137,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -156,7 +145,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -165,7 +153,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -174,7 +161,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -183,7 +169,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -192,7 +177,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -201,7 +185,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -210,7 +193,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -219,7 +201,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -228,7 +209,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -237,7 +217,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -246,7 +225,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -255,7 +233,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -264,7 +241,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -273,7 +249,8 @@
         "RD_Info": {
             "Name": "Cariboo",
             "Area Type": "RD",
-            "Population": 67002
+            "Population": 67002,
+            "PreviousYearTotalDisposal": 36913.93
         },
         "Associated_Areas": [
             {
@@ -282,7 +259,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -291,7 +267,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -300,7 +275,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -309,7 +283,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -318,7 +291,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -327,7 +299,8 @@
         "RD_Info": {
             "Name": "Central Coast",
             "Area Type": "RD",
-            "Population": 3962
+            "Population": 3962,
+            "PreviousYearTotalDisposal": NaN
         },
         "Associated_Areas": []
     },
@@ -335,7 +308,8 @@
         "RD_Info": {
             "Name": "Unincorporated Areas",
             "Area Type": "RD",
-            "Population": 3962
+            "Population": 3962,
+            "PreviousYearTotalDisposal": NaN
         },
         "Associated_Areas": []
     },
@@ -343,7 +317,8 @@
         "RD_Info": {
             "Name": "Central Kootenay",
             "Area Type": "RD",
-            "Population": 68593
+            "Population": 68593,
+            "PreviousYearTotalDisposal": 28909.8
         },
         "Associated_Areas": [
             {
@@ -352,7 +327,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -361,7 +335,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -370,7 +343,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -379,7 +351,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -388,7 +359,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -397,7 +367,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -406,7 +375,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -415,7 +383,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -424,7 +391,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -433,7 +399,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -442,7 +407,8 @@
         "RD_Info": {
             "Name": "Central Okanagan",
             "Area Type": "RD",
-            "Population": 254635
+            "Population": 254635,
+            "PreviousYearTotalDisposal": 146006.0
         },
         "Associated_Areas": [
             {
@@ -451,7 +417,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -460,7 +425,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -469,7 +433,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -478,7 +441,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -487,7 +449,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -496,7 +457,8 @@
         "RD_Info": {
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
-            "Population": 62795
+            "Population": 62795,
+            "PreviousYearTotalDisposal": 40039.0
         },
         "Associated_Areas": [
             {
@@ -505,7 +467,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -514,7 +475,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -523,7 +483,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -532,7 +491,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -541,7 +499,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -550,7 +507,8 @@
         "RD_Info": {
             "Name": "Comox Valley",
             "Area Type": "RD",
-            "Population": 131958
+            "Population": 131958,
+            "PreviousYearTotalDisposal": 73547.0
         },
         "Associated_Areas": [
             {
@@ -559,7 +517,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -568,7 +525,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -577,7 +533,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -586,7 +541,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -595,7 +549,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -604,7 +557,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -613,7 +565,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -622,7 +573,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -631,7 +581,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -640,7 +589,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -649,7 +597,8 @@
         "RD_Info": {
             "Name": "Cowichan Valley",
             "Area Type": "RD",
-            "Population": 95822
+            "Population": 95822,
+            "PreviousYearTotalDisposal": 41725.04
         },
         "Associated_Areas": [
             {
@@ -658,7 +607,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -667,7 +615,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -676,7 +623,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -685,7 +631,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -694,7 +639,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -703,7 +647,8 @@
         "RD_Info": {
             "Name": "East Kootenay",
             "Area Type": "RD",
-            "Population": 72880
+            "Population": 72880,
+            "PreviousYearTotalDisposal": 49388.14
         },
         "Associated_Areas": [
             {
@@ -712,7 +657,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -721,7 +665,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -730,7 +673,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -739,7 +681,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -748,7 +689,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -757,7 +697,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -766,7 +705,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -775,7 +713,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -784,7 +721,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -793,7 +729,8 @@
         "RD_Info": {
             "Name": "Fraser Valley",
             "Area Type": "RD",
-            "Population": 369211
+            "Population": 369211,
+            "PreviousYearTotalDisposal": 260435.46
         },
         "Associated_Areas": [
             {
@@ -802,7 +739,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -811,7 +747,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -820,7 +755,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -829,7 +763,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -838,7 +771,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -847,7 +779,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -856,7 +787,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -865,7 +795,8 @@
         "RD_Info": {
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
-            "Population": 107639
+            "Population": 107639,
+            "PreviousYearTotalDisposal": 74169.94
         },
         "Associated_Areas": [
             {
@@ -874,7 +805,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -883,7 +813,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -892,7 +821,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -901,7 +829,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -910,7 +837,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -919,7 +845,8 @@
         "RD_Info": {
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
-            "Population": 42423
+            "Population": 42423,
+            "PreviousYearTotalDisposal": 25958.0
         },
         "Associated_Areas": [
             {
@@ -928,7 +855,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -937,7 +863,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -946,7 +871,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -955,7 +879,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -964,7 +887,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -973,7 +895,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -982,7 +903,8 @@
         "RD_Info": {
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
-            "Population": 35509
+            "Population": 35509,
+            "PreviousYearTotalDisposal": 17761.52
         },
         "Associated_Areas": [
             {
@@ -991,7 +913,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1000,7 +921,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1009,7 +929,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1018,7 +937,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1027,7 +945,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1036,7 +953,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1045,7 +961,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1054,7 +969,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1063,7 +977,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1072,7 +985,8 @@
         "RD_Info": {
             "Name": "Metro Vancouver",
             "Area Type": "RD",
-            "Population": 3087023
+            "Population": 3087023,
+            "PreviousYearTotalDisposal": 1312447.13
         },
         "Associated_Areas": [
             {
@@ -1081,7 +995,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1090,7 +1003,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1099,7 +1011,6 @@
                 "Area Type": "IM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1108,7 +1019,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1117,7 +1027,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1126,7 +1035,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1135,7 +1043,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1144,7 +1051,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1153,7 +1059,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1162,7 +1067,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1171,7 +1075,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1180,7 +1083,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1189,7 +1091,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1198,7 +1099,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1207,7 +1107,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1216,7 +1115,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1225,7 +1123,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1234,7 +1131,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1243,7 +1139,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1252,7 +1147,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1261,7 +1155,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1270,7 +1163,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1279,7 +1171,8 @@
         "RD_Info": {
             "Name": "Mount Waddington",
             "Area Type": "RD",
-            "Population": 11349
+            "Population": 11349,
+            "PreviousYearTotalDisposal": 7156.51
         },
         "Associated_Areas": [
             {
@@ -1288,7 +1181,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1297,7 +1189,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1306,7 +1197,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1315,7 +1205,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1324,7 +1213,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1333,7 +1221,8 @@
         "RD_Info": {
             "Name": "Nanaimo",
             "Area Type": "RD",
-            "Population": 187662
+            "Population": 187662,
+            "PreviousYearTotalDisposal": 79311.0
         },
         "Associated_Areas": [
             {
@@ -1342,7 +1231,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1351,7 +1239,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1360,7 +1247,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1369,7 +1255,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1378,7 +1263,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1387,7 +1271,8 @@
         "RD_Info": {
             "Name": "North Coast",
             "Area Type": "RD",
-            "Population": 19133
+            "Population": 19133,
+            "PreviousYearTotalDisposal": 13797.52
         },
         "Associated_Areas": [
             {
@@ -1396,7 +1281,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1405,7 +1289,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1414,7 +1297,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1423,7 +1305,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1432,7 +1313,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1441,7 +1321,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1450,7 +1329,8 @@
         "RD_Info": {
             "Name": "North Okanagan",
             "Area Type": "RD",
-            "Population": 100142
+            "Population": 100142,
+            "PreviousYearTotalDisposal": 45161.0
         },
         "Associated_Areas": [
             {
@@ -1459,7 +1339,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1468,7 +1347,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1477,7 +1355,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1486,7 +1363,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1495,7 +1371,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1504,7 +1379,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1513,7 +1387,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1522,7 +1395,8 @@
         "RD_Info": {
             "Name": "Northern Rockies",
             "Area Type": "RD",
-            "Population": 4697
+            "Population": 4697,
+            "PreviousYearTotalDisposal": 1616.52
         },
         "Associated_Areas": [
             {
@@ -1531,7 +1405,6 @@
                 "Area Type": "RGM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1540,7 +1413,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1549,7 +1421,8 @@
         "RD_Info": {
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
-            "Population": 94327
+            "Population": 94327,
+            "PreviousYearTotalDisposal": 51940.0
         },
         "Associated_Areas": [
             {
@@ -1558,7 +1431,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1567,7 +1439,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1576,7 +1447,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1585,7 +1455,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1594,7 +1463,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1603,7 +1471,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1612,7 +1479,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1621,7 +1487,8 @@
         "RD_Info": {
             "Name": "Peace River",
             "Area Type": "RD",
-            "Population": 67857
+            "Population": 67857,
+            "PreviousYearTotalDisposal": 51407.26
         },
         "Associated_Areas": [
             {
@@ -1630,7 +1497,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1639,7 +1505,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1648,7 +1513,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1657,7 +1521,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1666,7 +1529,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1675,7 +1537,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1684,7 +1545,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1693,7 +1553,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1702,7 +1561,8 @@
         "RD_Info": {
             "Name": "qathet",
             "Area Type": "RD",
-            "Population": 23039
+            "Population": 23039,
+            "PreviousYearTotalDisposal": 11411.12
         },
         "Associated_Areas": [
             {
@@ -1711,7 +1571,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1720,7 +1579,6 @@
                 "Area Type": "IGD",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1729,7 +1587,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1738,7 +1595,8 @@
         "RD_Info": {
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
-            "Population": 56588
+            "Population": 56588,
+            "PreviousYearTotalDisposal": 29700.05
         },
         "Associated_Areas": [
             {
@@ -1747,7 +1605,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1756,7 +1613,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1765,7 +1621,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1774,7 +1629,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1783,7 +1637,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1792,7 +1645,8 @@
         "RD_Info": {
             "Name": "Sunshine Coast",
             "Area Type": "RD",
-            "Population": 34589
+            "Population": 34589,
+            "PreviousYearTotalDisposal": 11797.0
         },
         "Associated_Areas": [
             {
@@ -1801,7 +1655,6 @@
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1810,7 +1663,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1819,7 +1671,6 @@
                 "Area Type": "IGD",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1828,7 +1679,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
@@ -1837,7 +1687,8 @@
         "RD_Info": {
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
-            "Population": 158059
+            "Population": 158059,
+            "PreviousYearTotalDisposal": 78299.88
         },
         "Associated_Areas": [
             {
@@ -1846,7 +1697,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1855,7 +1705,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1864,7 +1713,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1873,7 +1721,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1882,7 +1729,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1891,7 +1737,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1900,7 +1745,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1909,7 +1753,6 @@
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1918,7 +1761,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1927,7 +1769,6 @@
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1936,7 +1777,6 @@
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             },
             {
@@ -1945,7 +1785,6 @@
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
                 "PreviousYearPerCapitaDisposal": NaN,
-                "PreviousYearTotalDisposal\t": NaN,
                 "EstimatedNumberOfHouseholds": NaN
             }
         ]
