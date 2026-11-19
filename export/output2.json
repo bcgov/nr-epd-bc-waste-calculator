@@ -4,7 +4,8 @@
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
             "Population": 36303,
-            "PreviousYearTotalDisposal": 20826.0
+            "PreviousYearTotalDisposal": 20826.0,
+            "EstimatedNumberOfHouseholds": 16122.0
         },
         "Associated_Areas": [
             {
@@ -12,32 +13,28 @@
                 "Name": "Port Alberni",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 23025,
                 "Name": "Tofino",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 23019,
                 "Name": "Ucluelet",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 23999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -46,7 +43,8 @@
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
             "Population": 39468,
-            "PreviousYearTotalDisposal": 21558.0
+            "PreviousYearTotalDisposal": 21558.0,
+            "EstimatedNumberOfHouseholds": 15989.0
         },
         "Associated_Areas": [
             {
@@ -54,72 +52,63 @@
                 "Name": "Burns Lake",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51013,
                 "Name": "Fort St. James",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51009,
                 "Name": "Fraser Lake",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51032,
                 "Name": "Granisle",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51034,
                 "Name": "Houston",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51043,
                 "Name": "Smithers",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51038,
                 "Name": "Telkwa",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51007,
                 "Name": "Vanderhoof",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 51999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -128,7 +117,8 @@
             "Name": "Capital",
             "Area Type": "RD",
             "Population": 464082,
-            "PreviousYearTotalDisposal": 157189.0
+            "PreviousYearTotalDisposal": 157189.0,
+            "EstimatedNumberOfHouseholds": 210128.0
         },
         "Associated_Areas": [
             {
@@ -136,112 +126,98 @@
                 "Name": "Central Saanich",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17041,
                 "Name": "Colwood",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17040,
                 "Name": "Esquimalt",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17049,
                 "Name": "Highlands",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17044,
                 "Name": "Langford",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17042,
                 "Name": "Metchosin",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17005,
                 "Name": "North Saanich",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17030,
                 "Name": "Oak Bay",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17021,
                 "Name": "Saanich",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17010,
                 "Name": "Sidney",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17052,
                 "Name": "Sooke",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17034,
                 "Name": "Victoria",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17047,
                 "Name": "View Royal",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 17999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -250,7 +226,8 @@
             "Name": "Cariboo",
             "Area Type": "RD",
             "Population": 67002,
-            "PreviousYearTotalDisposal": 36913.93
+            "PreviousYearTotalDisposal": 36913.93,
+            "EstimatedNumberOfHouseholds": 29538.0
         },
         "Associated_Areas": [
             {
@@ -258,40 +235,35 @@
                 "Name": "100 Mile House",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 41013,
                 "Name": "Quesnel",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 41025,
                 "Name": "Wells",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 41009,
                 "Name": "Williams Lake",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 41999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -300,7 +272,8 @@
             "Name": "Central Coast",
             "Area Type": "RD",
             "Population": 3962,
-            "PreviousYearTotalDisposal": NaN
+            "PreviousYearTotalDisposal": NaN,
+            "EstimatedNumberOfHouseholds": 1582.0
         },
         "Associated_Areas": []
     },
@@ -309,7 +282,8 @@
             "Name": "Unincorporated Areas",
             "Area Type": "RD",
             "Population": 3962,
-            "PreviousYearTotalDisposal": NaN
+            "PreviousYearTotalDisposal": NaN,
+            "EstimatedNumberOfHouseholds": 1582.0
         },
         "Associated_Areas": []
     },
@@ -318,7 +292,8 @@
             "Name": "Central Kootenay",
             "Area Type": "RD",
             "Population": 68593,
-            "PreviousYearTotalDisposal": 28909.8
+            "PreviousYearTotalDisposal": 28909.8,
+            "EstimatedNumberOfHouseholds": 31581.0
         },
         "Associated_Areas": [
             {
@@ -326,80 +301,70 @@
                 "Name": "Castlegar",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3004,
                 "Name": "Creston",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3023,
                 "Name": "Kaslo",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3050,
                 "Name": "Nakusp",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3015,
                 "Name": "Nelson",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3032,
                 "Name": "New Denver",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3011,
                 "Name": "Salmo",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3027,
                 "Name": "Silverton",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3019,
                 "Name": "Slocan",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 3999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -408,7 +373,8 @@
             "Name": "Central Okanagan",
             "Area Type": "RD",
             "Population": 254635,
-            "PreviousYearTotalDisposal": 146006.0
+            "PreviousYearTotalDisposal": 146006.0,
+            "EstimatedNumberOfHouseholds": 108992.0
         },
         "Associated_Areas": [
             {
@@ -416,40 +382,35 @@
                 "Name": "Kelowna",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 35016,
                 "Name": "Lake Country",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 35018,
                 "Name": "Peachland",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 35029,
                 "Name": "West Kelowna",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 35999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -458,7 +419,8 @@
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
             "Population": 62795,
-            "PreviousYearTotalDisposal": 40039.0
+            "PreviousYearTotalDisposal": 40039.0,
+            "EstimatedNumberOfHouseholds": 27690.0
         },
         "Associated_Areas": [
             {
@@ -466,40 +428,35 @@
                 "Name": "Golden",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 39019,
                 "Name": "Revelstoke",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 39032,
                 "Name": "Salmon Arm",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 39045,
                 "Name": "Sicamous",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 39999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -508,7 +465,8 @@
             "Name": "Comox Valley",
             "Area Type": "RD",
             "Population": 131958,
-            "PreviousYearTotalDisposal": 73547.0
+            "PreviousYearTotalDisposal": 73547.0,
+            "EstimatedNumberOfHouseholds": 59691.0
         },
         "Associated_Areas": [
             {
@@ -516,80 +474,70 @@
                 "Name": "Comox",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 26010,
                 "Name": "Courtenay",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 26014,
                 "Name": "Cumberland",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 26999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24034,
                 "Name": "Campbell River",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24025,
                 "Name": "Gold River",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24039,
                 "Name": "Sayward",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24030,
                 "Name": "Tahsis",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24029,
                 "Name": "Zeballos",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 24999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -598,7 +546,8 @@
             "Name": "Cowichan Valley",
             "Area Type": "RD",
             "Population": 95822,
-            "PreviousYearTotalDisposal": 41725.04
+            "PreviousYearTotalDisposal": 41725.04,
+            "EstimatedNumberOfHouseholds": 40980.0
         },
         "Associated_Areas": [
             {
@@ -606,40 +555,35 @@
                 "Name": "Duncan",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 19021,
                 "Name": "Ladysmith",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 19016,
                 "Name": "Lake Cowichan",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 19008,
                 "Name": "North Cowichan",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 19999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -648,7 +592,8 @@
             "Name": "East Kootenay",
             "Area Type": "RD",
             "Population": 72880,
-            "PreviousYearTotalDisposal": 49388.14
+            "PreviousYearTotalDisposal": 49388.14,
+            "EstimatedNumberOfHouseholds": 31727.0
         },
         "Associated_Areas": [
             {
@@ -656,72 +601,63 @@
                 "Name": "Canal Flats",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1022,
                 "Name": "Cranbrook",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1003,
                 "Name": "Elkford",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1012,
                 "Name": "Fernie",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1039,
                 "Name": "Invermere",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1028,
                 "Name": "Kimberley",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1040,
                 "Name": "Radium Hot Springs",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1006,
                 "Name": "Sparwood",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 1999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -730,7 +666,8 @@
             "Name": "Fraser Valley",
             "Area Type": "RD",
             "Population": 369211,
-            "PreviousYearTotalDisposal": 260435.46
+            "PreviousYearTotalDisposal": 260435.46,
+            "EstimatedNumberOfHouseholds": 137268.0
         },
         "Associated_Areas": [
             {
@@ -738,56 +675,49 @@
                 "Name": "Abbotsford",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9020,
                 "Name": "Chilliwack",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9027,
                 "Name": "Harrison Hot Springs",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9009,
                 "Name": "Hope",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9032,
                 "Name": "Kent",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9056,
                 "Name": "Mission",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 9999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -796,7 +726,8 @@
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
             "Population": 107639,
-            "PreviousYearTotalDisposal": 74169.94
+            "PreviousYearTotalDisposal": 74169.94,
+            "EstimatedNumberOfHouseholds": 45188.0
         },
         "Associated_Areas": [
             {
@@ -804,40 +735,35 @@
                 "Name": "Mackenzie",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 53012,
                 "Name": "McBride",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 53023,
                 "Name": "Prince George",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 53007,
                 "Name": "Valemount",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 53999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -846,7 +772,8 @@
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
             "Population": 42423,
-            "PreviousYearTotalDisposal": 25958.0
+            "PreviousYearTotalDisposal": 25958.0,
+            "EstimatedNumberOfHouseholds": 17468.0
         },
         "Associated_Areas": [
             {
@@ -854,48 +781,42 @@
                 "Name": "Hazelton",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 49005,
                 "Name": "Kitimat",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 49024,
                 "Name": "New Hazelton",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 49032,
                 "Name": "Stewart",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 49011,
                 "Name": "Terrace",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 49999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -904,7 +825,8 @@
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
             "Population": 35509,
-            "PreviousYearTotalDisposal": 17761.52
+            "PreviousYearTotalDisposal": 17761.52,
+            "EstimatedNumberOfHouseholds": 16424.0
         },
         "Associated_Areas": [
             {
@@ -912,72 +834,63 @@
                 "Name": "Fruitvale",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5032,
                 "Name": "Grand Forks",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5042,
                 "Name": "Greenwood",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5037,
                 "Name": "Midway",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5009,
                 "Name": "Montrose",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5023,
                 "Name": "Rossland",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5014,
                 "Name": "Trail",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5018,
                 "Name": "Warfield",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 5999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -986,7 +899,8 @@
             "Name": "Metro Vancouver",
             "Area Type": "RD",
             "Population": 3087023,
-            "PreviousYearTotalDisposal": 1312447.13
+            "PreviousYearTotalDisposal": 1312447.13,
+            "EstimatedNumberOfHouseholds": 1220939.0
         },
         "Associated_Areas": [
             {
@@ -994,176 +908,154 @@
                 "Name": "Anmore",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15036,
                 "Name": "Belcarra",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15062,
                 "Name": "Bowen Island",
                 "Area Type": "IM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15025,
                 "Name": "Burnaby",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15034,
                 "Name": "Coquitlam",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15011,
                 "Name": "Delta",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15002,
                 "Name": "Langley, City of",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15001,
                 "Name": "Langley, District Municipality",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15065,
                 "Name": "Lions Bay",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15075,
                 "Name": "Maple Ridge",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15029,
                 "Name": "New Westminster",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15051,
                 "Name": "North Vancouver, City of",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15046,
                 "Name": "North Vancouver, District Municipality",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15070,
                 "Name": "Pitt Meadows",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15039,
                 "Name": "Port Coquitlam",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15043,
                 "Name": "Port Moody",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15015,
                 "Name": "Richmond",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15004,
                 "Name": "Surrey",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15022,
                 "Name": "Vancouver",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15055,
                 "Name": "West Vancouver",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15007,
                 "Name": "White Rock",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 15999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1172,7 +1064,8 @@
             "Name": "Mount Waddington",
             "Area Type": "RD",
             "Population": 11349,
-            "PreviousYearTotalDisposal": 7156.51
+            "PreviousYearTotalDisposal": 7156.51,
+            "EstimatedNumberOfHouseholds": 5231.0
         },
         "Associated_Areas": [
             {
@@ -1180,40 +1073,35 @@
                 "Name": "Alert Bay",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 43017,
                 "Name": "Port Alice",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 43023,
                 "Name": "Port Hardy",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 43012,
                 "Name": "Port McNeill",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 43999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1222,7 +1110,8 @@
             "Name": "Nanaimo",
             "Area Type": "RD",
             "Population": 187662,
-            "PreviousYearTotalDisposal": 79311.0
+            "PreviousYearTotalDisposal": 79311.0,
+            "EstimatedNumberOfHouseholds": 84520.0
         },
         "Associated_Areas": [
             {
@@ -1230,40 +1119,35 @@
                 "Name": "Lantzville",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 21007,
                 "Name": "Nanaimo",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 21018,
                 "Name": "Parksville",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 21023,
                 "Name": "Qualicum Beach",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 21999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1272,7 +1156,8 @@
             "Name": "North Coast",
             "Area Type": "RD",
             "Population": 19133,
-            "PreviousYearTotalDisposal": 13797.52
+            "PreviousYearTotalDisposal": 13797.52,
+            "EstimatedNumberOfHouseholds": 8177.0
         },
         "Associated_Areas": [
             {
@@ -1280,48 +1165,42 @@
                 "Name": "Daajing Giids",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 47023,
                 "Name": "Masset",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 47030,
                 "Name": "Port Clements",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 47007,
                 "Name": "Port Edward",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 47012,
                 "Name": "Prince Rupert",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 47999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1330,7 +1209,8 @@
             "Name": "North Okanagan",
             "Area Type": "RD",
             "Population": 100142,
-            "PreviousYearTotalDisposal": 45161.0
+            "PreviousYearTotalDisposal": 45161.0,
+            "EstimatedNumberOfHouseholds": 43027.0
         },
         "Associated_Areas": [
             {
@@ -1338,56 +1218,49 @@
                 "Name": "Armstrong",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37010,
                 "Name": "Coldstream",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37033,
                 "Name": "Enderby",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37005,
                 "Name": "Lumby",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37024,
                 "Name": "Spallumcheen",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37014,
                 "Name": "Vernon",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 37999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1396,7 +1269,8 @@
             "Name": "Northern Rockies",
             "Area Type": "RD",
             "Population": 4697,
-            "PreviousYearTotalDisposal": 1616.52
+            "PreviousYearTotalDisposal": 1616.52,
+            "EstimatedNumberOfHouseholds": 1954.0
         },
         "Associated_Areas": [
             {
@@ -1404,16 +1278,14 @@
                 "Name": "Northern Rockies Regional Municipality",
                 "Area Type": "RGM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 59999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1422,7 +1294,8 @@
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
             "Population": 94327,
-            "PreviousYearTotalDisposal": 51940.0
+            "PreviousYearTotalDisposal": 51940.0,
+            "EstimatedNumberOfHouseholds": 43859.0
         },
         "Associated_Areas": [
             {
@@ -1430,56 +1303,49 @@
                 "Name": "Keremeos",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7014,
                 "Name": "Oliver",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7005,
                 "Name": "Osoyoos",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7041,
                 "Name": "Penticton",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7024,
                 "Name": "Princeton",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7035,
                 "Name": "Summerland",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 7999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1488,7 +1354,8 @@
             "Name": "Peace River",
             "Area Type": "RD",
             "Population": 67857,
-            "PreviousYearTotalDisposal": 51407.26
+            "PreviousYearTotalDisposal": 51407.26,
+            "EstimatedNumberOfHouseholds": 26924.0
         },
         "Associated_Areas": [
             {
@@ -1496,64 +1363,56 @@
                 "Name": "Chetwynd",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55014,
                 "Name": "Dawson Creek",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55034,
                 "Name": "Fort St. John",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55025,
                 "Name": "Hudson's Hope",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55005,
                 "Name": "Pouce Coupe",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55030,
                 "Name": "Taylor",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55003,
                 "Name": "Tumbler Ridge",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 55999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1562,7 +1421,8 @@
             "Name": "qathet",
             "Area Type": "RD",
             "Population": 23039,
-            "PreviousYearTotalDisposal": 11411.12
+            "PreviousYearTotalDisposal": 11411.12,
+            "EstimatedNumberOfHouseholds": 11076.0
         },
         "Associated_Areas": [
             {
@@ -1570,24 +1430,21 @@
                 "Name": "Powell River",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 27806,
                 "Name": "sh\u00edsh\u00e1lh Nation Gov Dist (Part-qathet)",
                 "Area Type": "IGD",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 27999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1596,7 +1453,8 @@
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
             "Population": 56588,
-            "PreviousYearTotalDisposal": 29700.05
+            "PreviousYearTotalDisposal": 29700.05,
+            "EstimatedNumberOfHouseholds": 22376.0
         },
         "Associated_Areas": [
             {
@@ -1604,40 +1462,35 @@
                 "Name": "Lillooet",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 31012,
                 "Name": "Pemberton",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 31006,
                 "Name": "Squamish",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 31020,
                 "Name": "Whistler",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 31999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1646,7 +1499,8 @@
             "Name": "Sunshine Coast",
             "Area Type": "RD",
             "Population": 34589,
-            "PreviousYearTotalDisposal": 11797.0
+            "PreviousYearTotalDisposal": 11797.0,
+            "EstimatedNumberOfHouseholds": 16382.0
         },
         "Associated_Areas": [
             {
@@ -1654,32 +1508,28 @@
                 "Name": "Gibsons",
                 "Area Type": "T",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 29011,
                 "Name": "Sechelt District Municipality",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 29803,
                 "Name": "sh\u00edsh\u00e1lh Nation Gov Dist (Part-Sunshine Coast)",
                 "Area Type": "IGD",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 29999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     },
@@ -1688,7 +1538,8 @@
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
             "Population": 158059,
-            "PreviousYearTotalDisposal": 78299.88
+            "PreviousYearTotalDisposal": 78299.88,
+            "EstimatedNumberOfHouseholds": 67291.0
         },
         "Associated_Areas": [
             {
@@ -1696,96 +1547,84 @@
                 "Name": "Ashcroft",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33074,
                 "Name": "Barriere",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33024,
                 "Name": "Cache Creek",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33054,
                 "Name": "Chase",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33067,
                 "Name": "Clearwater",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33028,
                 "Name": "Clinton",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33042,
                 "Name": "Kamloops",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33035,
                 "Name": "Logan Lake",
                 "Area Type": "DM",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33015,
                 "Name": "Lytton",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33006,
                 "Name": "Merritt",
                 "Area Type": "CY",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33045,
                 "Name": "Sun Peaks Mountain",
                 "Area Type": "VL",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             },
             {
                 "SGC": 33999,
                 "Name": "Unincorporated Areas",
                 "Area Type": "RDR",
                 "Unnamed: 4": NaN,
-                "PreviousYearPerCapitaDisposal": NaN,
-                "EstimatedNumberOfHouseholds": NaN
+                "PreviousYearPerCapitaDisposal": NaN
             }
         ]
     }
