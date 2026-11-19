@@ -4,6 +4,7 @@
         "Area Type": "RD",
         "Population": 36303,
         "PreviousYearTotalDisposal": 20826,
+        "EstimatedNumberOfHouseholds": 16122,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Alberni Valley Landfill",
@@ -25,6 +26,7 @@
         "Area Type": "RD",
         "Population": 39468,
         "PreviousYearTotalDisposal": 21558,
+        "EstimatedNumberOfHouseholds": 15989,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Manson Creek Landfill",
@@ -52,6 +54,7 @@
         "Area Type": "RD",
         "Population": 464082,
         "PreviousYearTotalDisposal": 157189,
+        "EstimatedNumberOfHouseholds": 210128,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Hartland Landfill",
@@ -67,6 +70,7 @@
         "Area Type": "RD",
         "Population": 67002,
         "PreviousYearTotalDisposal": 36913.93,
+        "EstimatedNumberOfHouseholds": 29538,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Quesnel Landfill",
@@ -172,6 +176,7 @@
         "Area Type": "RD",
         "Population": 3962,
         "PreviousYearTotalDisposal": NaN,
+        "EstimatedNumberOfHouseholds": 1582,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Thorsen Creek Landfill",
@@ -205,6 +210,7 @@
         "Area Type": "RD",
         "Population": 3962,
         "PreviousYearTotalDisposal": NaN,
+        "EstimatedNumberOfHouseholds": 1582,
         "Associated_Areas": []
     },
     {
@@ -212,6 +218,7 @@
         "Area Type": "RD",
         "Population": 68593,
         "PreviousYearTotalDisposal": 28909.8,
+        "EstimatedNumberOfHouseholds": 31581,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Nakusp Landfill",
@@ -239,6 +246,7 @@
         "Area Type": "RD",
         "Population": 254635,
         "PreviousYearTotalDisposal": 146006,
+        "EstimatedNumberOfHouseholds": 108992,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Glenmore Landfill",
@@ -254,6 +262,7 @@
         "Area Type": "RD",
         "Population": 62795,
         "PreviousYearTotalDisposal": 40039,
+        "EstimatedNumberOfHouseholds": 27690,
         "Associated_Areas": []
     },
     {
@@ -261,6 +270,7 @@
         "Area Type": "RD",
         "Population": 131958,
         "PreviousYearTotalDisposal": 73547,
+        "EstimatedNumberOfHouseholds": 59691,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Campbell River Waste Management Centre",
@@ -306,6 +316,7 @@
         "Area Type": "RD",
         "Population": 95822,
         "PreviousYearTotalDisposal": 41725.04,
+        "EstimatedNumberOfHouseholds": 40980,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -321,6 +332,7 @@
         "Area Type": "RD",
         "Population": 72880,
         "PreviousYearTotalDisposal": 49388.14,
+        "EstimatedNumberOfHouseholds": 31727,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Central Subregion Landfill",
@@ -348,6 +360,7 @@
         "Area Type": "RD",
         "Population": 369211,
         "PreviousYearTotalDisposal": 260435.46,
+        "EstimatedNumberOfHouseholds": 137268,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Bailey Landfill",
@@ -381,6 +394,7 @@
         "Area Type": "RD",
         "Population": 107639,
         "PreviousYearTotalDisposal": 74169.94,
+        "EstimatedNumberOfHouseholds": 45188,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Foothills",
@@ -414,6 +428,7 @@
         "Area Type": "RD",
         "Population": 42423,
         "PreviousYearTotalDisposal": 25958,
+        "EstimatedNumberOfHouseholds": 17468,
         "Associated_Areas": []
     },
     {
@@ -421,6 +436,7 @@
         "Area Type": "RD",
         "Population": 35509,
         "PreviousYearTotalDisposal": 17761.52,
+        "EstimatedNumberOfHouseholds": 16424,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "McKelvey Creek Landfill",
@@ -448,6 +464,7 @@
         "Area Type": "RD",
         "Population": 3087023,
         "PreviousYearTotalDisposal": 1312447.13,
+        "EstimatedNumberOfHouseholds": 1220939,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Vancouver Landfill (VLF)",
@@ -475,6 +492,7 @@
         "Area Type": "RD",
         "Population": 11349,
         "PreviousYearTotalDisposal": 7156.51,
+        "EstimatedNumberOfHouseholds": 5231,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "7 Mile Landfill and Recycling Center",
@@ -490,6 +508,7 @@
         "Area Type": "RD",
         "Population": 187662,
         "PreviousYearTotalDisposal": 79311,
+        "EstimatedNumberOfHouseholds": 84520,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Regional Landfill",
@@ -505,6 +524,7 @@
         "Area Type": "RD",
         "Population": 19133,
         "PreviousYearTotalDisposal": 13797.52,
+        "EstimatedNumberOfHouseholds": 8177,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Island solid Waste Management",
@@ -526,6 +546,7 @@
         "Area Type": "RD",
         "Population": 100142,
         "PreviousYearTotalDisposal": 45161,
+        "EstimatedNumberOfHouseholds": 43027,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lumby DDF",
@@ -553,6 +574,7 @@
         "Area Type": "RD",
         "Population": 4697,
         "PreviousYearTotalDisposal": 1616.52,
+        "EstimatedNumberOfHouseholds": 1954,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Northern Rockies Regional Municipality Landfill",
@@ -568,6 +590,7 @@
         "Area Type": "RD",
         "Population": 94327,
         "PreviousYearTotalDisposal": 51940,
+        "EstimatedNumberOfHouseholds": 43859,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Osoyoos Landfill",
@@ -613,6 +636,7 @@
         "Area Type": "RD",
         "Population": 67857,
         "PreviousYearTotalDisposal": 51407.26,
+        "EstimatedNumberOfHouseholds": 26924,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Chetwynd Landfill",
@@ -640,6 +664,7 @@
         "Area Type": "RD",
         "Population": 23039,
         "PreviousYearTotalDisposal": 11411.12,
+        "EstimatedNumberOfHouseholds": 11076,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "",
@@ -655,6 +680,7 @@
         "Area Type": "RD",
         "Population": 56588,
         "PreviousYearTotalDisposal": 29700.05,
+        "EstimatedNumberOfHouseholds": 22376,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Lillooet Landfill",
@@ -676,6 +702,7 @@
         "Area Type": "RD",
         "Population": 34589,
         "PreviousYearTotalDisposal": 11797,
+        "EstimatedNumberOfHouseholds": 16382,
         "Facilities": [
             {
                 "InRegionDisposalFacility": "Sechelt Landfill",
@@ -691,6 +718,7 @@
         "Area Type": "RD",
         "Population": 158059,
         "PreviousYearTotalDisposal": 78299.88,
+        "EstimatedNumberOfHouseholds": 67291,
         "Associated_Areas": []
     }
 ]
