@@ -7,14 +7,21 @@ on:
     types:
       - completed
 
+permissions:
+  contents: write
+
 jobs:
   convert-excel-to-json:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       # Ensure repo is up to date BEFORE modifying files
       - name: Sync with main
@@ -27,7 +34,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       # Install dependencies
       - name: Install dependencies
@@ -35,17 +42,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas openpyxl
 
-      # Convert facility Excel → JSON
+      # Convert facility Excel to JSON
       - name: Convert facility Excel to JSON
         run: |
           python script/convert.py import/msw_in_region_disposal.xlsx export/output.json
 
-      # Convert municipality Excel → JSON
+      # Convert municipality Excel to JSON
       - name: Convert municipality Excel to JSON
         run: |
           python script/convertmun.py import/pop_municipal_subprov_areas.xlsx export/output2.json
 
-      # Commit & push only if files changed
+      # Commit and push only if files changed
       - name: Commit and push JSON output
         run: |
           git config --global user.name "AmanBhathal"
