@@ -175,7 +175,7 @@
         "Name": "Central Coast",
         "Area Type": "RD",
         "Population": 3962,
-        "PreviousYearTotalDisposal": NaN,
+        "PreviousYearTotalDisposal": "",
         "EstimatedNumberOfHouseholds": 1582,
         "Facilities": [
             {
@@ -209,7 +209,7 @@
         "Name": "Unincorporated Areas",
         "Area Type": "RD",
         "Population": 3962,
-        "PreviousYearTotalDisposal": NaN,
+        "PreviousYearTotalDisposal": "",
         "EstimatedNumberOfHouseholds": 1582,
         "Associated_Areas": []
     },
