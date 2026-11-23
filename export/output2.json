@@ -4,7 +4,7 @@
             "Name": "Alberni-Clayoquot",
             "Area Type": "RD",
             "Population": 36303,
-            "PreviousYearPerCapitaDisposal": 574.954447573297,
+            "PreviousYearPerCapitaDisposal": 575.0,
             "PreviousYearTotalDisposal": 20826.0,
             "EstimatedNumberOfHouseholds": 16122.0
         },
@@ -40,7 +40,7 @@
             "Name": "Bulkley-Nechako",
             "Area Type": "RD",
             "Population": 39468,
-            "PreviousYearPerCapitaDisposal": 546.921379100388,
+            "PreviousYearPerCapitaDisposal": 547.0,
             "PreviousYearTotalDisposal": 21558.0,
             "EstimatedNumberOfHouseholds": 15989.0
         },
@@ -106,7 +106,7 @@
             "Name": "Capital",
             "Area Type": "RD",
             "Population": 464082,
-            "PreviousYearPerCapitaDisposal": 341.479893204031,
+            "PreviousYearPerCapitaDisposal": 341.0,
             "PreviousYearTotalDisposal": 157189.0,
             "EstimatedNumberOfHouseholds": 210128.0
         },
@@ -202,7 +202,7 @@
             "Name": "Cariboo",
             "Area Type": "RD",
             "Population": 67002,
-            "PreviousYearPerCapitaDisposal": 552.595470127692,
+            "PreviousYearPerCapitaDisposal": 553.0,
             "PreviousYearTotalDisposal": 36913.93,
             "EstimatedNumberOfHouseholds": 29538.0
         },
@@ -266,7 +266,7 @@
             "Name": "Central Kootenay",
             "Area Type": "RD",
             "Population": 68593,
-            "PreviousYearPerCapitaDisposal": 420.671390946262,
+            "PreviousYearPerCapitaDisposal": 421.0,
             "PreviousYearTotalDisposal": 28909.8,
             "EstimatedNumberOfHouseholds": 31581.0
         },
@@ -338,7 +338,7 @@
             "Name": "Central Okanagan",
             "Area Type": "RD",
             "Population": 254635,
-            "PreviousYearPerCapitaDisposal": 580.026457653849,
+            "PreviousYearPerCapitaDisposal": 580.0,
             "PreviousYearTotalDisposal": 146006.0,
             "EstimatedNumberOfHouseholds": 108992.0
         },
@@ -380,7 +380,7 @@
             "Name": "Columbia-Shuswap",
             "Area Type": "RD",
             "Population": 62795,
-            "PreviousYearPerCapitaDisposal": 641.64035832759,
+            "PreviousYearPerCapitaDisposal": 642.0,
             "PreviousYearTotalDisposal": 40039.0,
             "EstimatedNumberOfHouseholds": 27690.0
         },
@@ -422,7 +422,7 @@
             "Name": "Comox Valley",
             "Area Type": "RD",
             "Population": 131958,
-            "PreviousYearPerCapitaDisposal": 562.539677683358,
+            "PreviousYearPerCapitaDisposal": 563.0,
             "PreviousYearTotalDisposal": 73547.0,
             "EstimatedNumberOfHouseholds": 59691.0
         },
@@ -494,7 +494,7 @@
             "Name": "Cowichan Valley",
             "Area Type": "RD",
             "Population": 95822,
-            "PreviousYearPerCapitaDisposal": 437.993785690292,
+            "PreviousYearPerCapitaDisposal": 438.0,
             "PreviousYearTotalDisposal": 41725.04,
             "EstimatedNumberOfHouseholds": 40980.0
         },
@@ -536,7 +536,7 @@
             "Name": "East Kootenay",
             "Area Type": "RD",
             "Population": 72880,
-            "PreviousYearPerCapitaDisposal": 680.896407202139,
+            "PreviousYearPerCapitaDisposal": 681.0,
             "PreviousYearTotalDisposal": 49388.14,
             "EstimatedNumberOfHouseholds": 31727.0
         },
@@ -602,7 +602,7 @@
             "Name": "Fraser Valley",
             "Area Type": "RD",
             "Population": 369211,
-            "PreviousYearPerCapitaDisposal": 718.175189929267,
+            "PreviousYearPerCapitaDisposal": 718.0,
             "PreviousYearTotalDisposal": 260435.46,
             "EstimatedNumberOfHouseholds": 137268.0
         },
@@ -656,7 +656,7 @@
             "Name": "Fraser-Fort George",
             "Area Type": "RD",
             "Population": 107639,
-            "PreviousYearPerCapitaDisposal": 698.083163918379,
+            "PreviousYearPerCapitaDisposal": 698.0,
             "PreviousYearTotalDisposal": 74169.94,
             "EstimatedNumberOfHouseholds": 45188.0
         },
@@ -698,7 +698,7 @@
             "Name": "Kitimat-Stikine",
             "Area Type": "RD",
             "Population": 42423,
-            "PreviousYearPerCapitaDisposal": 626.4298470003379,
+            "PreviousYearPerCapitaDisposal": 626.0,
             "PreviousYearTotalDisposal": 25958.0,
             "EstimatedNumberOfHouseholds": 17468.0
         },
@@ -746,7 +746,7 @@
             "Name": "Kootenay Boundary",
             "Area Type": "RD",
             "Population": 35509,
-            "PreviousYearPerCapitaDisposal": 502.30542986425303,
+            "PreviousYearPerCapitaDisposal": 502.0,
             "PreviousYearTotalDisposal": 17761.52,
             "EstimatedNumberOfHouseholds": 16424.0
         },
@@ -812,7 +812,7 @@
             "Name": "Metro Vancouver",
             "Area Type": "RD",
             "Population": 3087023,
-            "PreviousYearPerCapitaDisposal": 422.1545093064293,
+            "PreviousYearPerCapitaDisposal": 422.0,
             "PreviousYearTotalDisposal": 1312447.13,
             "EstimatedNumberOfHouseholds": 1220939.0
         },
@@ -956,7 +956,7 @@
             "Name": "Mount Waddington",
             "Area Type": "RD",
             "Population": 11349,
-            "PreviousYearPerCapitaDisposal": 627.158881780737,
+            "PreviousYearPerCapitaDisposal": 627.0,
             "PreviousYearTotalDisposal": 7156.51,
             "EstimatedNumberOfHouseholds": 5231.0
         },
@@ -998,7 +998,7 @@
             "Name": "Nanaimo",
             "Area Type": "RD",
             "Population": 187662,
-            "PreviousYearPerCapitaDisposal": 426.126014796825,
+            "PreviousYearPerCapitaDisposal": 426.0,
             "PreviousYearTotalDisposal": 79311.0,
             "EstimatedNumberOfHouseholds": 84520.0
         },
@@ -1040,7 +1040,7 @@
             "Name": "North Coast",
             "Area Type": "RD",
             "Population": 19133,
-            "PreviousYearPerCapitaDisposal": 723.3679354094579,
+            "PreviousYearPerCapitaDisposal": 723.0,
             "PreviousYearTotalDisposal": 13797.52,
             "EstimatedNumberOfHouseholds": 8177.0
         },
@@ -1088,7 +1088,7 @@
             "Name": "North Okanagan",
             "Area Type": "RD",
             "Population": 100142,
-            "PreviousYearPerCapitaDisposal": 452.51503006012,
+            "PreviousYearPerCapitaDisposal": 453.0,
             "PreviousYearTotalDisposal": 45161.0,
             "EstimatedNumberOfHouseholds": 43027.0
         },
@@ -1142,7 +1142,7 @@
             "Name": "Northern Rockies",
             "Area Type": "RD",
             "Population": 4697,
-            "PreviousYearPerCapitaDisposal": 348.312863606981,
+            "PreviousYearPerCapitaDisposal": 348.0,
             "PreviousYearTotalDisposal": 1616.52,
             "EstimatedNumberOfHouseholds": 1954.0
         },
@@ -1166,7 +1166,7 @@
             "Name": "Okanagan-Similkameen",
             "Area Type": "RD",
             "Population": 94327,
-            "PreviousYearPerCapitaDisposal": 553.070960047704,
+            "PreviousYearPerCapitaDisposal": 553.0,
             "PreviousYearTotalDisposal": 51940.0,
             "EstimatedNumberOfHouseholds": 43859.0
         },
@@ -1220,7 +1220,7 @@
             "Name": "Peace River",
             "Area Type": "RD",
             "Population": 67857,
-            "PreviousYearPerCapitaDisposal": 763.013328583726,
+            "PreviousYearPerCapitaDisposal": 763.0,
             "PreviousYearTotalDisposal": 51407.26,
             "EstimatedNumberOfHouseholds": 26924.0
         },
@@ -1280,7 +1280,7 @@
             "Name": "qathet",
             "Area Type": "RD",
             "Population": 23039,
-            "PreviousYearPerCapitaDisposal": 494.930603747397,
+            "PreviousYearPerCapitaDisposal": 495.0,
             "PreviousYearTotalDisposal": 11411.12,
             "EstimatedNumberOfHouseholds": 11076.0
         },
@@ -1310,7 +1310,7 @@
             "Name": "Squamish-Lillooet",
             "Area Type": "RD",
             "Population": 56588,
-            "PreviousYearPerCapitaDisposal": 526.288696330161,
+            "PreviousYearPerCapitaDisposal": 526.0,
             "PreviousYearTotalDisposal": 29700.05,
             "EstimatedNumberOfHouseholds": 22376.0
         },
@@ -1352,7 +1352,7 @@
             "Name": "Sunshine Coast",
             "Area Type": "RD",
             "Population": 34589,
-            "PreviousYearPerCapitaDisposal": 344.860851262862,
+            "PreviousYearPerCapitaDisposal": 345.0,
             "PreviousYearTotalDisposal": 11797.0,
             "EstimatedNumberOfHouseholds": 16382.0
         },
@@ -1388,7 +1388,7 @@
             "Name": "Thompson-Nicola",
             "Area Type": "RD",
             "Population": 158059,
-            "PreviousYearPerCapitaDisposal": 492.83642589189,
+            "PreviousYearPerCapitaDisposal": 493.0,
             "PreviousYearTotalDisposal": 78299.88,
             "EstimatedNumberOfHouseholds": 67291.0
         },
