@@ -18,8 +18,10 @@ def filter_rd_fields(record):
     return {k: v for k, v in record.items() if k in allowed}
 
 def remove_rd_fields(record):
-    return {k: v for k, v in record.items()
-            if k not in RD_ONLY_FIELDS}
+    return {
+        k: v for k, v in record.items()
+        if k not in RD_ONLY_FIELDS
+    }
 
 def process_excel(file_path, output_json):
     xls = pd.ExcelFile(file_path)
@@ -34,6 +36,17 @@ def process_excel(file_path, output_json):
             "PreviousYearPerCaptiaDisposal":
                 "PreviousYearPerCapitaDisposal"
         }, inplace=True)
+
+        # NEW: Round per-capita disposal to whole numbers
+        if "PreviousYearPerCapitaDisposal" in df.columns:
+            df["PreviousYearPerCapitaDisposal"] = (
+                pd.to_numeric(
+                    df["PreviousYearPerCapitaDisposal"],
+                    errors="coerce"
+                )
+                .round(0)
+                .apply(lambda x: int(x) if pd.notna(x) else None)
+            )
 
         # Convert NaN values to None
         df = df.astype(object).where(pd.notna(df), None)
@@ -60,6 +73,7 @@ def process_excel(file_path, output_json):
             rd_info = filter_rd_fields(rd_row.to_dict())
 
             associated_areas = []
+
             for _, row in related_areas.iterrows():
                 area = remove_rd_fields(row.to_dict())
                 associated_areas.append(area)
@@ -69,6 +83,7 @@ def process_excel(file_path, output_json):
                 "Associated_Areas": associated_areas
             }
 
+    # Export valid JSON without NaN
     with open(output_json, "w", encoding="utf-8") as f:
         json.dump(
             final_data,
