@@ -3,6 +3,7 @@
         "Name": "Alberni-Clayoquot",
         "Area Type": "RD",
         "Population": 36303,
+        "PreviousYearPerCapitaDisposal": 574.954447573297,
         "PreviousYearTotalDisposal": 20826,
         "EstimatedNumberOfHouseholds": 16122,
         "Facilities": [
@@ -19,12 +20,38 @@
                 "SGC": 23000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 23008,
+                "Name": "Port Alberni",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 23025,
+                "Name": "Tofino",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 23019,
+                "Name": "Ucluelet",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 23999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Bulkley-Nechako",
         "Area Type": "RD",
         "Population": 39468,
+        "PreviousYearPerCapitaDisposal": 546.921379100388,
         "PreviousYearTotalDisposal": 21558,
         "EstimatedNumberOfHouseholds": 15989,
         "Facilities": [
@@ -47,12 +74,68 @@
                 "SGC": 51000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 51022,
+                "Name": "Burns Lake",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51013,
+                "Name": "Fort St. James",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51009,
+                "Name": "Fraser Lake",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51032,
+                "Name": "Granisle",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51034,
+                "Name": "Houston",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51043,
+                "Name": "Smithers",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51038,
+                "Name": "Telkwa",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51007,
+                "Name": "Vanderhoof",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 51999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Capital",
         "Area Type": "RD",
         "Population": 464082,
+        "PreviousYearPerCapitaDisposal": 341.479893204031,
         "PreviousYearTotalDisposal": 157189,
         "EstimatedNumberOfHouseholds": 210128,
         "Facilities": [
@@ -63,12 +146,98 @@
                 "SGC": 17000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 17015,
+                "Name": "Central Saanich",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17041,
+                "Name": "Colwood",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17040,
+                "Name": "Esquimalt",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17049,
+                "Name": "Highlands",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17044,
+                "Name": "Langford",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17042,
+                "Name": "Metchosin",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17005,
+                "Name": "North Saanich",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17030,
+                "Name": "Oak Bay",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17021,
+                "Name": "Saanich",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17010,
+                "Name": "Sidney",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17052,
+                "Name": "Sooke",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17034,
+                "Name": "Victoria",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17047,
+                "Name": "View Royal",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 17999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Cariboo",
         "Area Type": "RD",
         "Population": 67002,
+        "PreviousYearPerCapitaDisposal": 552.595470127692,
         "PreviousYearTotalDisposal": 36913.93,
         "EstimatedNumberOfHouseholds": 29538,
         "Facilities": [
@@ -169,13 +338,45 @@
                 "SGC": 41000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 41005,
+                "Name": "100 Mile House",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 41013,
+                "Name": "Quesnel",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 41025,
+                "Name": "Wells",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 41009,
+                "Name": "Williams Lake",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 41999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Central Coast",
         "Area Type": "RD",
         "Population": 3962,
-        "PreviousYearTotalDisposal": NaN,
+        "PreviousYearPerCapitaDisposal": null,
+        "PreviousYearTotalDisposal": null,
         "EstimatedNumberOfHouseholds": 1582,
         "Facilities": [
             {
@@ -209,7 +410,8 @@
         "Name": "Unincorporated Areas",
         "Area Type": "RD",
         "Population": 3962,
-        "PreviousYearTotalDisposal": NaN,
+        "PreviousYearPerCapitaDisposal": null,
+        "PreviousYearTotalDisposal": null,
         "EstimatedNumberOfHouseholds": 1582,
         "Associated_Areas": []
     },
@@ -217,6 +419,7 @@
         "Name": "Central Kootenay",
         "Area Type": "RD",
         "Population": 68593,
+        "PreviousYearPerCapitaDisposal": 420.671390946262,
         "PreviousYearTotalDisposal": 28909.8,
         "EstimatedNumberOfHouseholds": 31581,
         "Facilities": [
@@ -239,12 +442,74 @@
                 "SGC": 3000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 3045,
+                "Name": "Castlegar",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3004,
+                "Name": "Creston",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3023,
+                "Name": "Kaslo",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3050,
+                "Name": "Nakusp",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3015,
+                "Name": "Nelson",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3032,
+                "Name": "New Denver",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3011,
+                "Name": "Salmo",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3027,
+                "Name": "Silverton",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3019,
+                "Name": "Slocan",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 3999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Central Okanagan",
         "Area Type": "RD",
         "Population": 254635,
+        "PreviousYearPerCapitaDisposal": 580.026457653849,
         "PreviousYearTotalDisposal": 146006,
         "EstimatedNumberOfHouseholds": 108992,
         "Facilities": [
@@ -255,20 +520,84 @@
                 "SGC": 35000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 35010,
+                "Name": "Kelowna",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 35016,
+                "Name": "Lake Country",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 35018,
+                "Name": "Peachland",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 35029,
+                "Name": "West Kelowna",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 35999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Columbia-Shuswap",
         "Area Type": "RD",
         "Population": 62795,
+        "PreviousYearPerCapitaDisposal": 641.64035832759,
         "PreviousYearTotalDisposal": 40039,
         "EstimatedNumberOfHouseholds": 27690,
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 39007,
+                "Name": "Golden",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 39019,
+                "Name": "Revelstoke",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 39032,
+                "Name": "Salmon Arm",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 39045,
+                "Name": "Sicamous",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 39999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Comox Valley",
         "Area Type": "RD",
         "Population": 131958,
+        "PreviousYearPerCapitaDisposal": 562.539677683358,
         "PreviousYearTotalDisposal": 73547,
         "EstimatedNumberOfHouseholds": 59691,
         "Facilities": [
@@ -309,12 +638,74 @@
                 "SGC": 26000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 26005,
+                "Name": "Comox",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 26010,
+                "Name": "Courtenay",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 26014,
+                "Name": "Cumberland",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 26999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24034,
+                "Name": "Campbell River",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24025,
+                "Name": "Gold River",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24039,
+                "Name": "Sayward",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24030,
+                "Name": "Tahsis",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24029,
+                "Name": "Zeballos",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 24999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Cowichan Valley",
         "Area Type": "RD",
         "Population": 95822,
+        "PreviousYearPerCapitaDisposal": 437.993785690292,
         "PreviousYearTotalDisposal": 41725.04,
         "EstimatedNumberOfHouseholds": 40980,
         "Facilities": [
@@ -325,12 +716,44 @@
                 "SGC": 19000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 19012,
+                "Name": "Duncan",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 19021,
+                "Name": "Ladysmith",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 19016,
+                "Name": "Lake Cowichan",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 19008,
+                "Name": "North Cowichan",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 19999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "East Kootenay",
         "Area Type": "RD",
         "Population": 72880,
+        "PreviousYearPerCapitaDisposal": 680.896407202139,
         "PreviousYearTotalDisposal": 49388.14,
         "EstimatedNumberOfHouseholds": 31727,
         "Facilities": [
@@ -353,12 +776,68 @@
                 "SGC": 1000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 1043,
+                "Name": "Canal Flats",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1022,
+                "Name": "Cranbrook",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1003,
+                "Name": "Elkford",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1012,
+                "Name": "Fernie",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1039,
+                "Name": "Invermere",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1028,
+                "Name": "Kimberley",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1040,
+                "Name": "Radium Hot Springs",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1006,
+                "Name": "Sparwood",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 1999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Fraser Valley",
         "Area Type": "RD",
         "Population": 369211,
+        "PreviousYearPerCapitaDisposal": 718.175189929267,
         "PreviousYearTotalDisposal": 260435.46,
         "EstimatedNumberOfHouseholds": 137268,
         "Facilities": [
@@ -387,12 +866,56 @@
                 "SGC": 9000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 9052,
+                "Name": "Abbotsford",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9020,
+                "Name": "Chilliwack",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9027,
+                "Name": "Harrison Hot Springs",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9009,
+                "Name": "Hope",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9032,
+                "Name": "Kent",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9056,
+                "Name": "Mission",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 9999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Fraser-Fort George",
         "Area Type": "RD",
         "Population": 107639,
+        "PreviousYearPerCapitaDisposal": 698.083163918379,
         "PreviousYearTotalDisposal": 74169.94,
         "EstimatedNumberOfHouseholds": 45188,
         "Facilities": [
@@ -421,20 +944,90 @@
                 "SGC": 53000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 53033,
+                "Name": "Mackenzie",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 53012,
+                "Name": "McBride",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 53023,
+                "Name": "Prince George",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 53007,
+                "Name": "Valemount",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 53999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Kitimat-Stikine",
         "Area Type": "RD",
         "Population": 42423,
+        "PreviousYearPerCapitaDisposal": 626.4298470003379,
         "PreviousYearTotalDisposal": 25958,
         "EstimatedNumberOfHouseholds": 17468,
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 49022,
+                "Name": "Hazelton",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 49005,
+                "Name": "Kitimat",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 49024,
+                "Name": "New Hazelton",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 49032,
+                "Name": "Stewart",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 49011,
+                "Name": "Terrace",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 49999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Kootenay Boundary",
         "Area Type": "RD",
         "Population": 35509,
+        "PreviousYearPerCapitaDisposal": 502.30542986425303,
         "PreviousYearTotalDisposal": 17761.52,
         "EstimatedNumberOfHouseholds": 16424,
         "Facilities": [
@@ -457,12 +1050,68 @@
                 "SGC": 5000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 5005,
+                "Name": "Fruitvale",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5032,
+                "Name": "Grand Forks",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5042,
+                "Name": "Greenwood",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5037,
+                "Name": "Midway",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5009,
+                "Name": "Montrose",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5023,
+                "Name": "Rossland",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5014,
+                "Name": "Trail",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5018,
+                "Name": "Warfield",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 5999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Metro Vancouver",
         "Area Type": "RD",
         "Population": 3087023,
+        "PreviousYearPerCapitaDisposal": 422.1545093064293,
         "PreviousYearTotalDisposal": 1312447.13,
         "EstimatedNumberOfHouseholds": 1220939,
         "Facilities": [
@@ -485,12 +1134,146 @@
                 "SGC": 15000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 15038,
+                "Name": "Anmore",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15036,
+                "Name": "Belcarra",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15062,
+                "Name": "Bowen Island",
+                "Area Type": "IM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15025,
+                "Name": "Burnaby",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15034,
+                "Name": "Coquitlam",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15011,
+                "Name": "Delta",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15002,
+                "Name": "Langley, City of",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15001,
+                "Name": "Langley, District Municipality",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15065,
+                "Name": "Lions Bay",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15075,
+                "Name": "Maple Ridge",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15029,
+                "Name": "New Westminster",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15051,
+                "Name": "North Vancouver, City of",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15046,
+                "Name": "North Vancouver, District Municipality",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15070,
+                "Name": "Pitt Meadows",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15039,
+                "Name": "Port Coquitlam",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15043,
+                "Name": "Port Moody",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15015,
+                "Name": "Richmond",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15004,
+                "Name": "Surrey",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15022,
+                "Name": "Vancouver",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15055,
+                "Name": "West Vancouver",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15007,
+                "Name": "White Rock",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 15999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Mount Waddington",
         "Area Type": "RD",
         "Population": 11349,
+        "PreviousYearPerCapitaDisposal": 627.158881780737,
         "PreviousYearTotalDisposal": 7156.51,
         "EstimatedNumberOfHouseholds": 5231,
         "Facilities": [
@@ -501,12 +1284,44 @@
                 "SGC": 43000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 43008,
+                "Name": "Alert Bay",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 43017,
+                "Name": "Port Alice",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 43023,
+                "Name": "Port Hardy",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 43012,
+                "Name": "Port McNeill",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 43999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Nanaimo",
         "Area Type": "RD",
         "Population": 187662,
+        "PreviousYearPerCapitaDisposal": 426.126014796825,
         "PreviousYearTotalDisposal": 79311,
         "EstimatedNumberOfHouseholds": 84520,
         "Facilities": [
@@ -517,12 +1332,44 @@
                 "SGC": 21000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 21008,
+                "Name": "Lantzville",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 21007,
+                "Name": "Nanaimo",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 21018,
+                "Name": "Parksville",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 21023,
+                "Name": "Qualicum Beach",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 21999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "North Coast",
         "Area Type": "RD",
         "Population": 19133,
+        "PreviousYearPerCapitaDisposal": 723.3679354094579,
         "PreviousYearTotalDisposal": 13797.52,
         "EstimatedNumberOfHouseholds": 8177,
         "Facilities": [
@@ -539,12 +1386,50 @@
                 "SGC": 47000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 47026,
+                "Name": "Daajing Giids",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 47023,
+                "Name": "Masset",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 47030,
+                "Name": "Port Clements",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 47007,
+                "Name": "Port Edward",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 47012,
+                "Name": "Prince Rupert",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 47999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "North Okanagan",
         "Area Type": "RD",
         "Population": 100142,
+        "PreviousYearPerCapitaDisposal": 452.51503006012,
         "PreviousYearTotalDisposal": 45161,
         "EstimatedNumberOfHouseholds": 43027,
         "Facilities": [
@@ -567,12 +1452,56 @@
                 "SGC": 37000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 37028,
+                "Name": "Armstrong",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37010,
+                "Name": "Coldstream",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37033,
+                "Name": "Enderby",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37005,
+                "Name": "Lumby",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37024,
+                "Name": "Spallumcheen",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37014,
+                "Name": "Vernon",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 37999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Northern Rockies",
         "Area Type": "RD",
         "Population": 4697,
+        "PreviousYearPerCapitaDisposal": 348.312863606981,
         "PreviousYearTotalDisposal": 1616.52,
         "EstimatedNumberOfHouseholds": 1954,
         "Facilities": [
@@ -583,12 +1512,26 @@
                 "SGC": 59000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 59007,
+                "Name": "Northern Rockies Regional Municipality",
+                "Area Type": "RGM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 59999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Okanagan-Similkameen",
         "Area Type": "RD",
         "Population": 94327,
+        "PreviousYearPerCapitaDisposal": 553.070960047704,
         "PreviousYearTotalDisposal": 51940,
         "EstimatedNumberOfHouseholds": 43859,
         "Facilities": [
@@ -629,12 +1572,56 @@
                 "SGC": 7000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 7009,
+                "Name": "Keremeos",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7014,
+                "Name": "Oliver",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7005,
+                "Name": "Osoyoos",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7041,
+                "Name": "Penticton",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7024,
+                "Name": "Princeton",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7035,
+                "Name": "Summerland",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 7999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Peace River",
         "Area Type": "RD",
         "Population": 67857,
+        "PreviousYearPerCapitaDisposal": 763.013328583726,
         "PreviousYearTotalDisposal": 51407.26,
         "EstimatedNumberOfHouseholds": 26924,
         "Facilities": [
@@ -657,12 +1644,62 @@
                 "SGC": 55000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 55010,
+                "Name": "Chetwynd",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55014,
+                "Name": "Dawson Creek",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55034,
+                "Name": "Fort St. John",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55025,
+                "Name": "Hudson's Hope",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55005,
+                "Name": "Pouce Coupe",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55030,
+                "Name": "Taylor",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55003,
+                "Name": "Tumbler Ridge",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 55999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "qathet",
         "Area Type": "RD",
         "Population": 23039,
+        "PreviousYearPerCapitaDisposal": 494.930603747397,
         "PreviousYearTotalDisposal": 11411.12,
         "EstimatedNumberOfHouseholds": 11076,
         "Facilities": [
@@ -673,12 +1710,32 @@
                 "SGC": 27000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 27008,
+                "Name": "Powell River",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 27806,
+                "Name": "sh\u00edsh\u00e1lh Nation Gov Dist (Part-qathet)",
+                "Area Type": "IGD",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 27999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Squamish-Lillooet",
         "Area Type": "RD",
         "Population": 56588,
+        "PreviousYearPerCapitaDisposal": 526.288696330161,
         "PreviousYearTotalDisposal": 29700.05,
         "EstimatedNumberOfHouseholds": 22376,
         "Facilities": [
@@ -695,12 +1752,44 @@
                 "SGC": 31000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 31026,
+                "Name": "Lillooet",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 31012,
+                "Name": "Pemberton",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 31006,
+                "Name": "Squamish",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 31020,
+                "Name": "Whistler",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 31999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Sunshine Coast",
         "Area Type": "RD",
         "Population": 34589,
+        "PreviousYearPerCapitaDisposal": 344.860851262862,
         "PreviousYearTotalDisposal": 11797,
         "EstimatedNumberOfHouseholds": 16382,
         "Facilities": [
@@ -711,14 +1800,113 @@
                 "SGC": 29000
             }
         ],
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 29005,
+                "Name": "Gibsons",
+                "Area Type": "T",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 29011,
+                "Name": "Sechelt District Municipality",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 29803,
+                "Name": "sh\u00edsh\u00e1lh Nation Gov Dist (Part-Sunshine Coast)",
+                "Area Type": "IGD",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 29999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     },
     {
         "Name": "Thompson-Nicola",
         "Area Type": "RD",
         "Population": 158059,
+        "PreviousYearPerCapitaDisposal": 492.83642589189,
         "PreviousYearTotalDisposal": 78299.88,
         "EstimatedNumberOfHouseholds": 67291,
-        "Associated_Areas": []
+        "Associated_Areas": [
+            {
+                "SGC": 33019,
+                "Name": "Ashcroft",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33074,
+                "Name": "Barriere",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33024,
+                "Name": "Cache Creek",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33054,
+                "Name": "Chase",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33067,
+                "Name": "Clearwater",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33028,
+                "Name": "Clinton",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33042,
+                "Name": "Kamloops",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33035,
+                "Name": "Logan Lake",
+                "Area Type": "DM",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33015,
+                "Name": "Lytton",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33006,
+                "Name": "Merritt",
+                "Area Type": "CY",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33045,
+                "Name": "Sun Peaks Mountain",
+                "Area Type": "VL",
+                "Unnamed: 4": null
+            },
+            {
+                "SGC": 33999,
+                "Name": "Unincorporated Areas",
+                "Area Type": "RDR",
+                "Unnamed: 4": null
+            }
+        ]
     }
 ]
